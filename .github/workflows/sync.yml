@@ -1,0 +1,17 @@
+name: Sync Fork
+
+on:
+  workflow_dispatch:
+  push: # push 时触发, 主要是为了测试配置有没有问题
+  schedule:
+    - cron: '0 0/18 * * *' # 每 18 小时触发, 对于一些更新不那么频繁的项目可以设置为每天一次, 低碳一点
+jobs:
+  repo-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: tgymnich/fork-sync@v2.0
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          owner: Sekai-World
+          base: main
+          head: main
