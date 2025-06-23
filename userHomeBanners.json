@@ -1,29 +1,7 @@
 [
   {
-    "homeBannerId": 1297,
-    "seq": 190,
-    "homeBannerType": "general",
-    "name": "[25時、ナイトコードで。]ワールドリンクイベントサポートガチャ",
-    "assetbundleName": "banner_gacha747",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 747,
-    "startAt": 1748833200000,
-    "endAt": 1750647600000
-  },
-  {
-    "homeBannerId": 1298,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴWL2イベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha749",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 749,
-    "startAt": 1749438000000,
-    "endAt": 1750647599000
-  },
-  {
-    "homeBannerId": 1300,
-    "seq": 100,
+    "homeBannerId": 1301,
+    "seq": 170,
     "homeBannerType": "event",
     "name": "[イベント]ニーゴWL2イベ_イベントバナー",
     "assetbundleName": "event_wl_2nd_schoolrefusal_2025",
@@ -33,8 +11,8 @@
     "endAt": 1750676399000
   },
   {
-    "homeBannerId": 1305,
-    "seq": 130,
+    "homeBannerId": 1306,
+    "seq": 190,
     "homeBannerType": "general",
     "name": "[レオニ]ワールドリンクイベントサポートガチャ",
     "assetbundleName": "banner_gacha752",
@@ -53,5 +31,16 @@
     "transitionDestinationId": 382,
     "startAt": 1750572000000,
     "endAt": 1750690799000
+  },
+  {
+    "homeBannerId": 1309,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]レオニWL2イベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha757",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 757,
+    "startAt": 1750647600000,
+    "endAt": 1751857199000
   }
 ]
