@@ -913,6 +913,7 @@
     "title": "7月28日19時30分より「プロセカ放送局#22」を生配信！",
     "path": "information\/index.html?id=info_livebroadcast_22_20250728",
     "startAt": 1753066800000,
+    "endAt": 1753704000000,
     "bannerAssetbundleName": "banner_livebroadcast_v2_notice"
   },
   {
@@ -995,19 +996,6 @@
     "bannerAssetbundleName": "banner_news_present_over_2_million"
   },
   {
-    "id": 5089,
-    "seq": 1,
-    "displayOrder": 73700,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「ありのままのストーリーを」追加！",
-    "path": "information\/index.html?id=info_music_20250723",
-    "startAt": 1753250400000,
-    "endAt": 1753470000000
-  },
-  {
     "id": 5090,
     "seq": 1,
     "displayOrder": 73710,
@@ -1020,48 +1008,6 @@
     "startAt": 1753250400000,
     "endAt": 1754481600000,
     "bannerAssetbundleName": "banner_news_event174"
-  },
-  {
-    "id": 5091,
-    "seq": 1,
-    "displayOrder": 73720,
-    "informationType": "normal",
-    "informationTag": "campaign",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「[コネクトライブ Dreamscape]カウントダウンログインキャンペーン」開催について",
-    "path": "information\/index.html?id=info_login-campaign_dreamscape_notice",
-    "startAt": 1753326000000,
-    "endAt": 1753369200000,
-    "bannerAssetbundleName": "banner_news_logincampaign_dreamscape"
-  },
-  {
-    "id": 5092,
-    "seq": 1,
-    "displayOrder": 73730,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「HAPPY BIRTHDAYライブ 杏 2025」開催について",
-    "path": "information\/index.html?id=info_virtuallive390",
-    "startAt": 1753336800000,
-    "endAt": 1753596000000,
-    "bannerAssetbundleName": "banner_news_virtuallive390"
-  },
-  {
-    "id": 5093,
-    "seq": 1,
-    "displayOrder": 73740,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、[白石杏]HAPPY BIRTHDAYガチャ開催について",
-    "path": "information\/index.html?id=info_gacha772_notice",
-    "startAt": 1753336800000,
-    "endAt": 1753455600000,
-    "bannerAssetbundleName": "banner_news_gacha772"
   },
   {
     "id": 5094,
@@ -1090,48 +1036,6 @@
     "startAt": 1753455600000,
     "endAt": 1756620000000,
     "bannerAssetbundleName": "banner_news_gacha772"
-  },
-  {
-    "id": 5096,
-    "seq": 1,
-    "displayOrder": 73770,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「[Dreamscape 開催記念]プレミアムプレゼントガチャ 25時、ナイトコードで。 EDITION」開催について",
-    "path": "information\/index.html?id=info_gacha776_notice",
-    "startAt": 1753498800000,
-    "endAt": 1753585200000,
-    "bannerAssetbundleName": "banner_news_gacha776"
-  },
-  {
-    "id": 5097,
-    "seq": 1,
-    "displayOrder": 73780,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「[Dreamscape 開催記念]プレミアムプレゼントガチャ バーチャル・シンガー EDITION」開催について",
-    "path": "information\/index.html?id=info_gacha777_notice",
-    "startAt": 1753498800000,
-    "endAt": 1753585200000,
-    "bannerAssetbundleName": "banner_news_gacha777"
-  },
-  {
-    "id": 5098,
-    "seq": 1,
-    "displayOrder": 73790,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "明日7月27日より「コネクトライブ 25時、ナイトコードで。 × バーチャル・シンガー Dreamscape」開催！",
-    "path": "information\/index.html?id=info_virtuallive388_connectlive_remind",
-    "startAt": 1753509600000,
-    "endAt": 1753585200000,
-    "bannerAssetbundleName": "banner_news_virtuallive388_connectlive_nig_vs"
   },
   {
     "id": 5099,
@@ -1190,6 +1094,46 @@
     "bannerAssetbundleName": "banner_news_virtuallive388_connectlive_nig_vs"
   },
   {
+    "id": 5103,
+    "seq": 1,
+    "displayOrder": 73870,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【重要】ライブミッションの月初めリセットについて",
+    "path": "information\/index.html?id=livemission_reset_announce_202508",
+    "startAt": 1753671600000,
+    "endAt": 1753974000000
+  },
+  {
+    "id": 5104,
+    "seq": 1,
+    "displayOrder": 73880,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "楽曲「生きる」追加！",
+    "path": "information\/index.html?id=info_music_20250728",
+    "startAt": 1753682400000,
+    "endAt": 1753902000000
+  },
+  {
+    "id": 5105,
+    "seq": 1,
+    "displayOrder": 73890,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "本日より「プロジェクトセカイ COLORFUL LIVE 5th」チケットのアプリ内先行申込み開始！",
+    "path": "information\/index.html?id=info_sekarai-5th-20250728",
+    "startAt": 1753704000000,
+    "endAt": 1754233200000,
+    "bannerAssetbundleName": "banner_news_pjsekailive5th_01"
+  },
+  {
     "id": 5106,
     "seq": 1,
     "displayOrder": 27490,
@@ -1226,6 +1170,59 @@
     "title": "今後公開予定のサイドストーリーにおける鳳えむの一部ボイスについて",
     "path": "information\/index.html?id=info_said_story_voice_20250717",
     "startAt": 1752721200000
+  },
+  {
+    "id": 5109,
+    "seq": 1,
+    "displayOrder": 19700,
+    "informationType": "content",
+    "informationTag": "update",
+    "browseType": "external",
+    "platform": "all",
+    "title": "プロジェクトセカイ COLORFUL LIVE 5th サイトバナー",
+    "path": "https:\/\/pjsekai.sega.jp\/colorfullive\/5th-frontier\/index.html",
+    "startAt": 1753704000000,
+    "bannerAssetbundleName": "banner_news_pjsekailive5th_02"
+  },
+  {
+    "id": 5110,
+    "seq": 1,
+    "displayOrder": 73910,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "9月下旬より「プロセカ×たまごっち」コラボ開催決定！",
+    "path": "information\/index.html?id=info_tamagotchi_collab_notice",
+    "startAt": 1753704000000,
+    "bannerAssetbundleName": "banner_news_tamagotchi_collab_2025_notice"
+  },
+  {
+    "id": 5111,
+    "seq": 1,
+    "displayOrder": 73920,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "8月4日より「プロセカ×ペルソナ５ ザ・ロイヤル」タイアップ開催決定！",
+    "path": "information\/index.html?id=info_persona5royal_notice",
+    "startAt": 1753704000000,
+    "endAt": 1754276400000,
+    "bannerAssetbundleName": "banner_news_persona5royal_2025_notice"
+  },
+  {
+    "id": 5112,
+    "seq": 1,
+    "displayOrder": 73900,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "7月28日配信「プロセカ放送局#22」で発表された内容について",
+    "path": "information\/index.html?id=info_livebroadcast_summary_20250728",
+    "startAt": 1753704000000,
+    "endAt": 1756580400000
   },
   {
     "id": 5133,
