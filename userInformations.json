@@ -1395,6 +1395,76 @@
     "bannerAssetbundleName": "banner_news_gacha812"
   },
   {
+    "id": 5271,
+    "seq": 1,
+    "displayOrder": 75200,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、イベント「Wishes in Bloom！」開催について",
+    "path": "information\/index.html?id=info_event180_notice",
+    "startAt": 1758348000000,
+    "endAt": 1758798000000,
+    "bannerAssetbundleName": "banner_news_event180"
+  },
+  {
+    "id": 5272,
+    "seq": 1,
+    "displayOrder": 75190,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「[フィナーレチャプター]Dream a Wonder Dreamガチャ」開催！",
+    "path": "information\/index.html?id=info_gacha812_held",
+    "startAt": 1758337200000,
+    "endAt": 1761015600000,
+    "bannerAssetbundleName": "banner_news_gacha812"
+  },
+  {
+    "id": 5273,
+    "seq": 1,
+    "displayOrder": 75180,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、「[フィナーレチャプター]Night's Treasureガチャ」開催について",
+    "path": "information\/index.html?id=info_gacha813_notice",
+    "startAt": 1758337200000,
+    "endAt": 1758423600000,
+    "bannerAssetbundleName": "banner_news_gacha813"
+  },
+  {
+    "id": 5274,
+    "seq": 1,
+    "displayOrder": 75230,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「[フィナーレチャプター]Night's Treasureガチャ」開催！",
+    "path": "information\/index.html?id=info_gacha813_held",
+    "startAt": 1758423600000,
+    "endAt": 1761102000000,
+    "bannerAssetbundleName": "banner_news_gacha813"
+  },
+  {
+    "id": 5275,
+    "seq": 1,
+    "displayOrder": 75220,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、「[フィナーレチャプター]Another sparkle Starsガチャ」開催について",
+    "path": "information\/index.html?id=info_gacha814_notice",
+    "startAt": 1758423600000,
+    "endAt": 1758510000000,
+    "bannerAssetbundleName": "banner_news_gacha814"
+  },
+  {
     "id": 5279,
     "seq": 1,
     "displayOrder": 27730,
@@ -1417,5 +1487,17 @@
     "title": "アプリバージョン「v5.6.1」までに確認しているマイセカイの不具合について",
     "path": "information\/index.html?id=bug_summary_mysekai_to_v5-6-1",
     "startAt": 1758250800000
+  },
+  {
+    "id": 5281,
+    "seq": 1,
+    "displayOrder": 75210,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "ワールドリンクイベント「フィナーレチャプター」における家具ボーナス・一部スキルの制限について",
+    "path": "information\/index.html?id=info_finale-chapter2025_bonus_notice",
+    "startAt": 1758348000000
   }
 ]
