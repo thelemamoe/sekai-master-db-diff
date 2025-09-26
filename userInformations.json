@@ -1020,7 +1020,7 @@
     "title": "「[プロセカ×たまごっち]コラボ記念ログインストーリー」公開！",
     "path": "information\/index.html?id=info_loginstory_tamagotchi_collabo2025_held",
     "startAt": 1758250800000,
-    "endAt": 1759158000000,
+    "endAt": 1758866400000,
     "bannerAssetbundleName": "banner_news_specialLoginstory_tamagotchi_collabo"
   },
   {
@@ -1320,6 +1320,46 @@
     "bannerAssetbundleName": "banner_news_event180"
   },
   {
+    "id": 5293,
+    "seq": 1,
+    "displayOrder": 75440,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、「【5周年前夜祭】スペシャルプライズガチャ」開催について",
+    "path": "information\/index.html?id=info_gacha818_notice",
+    "startAt": 1758855600000,
+    "endAt": 1758942000000,
+    "bannerAssetbundleName": "banner_news_gacha_all"
+  },
+  {
+    "id": 5295,
+    "seq": 1,
+    "displayOrder": 75430,
+    "informationType": "normal",
+    "informationTag": "campaign",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、「もうすぐ5周年！カウントダウンログインキャンペーン」開催について",
+    "path": "information\/index.html?id=info_loginbonus_pre_5th-Aniv_notice",
+    "startAt": 1758855600000,
+    "endAt": 1758942000000,
+    "bannerAssetbundleName": "banner_news_pre_logincp_5th"
+  },
+  {
+    "id": 5303,
+    "seq": 1,
+    "displayOrder": 75450,
+    "informationType": "normal",
+    "informationTag": "update",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「v6.0.0」アップデートおよびメンテナンスのご案内",
+    "path": "information\/index.html?id=info_update_v6-0-0_forceupdate",
+    "startAt": 1758866400000
+  },
+  {
     "id": 5307,
     "seq": 1,
     "displayOrder": 75350,
@@ -1521,5 +1561,19 @@
     "title": "【9月25日21時45分追記】ワールドリンクイベント「フィナーレチャプター」で確認している不具合について",
     "path": "information\/index.html?id=bug_finalechapter2025_add2",
     "startAt": 1758804300000
+  },
+  {
+    "id": 5368,
+    "seq": 1,
+    "displayOrder": 75445,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【9月26日15時00分追記】「[プロセカ×たまごっち]コラボ記念ログインストーリー」公開！",
+    "path": "information\/index.html?id=info_loginstory_tamagotchi_collabo2025_held_add",
+    "startAt": 1758866400000,
+    "endAt": 1759158000000,
+    "bannerAssetbundleName": "banner_news_specialLoginstory_tamagotchi_collabo"
   }
 ]
