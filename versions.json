@@ -1,10 +1,10 @@
 {
-  "appHash": "4db9ee83-7a14-d864-4e07-43cd2887d6af",
+  "appHash": "07f81444-d8b8-574e-77da-34f55d41a302",
   "systemProfile": "production",
-  "appVersion": "5.6.1",
+  "appVersion": "6.0.2",
   "multiPlayVersion": "miku",
-  "assetVersion": "5.6.0.60",
+  "assetVersion": "6.0.0.40",
   "appVersionStatus": "available",
-  "dataVersion": "5.6.0.62",
-  "assetHash": "94e93f01-963c-d971-be63-8834d407e7f2"
+  "dataVersion": "6.0.0.40",
+  "assetHash": "7c61fb2e-0828-f838-cb70-e8fabb59af21"
 }

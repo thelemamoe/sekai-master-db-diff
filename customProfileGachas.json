@@ -16938,5 +16938,3890 @@
         "weight": 1
       }
     ]
+  },
+  {
+    "id": 60,
+    "name": "[復刻][ALL]「4th ANNIVERSARY Brilliant Stage」コレクションBOX",
+    "startAt": 1759244400000,
+    "assetbundleName": "resale_collection_gacha_4th_anv_live_01",
+    "description": "『[復刻][ALL]「4th ANNIVERSARY Brilliant Stage」コレクションBOX』が登場！\n\n『[復刻][ALL]「4th ANNIVERSARY Brilliant Stage」コレクションBOX』からはコレクションアイテムとして、缶バッジやアクリルスタンド、ライブグッズをモチーフとしたアイテムが出現します。\n獲得したコレクションアイテムは、「カスタムプロフィール」の素材として使用できるほか、「マイセカイ」でディスプレイとして飾ることができます。\n",
+    "notice": "・クリスタルは無償分から先に消費されます。\n・コレクションBOXで出現するコレクションは重複する場合があります。重複したコレクションについてはカスタムプロフィールやマイセカイで複数使用することができます。\n・コレクションBOXは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のコレクションが100回中1回必ず出現するという仕組みではありません。\n・コレクションBOXの提供割合につきましては、提供割合タブにてご確認ください。\n・提供割合タブで表示している確率は表示上小数点第5位にて四捨五入しているため、すべてを合算しても100％にならない場合があります。\n・コレクションBOX実行後に強制終了、もしくは回線が切断され正常に結果画面が表示されなかった場合でも、コレクションは獲得されております。カスタムプロフィールのコレクションやマイセカイのグッズからご確認ください。\n・開催スケジュールは予告なく変更する場合がございます。",
+    "customProfileGachaCategory": "permanent",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 178,
+        "customProfileGachaId": 60,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 179,
+        "customProfileGachaId": 60,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 180,
+        "customProfileGachaId": 60,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 1841,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 583,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1842,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 584,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1843,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 585,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1844,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 586,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1845,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 587,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1846,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 588,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1847,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 589,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1848,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 590,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1849,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 591,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1850,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 592,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1851,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 593,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1852,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 594,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1853,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 595,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1854,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 596,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1855,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 597,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1856,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 598,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1857,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 599,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1858,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 600,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1859,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 601,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1860,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 602,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1861,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 603,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1862,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 604,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1863,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 605,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1864,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 606,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1865,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 607,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1866,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 608,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1867,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 609,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1868,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 610,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1869,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 611,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1870,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 612,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1871,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 613,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1872,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 614,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1873,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 615,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1874,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 616,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1875,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 617,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1876,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 618,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1877,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 619,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1878,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 620,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1879,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 621,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1880,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 622,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1881,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 623,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1882,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 624,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1883,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 625,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1884,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 626,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1885,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 627,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1886,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 628,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1887,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 629,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1888,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 630,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1889,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 631,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1890,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 632,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1891,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 633,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1892,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 634,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1893,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 635,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1894,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 636,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1895,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 637,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1896,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 638,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1897,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 639,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1898,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 640,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1899,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 641,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1900,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 642,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1901,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 643,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1902,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 644,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1903,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 645,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1904,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 646,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1905,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 647,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1906,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 648,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1907,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 649,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1908,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 650,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1909,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 651,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1910,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 652,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1911,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 653,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1912,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 654,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1913,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 655,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1914,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 656,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1915,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 657,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1916,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 658,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1917,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 659,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1918,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 660,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1919,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 661,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1920,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 662,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1921,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 663,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1922,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 664,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1923,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 665,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1924,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 666,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1925,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 667,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1926,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 668,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1927,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 669,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1928,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 670,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1929,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 671,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1930,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 672,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1931,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 673,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1932,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 674,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1933,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 675,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1934,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 676,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1935,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 677,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1936,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 678,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1937,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 679,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1938,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 680,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1939,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 681,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1940,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 682,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1941,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 683,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1942,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 684,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1943,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 685,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1944,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 686,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1945,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 687,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1946,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 688,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1947,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 689,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1948,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 690,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1949,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 691,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1950,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 692,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1951,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 693,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1952,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 694,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1953,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 695,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1954,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 696,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1955,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 697,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1956,
+        "customProfileGachaId": 60,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 698,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "[復刻][バーチャル・シンガー]「4th ANNIVERSARY Brilliant Stage」コレクションBOX",
+    "startAt": 1759244400000,
+    "assetbundleName": "resale_collection_gacha_4th_anv_live_02",
+    "description": "『[復刻][バーチャル・シンガー]「4th ANNIVERSARY Brilliant Stage」コレクションBOX』が登場！\n\n『[復刻][バーチャル・シンガー]「4th ANNIVERSARY Brilliant Stage」コレクションBOX』からはコレクションアイテムとして、「バーチャル・シンガー」メンバーの缶バッジやアクリルスタンド、ライブグッズをモチーフとしたアイテムが出現します。\n獲得したコレクションアイテムは、「カスタムプロフィール」の素材として使用できるほか、「マイセカイ」でディスプレイとして飾ることができます。\n",
+    "notice": "・クリスタルは無償分から先に消費されます。\n・コレクションBOXで出現するコレクションは重複する場合があります。重複したコレクションについてはカスタムプロフィールやマイセカイで複数使用することができます。\n・コレクションBOXは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のコレクションが100回中1回必ず出現するという仕組みではありません。\n・コレクションBOXの提供割合につきましては、提供割合タブにてご確認ください。\n・提供割合タブで表示している確率は表示上小数点第5位にて四捨五入しているため、すべてを合算しても100％にならない場合があります。\n・コレクションBOX実行後に強制終了、もしくは回線が切断され正常に結果画面が表示されなかった場合でも、コレクションは獲得されております。カスタムプロフィールのコレクションやマイセカイのグッズからご確認ください。\n・開催スケジュールは予告なく変更する場合がございます。",
+    "customProfileGachaCategory": "permanent",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 181,
+        "customProfileGachaId": 61,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 182,
+        "customProfileGachaId": 61,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 183,
+        "customProfileGachaId": 61,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 1957,
+        "customProfileGachaId": 61,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 583,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1958,
+        "customProfileGachaId": 61,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 584,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1959,
+        "customProfileGachaId": 61,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 585,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1960,
+        "customProfileGachaId": 61,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 586,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1961,
+        "customProfileGachaId": 61,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 587,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1962,
+        "customProfileGachaId": 61,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 588,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1963,
+        "customProfileGachaId": 61,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 589,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1964,
+        "customProfileGachaId": 61,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 590,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1965,
+        "customProfileGachaId": 61,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 591,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1966,
+        "customProfileGachaId": 61,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 592,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1967,
+        "customProfileGachaId": 61,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 593,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1968,
+        "customProfileGachaId": 61,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 594,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1969,
+        "customProfileGachaId": 61,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 595,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1970,
+        "customProfileGachaId": 61,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 596,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1971,
+        "customProfileGachaId": 61,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 597,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1972,
+        "customProfileGachaId": 61,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 598,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "[復刻][Leo\/need]「4th ANNIVERSARY Brilliant Stage」コレクションBOX",
+    "startAt": 1759244400000,
+    "assetbundleName": "resale_collection_gacha_4th_anv_live_03",
+    "description": "『[復刻][Leo\/need]「4th ANNIVERSARY Brilliant Stage」コレクションBOX』が登場！\n\n『[復刻][Leo\/need]「4th ANNIVERSARY Brilliant Stage」コレクションBOX』からはコレクションアイテムとして、「Leo\/need」と「[教室のセカイ]のバーチャル・シンガー」メンバーの缶バッジやアクリルスタンド、ライブグッズをモチーフとしたアイテムが出現します。\n獲得したコレクションアイテムは、「カスタムプロフィール」の素材として使用できるほか、「マイセカイ」でディスプレイとして飾ることができます。\n",
+    "notice": "・クリスタルは無償分から先に消費されます。\n・コレクションBOXで出現するコレクションは重複する場合があります。重複したコレクションについてはカスタムプロフィールやマイセカイで複数使用することができます。\n・コレクションBOXは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のコレクションが100回中1回必ず出現するという仕組みではありません。\n・コレクションBOXの提供割合につきましては、提供割合タブにてご確認ください。\n・提供割合タブで表示している確率は表示上小数点第5位にて四捨五入しているため、すべてを合算しても100％にならない場合があります。\n・コレクションBOX実行後に強制終了、もしくは回線が切断され正常に結果画面が表示されなかった場合でも、コレクションは獲得されております。カスタムプロフィールのコレクションやマイセカイのグッズからご確認ください。\n・開催スケジュールは予告なく変更する場合がございます。",
+    "customProfileGachaCategory": "permanent",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 184,
+        "customProfileGachaId": 62,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 185,
+        "customProfileGachaId": 62,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 186,
+        "customProfileGachaId": 62,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 1973,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 583,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1974,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 584,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1975,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 585,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1976,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 586,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1977,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 599,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1978,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 600,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1979,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 601,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1980,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 602,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1981,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 603,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1982,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 604,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1983,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 605,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1984,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 606,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1985,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 607,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1986,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 608,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1987,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 609,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1988,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 610,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1989,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 611,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1990,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 612,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1991,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 613,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1992,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 614,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1993,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 615,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1994,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 616,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1995,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 617,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1996,
+        "customProfileGachaId": 62,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 618,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "[復刻][MORE MORE JUMP！]「4th ANNIVERSARY Brilliant Stage」コレクションBOX",
+    "startAt": 1759244400000,
+    "assetbundleName": "resale_collection_gacha_4th_anv_live_04",
+    "description": "『[復刻][MORE MORE JUMP！]「4th ANNIVERSARY Brilliant Stage」コレクションBOX』が登場！\n\n『[復刻][MORE MORE JUMP！]「4th ANNIVERSARY Brilliant Stage」コレクションBOX』からはコレクションアイテムとして、「MORE MORE JUMP！」と「[ステージのセカイ]のバーチャル・シンガー」メンバーの缶バッジやアクリルスタンド、ライブグッズをモチーフとしたアイテムが出現します。\n獲得したコレクションアイテムは、「カスタムプロフィール」の素材として使用できるほか、「マイセカイ」でディスプレイとして飾ることができます。\n",
+    "notice": "・クリスタルは無償分から先に消費されます。\n・コレクションBOXで出現するコレクションは重複する場合があります。重複したコレクションについてはカスタムプロフィールやマイセカイで複数使用することができます。\n・コレクションBOXは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のコレクションが100回中1回必ず出現するという仕組みではありません。\n・コレクションBOXの提供割合につきましては、提供割合タブにてご確認ください。\n・提供割合タブで表示している確率は表示上小数点第5位にて四捨五入しているため、すべてを合算しても100％にならない場合があります。\n・コレクションBOX実行後に強制終了、もしくは回線が切断され正常に結果画面が表示されなかった場合でも、コレクションは獲得されております。カスタムプロフィールのコレクションやマイセカイのグッズからご確認ください。\n・開催スケジュールは予告なく変更する場合がございます。",
+    "customProfileGachaCategory": "permanent",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 187,
+        "customProfileGachaId": 63,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 188,
+        "customProfileGachaId": 63,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 189,
+        "customProfileGachaId": 63,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 1997,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 583,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1998,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 584,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 1999,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 585,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2000,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 586,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2001,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 619,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2002,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 620,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2003,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 621,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2004,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 622,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2005,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 623,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2006,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 624,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2007,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 625,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2008,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 626,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2009,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 627,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2010,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 628,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2011,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 629,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2012,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 630,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2013,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 631,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2014,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 632,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2015,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 633,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2016,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 634,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2017,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 635,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2018,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 636,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2019,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 637,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2020,
+        "customProfileGachaId": 63,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 638,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "[復刻][Vivid BAD SQUAD]「4th ANNIVERSARY Brilliant Stage」コレクションBOX",
+    "startAt": 1759244400000,
+    "assetbundleName": "resale_collection_gacha_4th_anv_live_05",
+    "description": "『[復刻][Vivid BAD SQUAD]「4th ANNIVERSARY Brilliant Stage」コレクションBOX』が登場！\n\n『[復刻][Vivid BAD SQUAD]「4th ANNIVERSARY Brilliant Stage」コレクションBOX』からはコレクションアイテムとして、「Vivid BAD SQUAD」と「[ストリートのセカイ]のバーチャル・シンガー」メンバーの缶バッジやアクリルスタンド、ライブグッズをモチーフとしたアイテムが出現します。\n獲得したコレクションアイテムは、「カスタムプロフィール」の素材として使用できるほか、「マイセカイ」でディスプレイとして飾ることができます。\n",
+    "notice": "・クリスタルは無償分から先に消費されます。\n・コレクションBOXで出現するコレクションは重複する場合があります。重複したコレクションについてはカスタムプロフィールやマイセカイで複数使用することができます。\n・コレクションBOXは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のコレクションが100回中1回必ず出現するという仕組みではありません。\n・コレクションBOXの提供割合につきましては、提供割合タブにてご確認ください。\n・提供割合タブで表示している確率は表示上小数点第5位にて四捨五入しているため、すべてを合算しても100％にならない場合があります。\n・コレクションBOX実行後に強制終了、もしくは回線が切断され正常に結果画面が表示されなかった場合でも、コレクションは獲得されております。カスタムプロフィールのコレクションやマイセカイのグッズからご確認ください。\n・開催スケジュールは予告なく変更する場合がございます。",
+    "customProfileGachaCategory": "permanent",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 190,
+        "customProfileGachaId": 64,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 191,
+        "customProfileGachaId": 64,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 192,
+        "customProfileGachaId": 64,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2021,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 583,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2022,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 584,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2023,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 585,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2024,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 586,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2025,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 639,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2026,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 640,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2027,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 641,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2028,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 642,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2029,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 643,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2030,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 644,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2031,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 645,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2032,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 646,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2033,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 647,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2034,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 648,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2035,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 649,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2036,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 650,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2037,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 651,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2038,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 652,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2039,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 653,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2040,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 654,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2041,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 655,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2042,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 656,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2043,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 657,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2044,
+        "customProfileGachaId": 64,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 658,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "[復刻][ワンダーランズ×ショウタイム]「4th ANNIVERSARY Brilliant Stage」コレクションBOX",
+    "startAt": 1759244400000,
+    "assetbundleName": "resale_collection_gacha_4th_anv_live_06",
+    "description": "『[復刻][ワンダーランズ×ショウタイム]「4th ANNIVERSARY Brilliant Stage」コレクションBOX』が登場！\n\n『[復刻][ワンダーランズ×ショウタイム]「4th ANNIVERSARY Brilliant Stage」コレクションBOX』からは\nコレクションアイテムとして、「ワンダーランズ×ショウタイム」と「[ワンダーランドのセカイ]のバーチャル・シンガー」メンバーの缶バッジやアクリルスタンド、ライブグッズをモチーフとしたアイテムが出現します。\n獲得したコレクションアイテムは、「カスタムプロフィール」の素材として使用できるほか、「マイセカイ」でディスプレイとして飾ることができます。\n",
+    "notice": "・クリスタルは無償分から先に消費されます。\n・コレクションBOXで出現するコレクションは重複する場合があります。重複したコレクションについてはカスタムプロフィールやマイセカイで複数使用することができます。\n・コレクションBOXは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のコレクションが100回中1回必ず出現するという仕組みではありません。\n・コレクションBOXの提供割合につきましては、提供割合タブにてご確認ください。\n・提供割合タブで表示している確率は表示上小数点第5位にて四捨五入しているため、すべてを合算しても100％にならない場合があります。\n・コレクションBOX実行後に強制終了、もしくは回線が切断され正常に結果画面が表示されなかった場合でも、コレクションは獲得されております。カスタムプロフィールのコレクションやマイセカイのグッズからご確認ください。\n・開催スケジュールは予告なく変更する場合がございます。",
+    "customProfileGachaCategory": "permanent",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 193,
+        "customProfileGachaId": 65,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 194,
+        "customProfileGachaId": 65,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 195,
+        "customProfileGachaId": 65,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2045,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 583,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2046,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 584,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2047,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 585,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2048,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 586,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2049,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 659,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2050,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 660,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2051,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 661,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2052,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 662,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2053,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 663,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2054,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 664,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2055,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 665,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2056,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 666,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2057,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 667,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2058,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 668,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2059,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 669,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2060,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 670,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2061,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 671,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2062,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 672,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2063,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 673,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2064,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 674,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2065,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 675,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2066,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 676,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2067,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 677,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2068,
+        "customProfileGachaId": 65,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 678,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "[復刻][25時、ナイトコードで。]「4th ANNIVERSARY Brilliant Stage」コレクションBOX",
+    "startAt": 1759244400000,
+    "assetbundleName": "resale_collection_gacha_4th_anv_live_07",
+    "description": "『[復刻][25時、ナイトコードで。]「4th ANNIVERSARY Brilliant Stage」コレクションBOX』が登場！\n\n『[復刻][25時、ナイトコードで。]「4th ANNIVERSARY Brilliant Stage」コレクションBOX』からはコレクションアイテムとして、「25時、ナイトコードで。」と「[誰もいないセカイ]のバーチャル・シンガー」メンバーの缶バッジやアクリルスタンド、ライブグッズをモチーフとしたアイテムが出現します。\n獲得したコレクションアイテムは、「カスタムプロフィール」の素材として使用できるほか、「マイセカイ」でディスプレイとして飾ることができます。\n",
+    "notice": "・クリスタルは無償分から先に消費されます。\n・コレクションBOXで出現するコレクションは重複する場合があります。重複したコレクションについてはカスタムプロフィールやマイセカイで複数使用することができます。\n・コレクションBOXは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のコレクションが100回中1回必ず出現するという仕組みではありません。\n・コレクションBOXの提供割合につきましては、提供割合タブにてご確認ください。\n・提供割合タブで表示している確率は表示上小数点第5位にて四捨五入しているため、すべてを合算しても100％にならない場合があります。\n・コレクションBOX実行後に強制終了、もしくは回線が切断され正常に結果画面が表示されなかった場合でも、コレクションは獲得されております。カスタムプロフィールのコレクションやマイセカイのグッズからご確認ください。\n・開催スケジュールは予告なく変更する場合がございます。",
+    "customProfileGachaCategory": "permanent",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 196,
+        "customProfileGachaId": 66,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 197,
+        "customProfileGachaId": 66,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 198,
+        "customProfileGachaId": 66,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2069,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 583,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2070,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 584,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2071,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 585,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2072,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 586,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2073,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 679,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2074,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 680,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2075,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 681,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2076,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 682,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2077,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 683,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2078,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 684,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2079,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 685,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2080,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 686,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2081,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 687,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2082,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 688,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2083,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 689,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2084,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 690,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2085,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 691,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2086,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 692,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2087,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 693,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2088,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 694,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2089,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 695,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2090,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 696,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2091,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 697,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2092,
+        "customProfileGachaId": 66,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 698,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "[ALL]「5th ANNIVERSARY 感謝祭」コレクションBOX",
+    "startAt": 1760756400000,
+    "endAt": 1761447599000,
+    "assetbundleName": "collection_gacha_5th_live_anv_all",
+    "description": "『[ALL]「5th ANNIVERSARY 感謝祭」コレクションBOX』が登場！\n\n『[ALL]「5th ANNIVERSARY 感謝祭」コレクションBOX』からはコレクションアイテムとして、「5th ANNIVERSARY 感謝祭」をモチーフとしたアイテムが出現します。\n獲得したコレクションアイテムは、「カスタムプロフィール」の素材として使用できるほか、「マイセカイ」でディスプレイとして飾ることができます。\n",
+    "notice": "・クリスタルは無償分から先に消費されます。\n・コレクションBOXで出現するコレクションは重複する場合があります。重複したコレクションについてはカスタムプロフィールやマイセカイで複数使用することができます。\n・コレクションBOXは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のコレクションが100回中1回必ず出現するという仕組みではありません。\n・コレクションBOXの提供割合につきましては、提供割合タブにてご確認ください。\n・提供割合タブで表示している確率は表示上小数点第5位にて四捨五入しているため、すべてを合算しても100％にならない場合があります。\n・コレクションBOX実行後に強制終了、もしくは回線が切断され正常に結果画面が表示されなかった場合でも、コレクションは獲得されております。カスタムプロフィールのコレクションやマイセカイのグッズからご確認ください。\n・本コレクションBOXで登場した期間限定コレクションは今後再登場する可能性があります。再登場予定については現在未定です。\n・開催スケジュールは予告なく変更する場合がございます。",
+    "customProfileGachaCategory": "temporary",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 199,
+        "customProfileGachaId": 67,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 200,
+        "customProfileGachaId": 67,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 201,
+        "customProfileGachaId": 67,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2093,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 867,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2094,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 868,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2095,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 869,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2096,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 870,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2097,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 871,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2098,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 872,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2099,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 873,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2100,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 874,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2101,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 875,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2102,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 876,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2103,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 877,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2104,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 878,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2105,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 879,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2106,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 880,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2107,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 881,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2108,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 882,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2109,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 883,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2110,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 884,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2111,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 885,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2112,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 886,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2113,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 887,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2114,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 888,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2115,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 889,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2116,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 890,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2117,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 891,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2118,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 892,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2119,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 893,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2120,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 894,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2121,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 895,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2122,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 896,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2123,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 897,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2124,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 898,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2125,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 899,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2126,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 900,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2127,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 901,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2128,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 902,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2129,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 903,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2130,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 904,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2131,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 905,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2132,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 906,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2133,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 907,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2134,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 908,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2135,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 909,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2136,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 910,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2137,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 911,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2138,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 912,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2139,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 913,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2140,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 914,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2141,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 915,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2142,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 916,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2143,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 917,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2144,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 918,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2145,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 919,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2146,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 920,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2147,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 921,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2148,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 922,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2149,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 923,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2150,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 924,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2151,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 925,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2152,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 926,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2153,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 927,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2154,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 928,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2155,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 929,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2156,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 930,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2157,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 931,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2158,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 932,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2159,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 933,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2160,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 934,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2161,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 935,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2162,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 936,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2163,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 937,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2164,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 938,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2165,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 939,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2166,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 940,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2167,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 941,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2168,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 942,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2169,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 943,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2170,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 944,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2171,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 945,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2172,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 946,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2173,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 947,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2174,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 948,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2175,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 949,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2176,
+        "customProfileGachaId": 67,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 950,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "[バーチャル・シンガー]「5th ANNIVERSARY 感謝祭」コレクションBOX",
+    "startAt": 1760756400000,
+    "endAt": 1761447599000,
+    "assetbundleName": "collection_gacha_5th_live_anv_01",
+    "description": "『[バーチャル・シンガー]「5th ANNIVERSARY 感謝祭」コレクションBOX』が登場！\n\n『[バーチャル・シンガー]「5th ANNIVERSARY 感謝祭」コレクションBOX』からはコレクションアイテムとして、「バーチャル・シンガー」メンバーの「5th ANNIVERSARY 感謝祭」をモチーフとしたアイテムが出現します。\n獲得したコレクションアイテムは、「カスタムプロフィール」の素材として使用できるほか、「マイセカイ」でディスプレイとして飾ることができます。\n",
+    "notice": "・クリスタルは無償分から先に消費されます。\n・コレクションBOXで出現するコレクションは重複する場合があります。重複したコレクションについてはカスタムプロフィールやマイセカイで複数使用することができます。\n・コレクションBOXは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のコレクションが100回中1回必ず出現するという仕組みではありません。\n・コレクションBOXの提供割合につきましては、提供割合タブにてご確認ください。\n・提供割合タブで表示している確率は表示上小数点第5位にて四捨五入しているため、すべてを合算しても100％にならない場合があります。\n・コレクションBOX実行後に強制終了、もしくは回線が切断され正常に結果画面が表示されなかった場合でも、コレクションは獲得されております。カスタムプロフィールのコレクションやマイセカイのグッズからご確認ください。\n・本コレクションBOXで登場した期間限定コレクションは今後再登場する可能性があります。再登場予定については現在未定です。\n・開催スケジュールは予告なく変更する場合がございます。                      ",
+    "customProfileGachaCategory": "temporary",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 202,
+        "customProfileGachaId": 68,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 203,
+        "customProfileGachaId": 68,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 204,
+        "customProfileGachaId": 68,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2177,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 867,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2178,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 873,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2179,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 874,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2180,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 875,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2181,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 876,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2182,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 877,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2183,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 878,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2184,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 879,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2185,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 880,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2186,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 881,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2187,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 882,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2188,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 883,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2189,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 884,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2190,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 885,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2191,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 886,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2192,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 887,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2193,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 888,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2194,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 889,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2195,
+        "customProfileGachaId": 68,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 890,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "[Leo\/need]「5th ANNIVERSARY 感謝祭」コレクションBOX",
+    "startAt": 1760756400000,
+    "endAt": 1761447599000,
+    "assetbundleName": "collection_gacha_5th_live_anv_02",
+    "description": "『[Leo\/need]「5th ANNIVERSARY 感謝祭」コレクションBOX』が登場！\n\n『[Leo\/need]「5th ANNIVERSARY 感謝祭」コレクションBOX』からはコレクションアイテムとして、「Leo\/need」メンバーの「5th ANNIVERSARY 感謝祭」をモチーフとしたアイテムが出現します。\n獲得したコレクションアイテムは、「カスタムプロフィール」の素材として使用できるほか、「マイセカイ」でディスプレイとして飾ることができます。\n",
+    "notice": "・クリスタルは無償分から先に消費されます。\n・コレクションBOXで出現するコレクションは重複する場合があります。重複したコレクションについてはカスタムプロフィールやマイセカイで複数使用することができます。\n・コレクションBOXは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のコレクションが100回中1回必ず出現するという仕組みではありません。\n・コレクションBOXの提供割合につきましては、提供割合タブにてご確認ください。\n・提供割合タブで表示している確率は表示上小数点第5位にて四捨五入しているため、すべてを合算しても100％にならない場合があります。\n・コレクションBOX実行後に強制終了、もしくは回線が切断され正常に結果画面が表示されなかった場合でも、コレクションは獲得されております。カスタムプロフィールのコレクションやマイセカイのグッズからご確認ください。\n・本コレクションBOXで登場した期間限定コレクションは今後再登場する可能性があります。再登場予定については現在未定です。\n・開催スケジュールは予告なく変更する場合がございます。                      ",
+    "customProfileGachaCategory": "temporary",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 205,
+        "customProfileGachaId": 69,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 206,
+        "customProfileGachaId": 69,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 207,
+        "customProfileGachaId": 69,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2196,
+        "customProfileGachaId": 69,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 868,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2197,
+        "customProfileGachaId": 69,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 891,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2198,
+        "customProfileGachaId": 69,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 892,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2199,
+        "customProfileGachaId": 69,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 893,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2200,
+        "customProfileGachaId": 69,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 894,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2201,
+        "customProfileGachaId": 69,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 895,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2202,
+        "customProfileGachaId": 69,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 896,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2203,
+        "customProfileGachaId": 69,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 897,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2204,
+        "customProfileGachaId": 69,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 898,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2205,
+        "customProfileGachaId": 69,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 899,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2206,
+        "customProfileGachaId": 69,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 900,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2207,
+        "customProfileGachaId": 69,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 901,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2208,
+        "customProfileGachaId": 69,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 902,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "[MORE MORE JUMP！]「5th ANNIVERSARY 感謝祭」コレクションBOX",
+    "startAt": 1760756400000,
+    "endAt": 1761447599000,
+    "assetbundleName": "collection_gacha_5th_live_anv_03",
+    "description": "『[MORE MORE JUMP！]「5th ANNIVERSARY 感謝祭」コレクションBOX』が登場！\n\n『[MORE MORE JUMP！]「5th ANNIVERSARY 感謝祭」コレクションBOX』からはコレクションアイテムとして、「MORE MORE JUMP！」メンバーの「5th ANNIVERSARY 感謝祭」をモチーフとしたアイテムが出現します。\n獲得したコレクションアイテムは、「カスタムプロフィール」の素材として使用できるほか、「マイセカイ」でディスプレイとして飾ることができます。\n",
+    "notice": "・クリスタルは無償分から先に消費されます。\n・コレクションBOXで出現するコレクションは重複する場合があります。重複したコレクションについてはカスタムプロフィールやマイセカイで複数使用することができます。\n・コレクションBOXは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のコレクションが100回中1回必ず出現するという仕組みではありません。\n・コレクションBOXの提供割合につきましては、提供割合タブにてご確認ください。\n・提供割合タブで表示している確率は表示上小数点第5位にて四捨五入しているため、すべてを合算しても100％にならない場合があります。\n・コレクションBOX実行後に強制終了、もしくは回線が切断され正常に結果画面が表示されなかった場合でも、コレクションは獲得されております。カスタムプロフィールのコレクションやマイセカイのグッズからご確認ください。\n・本コレクションBOXで登場した期間限定コレクションは今後再登場する可能性があります。再登場予定については現在未定です。\n・開催スケジュールは予告なく変更する場合がございます。",
+    "customProfileGachaCategory": "temporary",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 208,
+        "customProfileGachaId": 70,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 209,
+        "customProfileGachaId": 70,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 210,
+        "customProfileGachaId": 70,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2209,
+        "customProfileGachaId": 70,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 869,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2210,
+        "customProfileGachaId": 70,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 903,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2211,
+        "customProfileGachaId": 70,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 904,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2212,
+        "customProfileGachaId": 70,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 905,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2213,
+        "customProfileGachaId": 70,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 906,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2214,
+        "customProfileGachaId": 70,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 907,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2215,
+        "customProfileGachaId": 70,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 908,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2216,
+        "customProfileGachaId": 70,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 909,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2217,
+        "customProfileGachaId": 70,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 910,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2218,
+        "customProfileGachaId": 70,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 911,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2219,
+        "customProfileGachaId": 70,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 912,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2220,
+        "customProfileGachaId": 70,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 913,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2221,
+        "customProfileGachaId": 70,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 914,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "[Vivid BAD SQUAD]「5th ANNIVERSARY 感謝祭」コレクションBOX",
+    "startAt": 1760756400000,
+    "endAt": 1761447599000,
+    "assetbundleName": "collection_gacha_5th_live_anv_04",
+    "description": "『[Vivid BAD SQUAD]「5th ANNIVERSARY 感謝祭」コレクションBOX』が登場！\n\n『[Vivid BAD SQUAD]「5th ANNIVERSARY 感謝祭」コレクションBOX』からはコレクションアイテムとして、「Vivid BAD SQUAD」メンバーの「5th ANNIVERSARY 感謝祭」をモチーフとしたアイテムが出現します。\n獲得したコレクションアイテムは、「カスタムプロフィール」の素材として使用できるほか、「マイセカイ」でディスプレイとして飾ることができます。\n",
+    "notice": "・クリスタルは無償分から先に消費されます。\n・コレクションBOXで出現するコレクションは重複する場合があります。重複したコレクションについてはカスタムプロフィールやマイセカイで複数使用することができます。\n・コレクションBOXは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のコレクションが100回中1回必ず出現するという仕組みではありません。\n・コレクションBOXの提供割合につきましては、提供割合タブにてご確認ください。\n・提供割合タブで表示している確率は表示上小数点第5位にて四捨五入しているため、すべてを合算しても100％にならない場合があります。\n・コレクションBOX実行後に強制終了、もしくは回線が切断され正常に結果画面が表示されなかった場合でも、コレクションは獲得されております。カスタムプロフィールのコレクションやマイセカイのグッズからご確認ください。\n・本コレクションBOXで登場した期間限定コレクションは今後再登場する可能性があります。再登場予定については現在未定です。\n・開催スケジュールは予告なく変更する場合がございます。",
+    "customProfileGachaCategory": "temporary",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 211,
+        "customProfileGachaId": 71,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 212,
+        "customProfileGachaId": 71,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 213,
+        "customProfileGachaId": 71,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2222,
+        "customProfileGachaId": 71,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 870,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2223,
+        "customProfileGachaId": 71,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 915,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2224,
+        "customProfileGachaId": 71,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 916,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2225,
+        "customProfileGachaId": 71,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 917,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2226,
+        "customProfileGachaId": 71,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 918,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2227,
+        "customProfileGachaId": 71,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 919,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2228,
+        "customProfileGachaId": 71,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 920,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2229,
+        "customProfileGachaId": 71,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 921,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2230,
+        "customProfileGachaId": 71,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 922,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2231,
+        "customProfileGachaId": 71,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 923,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2232,
+        "customProfileGachaId": 71,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 924,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2233,
+        "customProfileGachaId": 71,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 925,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2234,
+        "customProfileGachaId": 71,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 926,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "[ワンダーランズ×ショウタイム]「5th ANNIVERSARY 感謝祭」コレクションBOX",
+    "startAt": 1760756400000,
+    "endAt": 1761447599000,
+    "assetbundleName": "collection_gacha_5th_live_anv_05",
+    "description": "『[ワンダーランズ×ショウタイム]「5th ANNIVERSARY 感謝祭」コレクションBOX』が登場！\n\n『[ワンダーランズ×ショウタイム]「5th ANNIVERSARY 感謝祭」コレクションBOX』からは\nコレクションアイテムとして、「ワンダーランズ×ショウタイム」メンバーの「5th ANNIVERSARY 感謝祭」をモチーフとしたアイテムが出現します。\n獲得したコレクションアイテムは、「カスタムプロフィール」の素材として使用できるほか、「マイセカイ」でディスプレイとして飾ることができます。\n",
+    "notice": "・クリスタルは無償分から先に消費されます。\n・コレクションBOXで出現するコレクションは重複する場合があります。重複したコレクションについてはカスタムプロフィールやマイセカイで複数使用することができます。\n・コレクションBOXは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のコレクションが100回中1回必ず出現するという仕組みではありません。\n・コレクションBOXの提供割合につきましては、提供割合タブにてご確認ください。\n・提供割合タブで表示している確率は表示上小数点第5位にて四捨五入しているため、すべてを合算しても100％にならない場合があります。\n・コレクションBOX実行後に強制終了、もしくは回線が切断され正常に結果画面が表示されなかった場合でも、コレクションは獲得されております。カスタムプロフィールのコレクションやマイセカイのグッズからご確認ください。\n・本コレクションBOXで登場した期間限定コレクションは今後再登場する可能性があります。再登場予定については現在未定です。\n・開催スケジュールは予告なく変更する場合がございます。",
+    "customProfileGachaCategory": "temporary",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 214,
+        "customProfileGachaId": 72,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 215,
+        "customProfileGachaId": 72,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 216,
+        "customProfileGachaId": 72,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2235,
+        "customProfileGachaId": 72,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 871,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2236,
+        "customProfileGachaId": 72,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 927,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2237,
+        "customProfileGachaId": 72,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 928,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2238,
+        "customProfileGachaId": 72,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 929,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2239,
+        "customProfileGachaId": 72,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 930,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2240,
+        "customProfileGachaId": 72,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 931,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2241,
+        "customProfileGachaId": 72,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 932,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2242,
+        "customProfileGachaId": 72,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 933,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2243,
+        "customProfileGachaId": 72,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 934,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2244,
+        "customProfileGachaId": 72,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 935,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2245,
+        "customProfileGachaId": 72,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 936,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2246,
+        "customProfileGachaId": 72,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 937,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2247,
+        "customProfileGachaId": 72,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 938,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "[25時、ナイトコードで。]「5th ANNIVERSARY 感謝祭」コレクションBOX",
+    "startAt": 1760756400000,
+    "endAt": 1761447599000,
+    "assetbundleName": "collection_gacha_5th_live_anv_06",
+    "description": "『[25時、ナイトコードで。]「5th ANNIVERSARY 感謝祭」コレクションBOX』が登場！\n\n『[25時、ナイトコードで。]「5th ANNIVERSARY 感謝祭」コレクションBOX』からはコレクションアイテムとして、「25時、ナイトコードで。」メンバーの「5th ANNIVERSARY 感謝祭」をモチーフとしたアイテムが出現します。\n獲得したコレクションアイテムは、「カスタムプロフィール」の素材として使用できるほか、「マイセカイ」でディスプレイとして飾ることができます。\n",
+    "notice": "・クリスタルは無償分から先に消費されます。\n・コレクションBOXで出現するコレクションは重複する場合があります。重複したコレクションについてはカスタムプロフィールやマイセカイで複数使用することができます。\n・コレクションBOXは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のコレクションが100回中1回必ず出現するという仕組みではありません。\n・コレクションBOXの提供割合につきましては、提供割合タブにてご確認ください。\n・提供割合タブで表示している確率は表示上小数点第5位にて四捨五入しているため、すべてを合算しても100％にならない場合があります。\n・コレクションBOX実行後に強制終了、もしくは回線が切断され正常に結果画面が表示されなかった場合でも、コレクションは獲得されております。カスタムプロフィールのコレクションやマイセカイのグッズからご確認ください。\n・本コレクションBOXで登場した期間限定コレクションは今後再登場する可能性があります。再登場予定については現在未定です。\n・開催スケジュールは予告なく変更する場合がございます。",
+    "customProfileGachaCategory": "temporary",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 217,
+        "customProfileGachaId": 73,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 218,
+        "customProfileGachaId": 73,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 219,
+        "customProfileGachaId": 73,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2248,
+        "customProfileGachaId": 73,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 872,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2249,
+        "customProfileGachaId": 73,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 939,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2250,
+        "customProfileGachaId": 73,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 940,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2251,
+        "customProfileGachaId": 73,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 941,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2252,
+        "customProfileGachaId": 73,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 942,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2253,
+        "customProfileGachaId": 73,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 943,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2254,
+        "customProfileGachaId": 73,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 944,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2255,
+        "customProfileGachaId": 73,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 945,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2256,
+        "customProfileGachaId": 73,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 946,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2257,
+        "customProfileGachaId": 73,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 947,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2258,
+        "customProfileGachaId": 73,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 948,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2259,
+        "customProfileGachaId": 73,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 949,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 2260,
+        "customProfileGachaId": 73,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 950,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      }
+    ]
   }
 ]
