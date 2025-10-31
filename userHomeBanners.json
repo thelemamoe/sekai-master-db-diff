@@ -11,30 +11,8 @@
     "url": "https:\/\/pjsekai.sega.jp\/index.html?from=official_store_banner"
   },
   {
-    "homeBannerId": 1411,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "[ガチャ]無料ガチャバナー",
-    "assetbundleName": "banner_gacha834",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 834,
-    "startAt": 1759158000000,
-    "endAt": 1761879600000
-  },
-  {
-    "homeBannerId": 1426,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]モモジャン箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha846",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 846,
-    "startAt": 1761015600000,
-    "endAt": 1761879599000
-  },
-  {
-    "homeBannerId": 1428,
-    "seq": 100,
+    "homeBannerId": 1429,
+    "seq": 170,
     "homeBannerType": "event",
     "name": "[イベント]モモジャン箱イベ_イベントバナー",
     "assetbundleName": "event_colorcross_2025",
@@ -42,17 +20,6 @@
     "transitionDestinationId": 183,
     "startAt": 1761026400000,
     "endAt": 1761890399000
-  },
-  {
-    "homeBannerId": 1432,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "[望月穂波]HAPPY BIRTHDAYイベント",
-    "assetbundleName": "banner_birthday_honami_2025",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 5450,
-    "startAt": 1761231600000,
-    "endAt": 1761750000000
   },
   {
     "homeBannerId": 1433,
@@ -64,5 +31,16 @@
     "transitionDestinationId": 849,
     "startAt": 1761534000000,
     "endAt": 1762311599000
+  },
+  {
+    "homeBannerId": 1435,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha850",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 850,
+    "startAt": 1761879600000,
+    "endAt": 1762743599000
   }
 ]
