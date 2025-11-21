@@ -1328,7 +1328,8 @@
     "platform": "all",
     "title": "11月21日メンテナンス実施のお知らせ",
     "path": "information\/index.html?id=info_maintenance_20251121",
-    "startAt": 1763521200000
+    "startAt": 1763521200000,
+    "endAt": 1763692200000
   },
   {
     "id": 5557,
@@ -1340,7 +1341,32 @@
     "platform": "all",
     "title": "【11月20日13時30分追記】「v6.1.2」アップデートのご案内",
     "path": "information\/index.html?id=info_update6-1-2_update_add1",
-    "startAt": 1763613000000
+    "startAt": 1763613000000,
+    "endAt": 1763692200000
+  },
+  {
+    "id": 5558,
+    "seq": 1,
+    "displayOrder": 82090,
+    "informationType": "normal",
+    "informationTag": "update",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【11月21日11時30分追記】「v6.1.2」アップデートのご案内",
+    "path": "information\/index.html?id=info_update6-1-2_update_add2",
+    "startAt": 1763692200000
+  },
+  {
+    "id": 5559,
+    "seq": 1,
+    "displayOrder": 82080,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【11月21日11時30分追記】11月21日メンテナンス実施のお知らせ",
+    "path": "information\/index.html?id=info_maintenance_20251121_end",
+    "startAt": 1763692200000
   },
   {
     "id": 5560,
@@ -1369,6 +1395,61 @@
     "startAt": 1763607600000
   },
   {
+    "id": 5562,
+    "seq": 1,
+    "displayOrder": 82130,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「プロセカ×悪ノ大罪シリーズ」コラボ復刻開催！",
+    "path": "information\/index.html?id=info_Akuno_revival2_collaboration_20250215",
+    "startAt": 1763694000000,
+    "endAt": 1764946800000
+  },
+  {
+    "id": 5563,
+    "seq": 1,
+    "displayOrder": 82120,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「[復刻]罪の回顧録ガチャ」開催！",
+    "path": "information\/index.html?id=info_gacha862_held",
+    "startAt": 1763694000000,
+    "endAt": 1767495600000,
+    "bannerAssetbundleName": "banner_news_gacha862"
+  },
+  {
+    "id": 5564,
+    "seq": 1,
+    "displayOrder": 82110,
+    "informationType": "normal",
+    "informationTag": "campaign",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「[復刻][プロセカ×悪ノ大罪シリーズ]コラボ記念ログインキャンペーン」開催！",
+    "path": "information\/index.html?id=info_loginbonus_Akuno_revival2_held",
+    "startAt": 1763694000000,
+    "endAt": 1764946800000,
+    "bannerAssetbundleName": "banner_news_collaboration_akuno_revival_2025"
+  },
+  {
+    "id": 5565,
+    "seq": 1,
+    "displayOrder": 82100,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「[復刻][プロセカ×悪ノ大罪シリーズ]コラボ記念ログインストーリー」公開！",
+    "path": "information\/index.html?id=info_special-story_Akuno_revival2",
+    "startAt": 1763694000000,
+    "endAt": 1764946800000,
+    "bannerAssetbundleName": "banner_akunoCollabo_loginstory_2025"
+  },
+  {
     "id": 5589,
     "seq": 1,
     "displayOrder": 28140,
@@ -1378,6 +1459,45 @@
     "platform": "all",
     "title": "【11月20日23時30分追記】一部セカイで確認しているミニキャラクターの表示不具合と、ライブリザルトで進行不能になる場合がある不具合について",
     "path": "information\/index.html?id=bug_area_20251120_add1",
-    "startAt": 1763649000000
+    "startAt": 1763649000000,
+    "endAt": 1763713800000
+  },
+  {
+    "id": 5590,
+    "seq": 1,
+    "displayOrder": 28150,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【11月21日17時30分追記】一部セカイで確認しているミニキャラクターの表示不具合と、ライブリザルトで進行不能になる場合がある不具合について",
+    "path": "information\/index.html?id=bug_area_20251120_add2",
+    "startAt": 1763713800000
+  },
+  {
+    "id": 5591,
+    "seq": 1,
+    "displayOrder": 82150,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【アイテムのお礼付き】アンケートへのご協力のお願い",
+    "path": "information\/index.html?id=info_questionnaire_20251121",
+    "startAt": 1763715600000,
+    "endAt": 1763996400000
+  },
+  {
+    "id": 5592,
+    "seq": 1,
+    "displayOrder": 82140,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "external",
+    "platform": "all",
+    "title": "【回答時間：約5分】アンケートはコチラ！",
+    "path": "https:\/\/questant.jp\/q\/H5D03R5I?id={userId}",
+    "startAt": 1763715600000,
+    "endAt": 1763996400000
   }
 ]
