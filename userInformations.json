@@ -829,20 +829,6 @@
     "bannerAssetbundleName": "banner_news_gacha901"
   },
   {
-    "id": 5780,
-    "seq": 1,
-    "displayOrder": 84020,
-    "informationType": "normal",
-    "informationTag": "event",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "イベント「粉砕せよ！アンヴァレンタインの復讐」開催！",
-    "path": "information\/index.html?id=info_event194_held",
-    "startAt": 1769839200000,
-    "endAt": 1771329600000,
-    "bannerAssetbundleName": "banner_news_event194"
-  },
-  {
     "id": 5781,
     "seq": 1,
     "displayOrder": 84030,
@@ -1009,19 +995,6 @@
     "bannerAssetbundleName": "banner_news_birthday_kanade_2026"
   },
   {
-    "id": 5815,
-    "seq": 1,
-    "displayOrder": 84330,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "2月10日11時30分ごろに追加したコンテンツのご案内",
-    "path": "information\/index.html?id=info_add_contents_20260210",
-    "startAt": 1770690600000,
-    "endAt": 1771268400000
-  },
-  {
     "id": 5818,
     "seq": 1,
     "displayOrder": 84340,
@@ -1061,19 +1034,6 @@
     "startAt": 1770703200000,
     "endAt": 1772107200000,
     "bannerAssetbundleName": "banner_news_event195"
-  },
-  {
-    "id": 5821,
-    "seq": 1,
-    "displayOrder": 84370,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "1月26日配信「プロセカ放送局#28」のチャレンジ達成報酬プレゼント！",
-    "path": "information\/index.html?id=info_x-post-present_20260126",
-    "startAt": 1770714000000,
-    "endAt": 1771268400000
   },
   {
     "id": 5824,
@@ -1168,19 +1128,20 @@
     "platform": "all",
     "title": "【2月13日11時30分追記】アプリバージョン「v6.3.0」までに確認している不具合について",
     "path": "information\/index.html?id=bug_summary_to_v6-3-0_add6",
-    "startAt": 1770949800000
+    "startAt": 1770949800000,
+    "endAt": 1771396200000
   },
   {
     "id": 5837,
     "seq": 1,
-    "displayOrder": 84460,
+    "displayOrder": 84600,
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
     "platform": "all",
-    "title": "2月20日19時30分より「プロセカ放送局#29」を生配信！",
-    "path": "information\/index.html?id=info_livebroadcast_29_20260220",
-    "startAt": 1770951600000,
+    "title": "【2月18日18時00分追記】2月20日19時30分より「プロセカ放送局#29」を生配信！",
+    "path": "information\/index.html?id=info_livebroadcast_29_20260220_add1",
+    "startAt": 1771405200000,
     "bannerAssetbundleName": "banner_livebroadcast_v2_notice"
   },
   {
@@ -1197,19 +1158,6 @@
     "endAt": 1772132400000
   },
   {
-    "id": 5840,
-    "seq": 1,
-    "displayOrder": 84530,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「幕を下ろそう、パレードへ」追加！",
-    "path": "information\/index.html?id=info_music_20260214",
-    "startAt": 1771048800000,
-    "endAt": 1771268400000
-  },
-  {
     "id": 5841,
     "seq": 1,
     "displayOrder": 84540,
@@ -1221,19 +1169,6 @@
     "path": "information\/index.html?id=info_music_20260215",
     "startAt": 1771135200000,
     "endAt": 1771354800000
-  },
-  {
-    "id": 5842,
-    "seq": 1,
-    "displayOrder": 28450,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【2月16日11時30分追記】アプリバージョン「v6.3.0」までに確認しているマイセカイの不具合について",
-    "path": "information\/index.html?id=bug_summary_mysekai_to_v6-3-0_add6",
-    "startAt": 1771209000000,
-    "endAt": 1771299000000
   },
   {
     "id": 5843,
@@ -1262,6 +1197,20 @@
     "endAt": 1771527600000
   },
   {
+    "id": 5845,
+    "seq": 1,
+    "displayOrder": 84570,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、イベント「CHANGE！えむは王女さま！？」開催について",
+    "path": "information\/index.html?id=info_event196_notice",
+    "startAt": 1771394400000,
+    "endAt": 1771480800000,
+    "bannerAssetbundleName": "banner_news_event196"
+  },
+  {
     "id": 5846,
     "seq": 1,
     "displayOrder": 28460,
@@ -1272,5 +1221,43 @@
     "title": "【2月17日12時30分追記】アプリバージョン「v6.3.0」までに確認しているマイセカイの不具合について",
     "path": "information\/index.html?id=bug_summary_mysekai_to_v6-3-0_add7",
     "startAt": 1771299000000
+  },
+  {
+    "id": 5847,
+    "seq": 1,
+    "displayOrder": 28470,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【2月18日15時30分追記】アプリバージョン「v6.3.0」までに確認している不具合について",
+    "path": "information\/index.html?id=bug_summary_to_v6-3-0_add7",
+    "startAt": 1771396200000
+  },
+  {
+    "id": 5848,
+    "seq": 1,
+    "displayOrder": 84580,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "2月18日15時30分ごろに追加したコンテンツのご案内",
+    "path": "information\/index.html?id=info_add_contents_20260218",
+    "startAt": 1771396200000,
+    "endAt": 1771959600000
+  },
+  {
+    "id": 5849,
+    "seq": 1,
+    "displayOrder": 84590,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "2月18日15時30分ごろに追加した[マイセカイ]新規家具のご案内",
+    "path": "information\/index.html?id=info_housing_20260218",
+    "startAt": 1771396200000,
+    "endAt": 1771959600000
   }
 ]
