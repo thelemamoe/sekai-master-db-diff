@@ -873,20 +873,6 @@
     "bannerAssetbundleName": "banner_news_gacha906"
   },
   {
-    "id": 5820,
-    "seq": 1,
-    "displayOrder": 84360,
-    "informationType": "normal",
-    "informationTag": "event",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "イベント「Path made by faith」開催！",
-    "path": "information\/index.html?id=info_event195_held",
-    "startAt": 1770703200000,
-    "endAt": 1772107200000,
-    "bannerAssetbundleName": "banner_news_event195"
-  },
-  {
     "id": 5824,
     "seq": 1,
     "displayOrder": 84400,
@@ -1064,34 +1050,6 @@
     "bannerAssetbundleName": "banner_news_gacha912"
   },
   {
-    "id": 5861,
-    "seq": 1,
-    "displayOrder": 84720,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "[期間限定]楽曲「幽玄ノ乱」追加！",
-    "path": "information\/index.html?id=info_music_20260223",
-    "startAt": 1771826400000,
-    "endAt": 1772046000000,
-    "bannerAssetbundleName": "banner_news_taiko_music-cp"
-  },
-  {
-    "id": 5862,
-    "seq": 1,
-    "displayOrder": 84760,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「[小豆沢こはね]HAPPY BIRTHDAYガチャ」「[小豆沢こはね]HAPPY BIRTHDAYメモリーズガチャ」開催について",
-    "path": "information\/index.html?id=info_gacha913_notice",
-    "startAt": 1771999200000,
-    "endAt": 1772031600000,
-    "bannerAssetbundleName": "banner_news_gacha913"
-  },
-  {
     "id": 5863,
     "seq": 1,
     "displayOrder": 84770,
@@ -1157,7 +1115,8 @@
     "platform": "all",
     "title": "【2月20日11時30分追記】アプリバージョン「v6.3.0」までに確認しているマイセカイの不具合について",
     "path": "information\/index.html?id=bug_summary_mysekai_to_v6-3-0_add8",
-    "startAt": 1771554600000
+    "startAt": 1771554600000,
+    "endAt": 1772159400000
   },
   {
     "id": 5869,
@@ -1169,7 +1128,8 @@
     "platform": "all",
     "title": "【2月20日11時30分追記】アプリバージョン「v6.3.0」までに確認している不具合について",
     "path": "information\/index.html?id=bug_summary_to_v6-3-0_add9",
-    "startAt": 1771554600000
+    "startAt": 1771554600000,
+    "endAt": 1772159400000
   },
   {
     "id": 5870,
@@ -1193,7 +1153,8 @@
     "platform": "all",
     "title": "「v6.3.5」アップデートおよびメンテナンスのご案内",
     "path": "information\/index.html?id=info_update_v6-3-5_notice",
-    "startAt": 1771923600000
+    "startAt": 1771923600000,
+    "endAt": 1772159400000
   },
   {
     "id": 5872,
@@ -1231,6 +1192,96 @@
     "platform": "all",
     "title": "称号ミッション「APPENDをのぞく全難易度で〇曲クリアしよう。」において、特定手順で期間限定楽曲もカウントに計上されてしまう不具合について",
     "path": "information\/index.html?id=bug_achievement_mission_20260226",
-    "startAt": 1772107200000
+    "startAt": 1772107200000,
+    "endAt": 1772186400000
+  },
+  {
+    "id": 5875,
+    "seq": 1,
+    "displayOrder": 84810,
+    "informationType": "normal",
+    "informationTag": "update",
+    "browseType": "internal",
+    "platform": "all",
+    "title": " 【2月27日11時30分追記】「v6.3.5」アップデートおよびメンテナンスのご案内",
+    "path": "information\/index.html?id=info_update_v6-3-5_forceupdate",
+    "startAt": 1772159400000,
+    "endAt": 1774206000000
+  },
+  {
+    "id": 5876,
+    "seq": 1,
+    "displayOrder": 84800,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "2月27日11時30分ごろに追加したコンテンツのご案内",
+    "path": "information\/index.html?id=info_add_contents_20260227",
+    "startAt": 1772159400000,
+    "endAt": 1772737200000
+  },
+  {
+    "id": 5877,
+    "seq": 1,
+    "displayOrder": 28530,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "アプリバージョン「v6.3.5」までに確認しているマイセカイの不具合について",
+    "path": "information\/index.html?id=bug_summary_mysekai_to_v6-3-5",
+    "startAt": 1772159400000
+  },
+  {
+    "id": 5878,
+    "seq": 1,
+    "displayOrder": 28520,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "アプリバージョン「v6.3.5」までに確認している不具合について",
+    "path": "information\/index.html?id=bug_summary_to_v6-3-5",
+    "startAt": 1772159400000
+  },
+  {
+    "id": 5879,
+    "seq": 1,
+    "displayOrder": 84820,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、イベント「悪夢の庭を歌い明かして」開催について",
+    "path": "information\/index.html?id=info_event197_notice",
+    "startAt": 1772172000000,
+    "endAt": 1772258400000,
+    "bannerAssetbundleName": "banner_news_event197"
+  },
+  {
+    "id": 5880,
+    "seq": 1,
+    "displayOrder": 84830,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "2月20日配信「プロセカ放送局#29」のチャレンジ達成報酬プレゼント！",
+    "path": "information\/index.html?id=info_x-post-present_20260220",
+    "startAt": 1772182800000,
+    "endAt": 1772737200000
+  },
+  {
+    "id": 5890,
+    "seq": 1,
+    "displayOrder": 28540,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": " 【2月27日19時10分追記】称号ミッション「APPENDをのぞく全難易度で〇曲クリアしよう。」において、特定手順で期間限定楽曲もカウントに計上されてしまう不具合について",
+    "path": "information\/index.html?id=bug_achievement_mission_20260226_add",
+    "startAt": 1772187000000
   }
 ]
