@@ -11,17 +11,6 @@
     "url": "https:\/\/pjsekai.sega.jp\/index.html"
   },
   {
-    "homeBannerId": 1634,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]VSシャッフルイベ_イベントバナー",
-    "assetbundleName": "event_partytime_2026",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 215,
-    "startAt": 1787983200000,
-    "endAt": 1788674399000
-  },
-  {
     "homeBannerId": 1638,
     "seq": 10,
     "homeBannerType": "general",
@@ -64,5 +53,16 @@
     "transitionDestinationId": 4002,
     "startAt": 1788663600000,
     "endAt": 1789354799000
+  },
+  {
+    "homeBannerId": 1642,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ビビバス箱イベ（彰人）_イベントバナー",
+    "assetbundleName": "event_afterfire_2026",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 216,
+    "startAt": 1788674400000,
+    "endAt": 1789365599000
   }
 ]
