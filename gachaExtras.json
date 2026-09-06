@@ -353,5 +353,35 @@
     "id": 71,
     "resourceBoxId": 71,
     "gachaExtraResourceDisplayType": "normal"
+  },
+  {
+    "id": 72,
+    "resourceBoxId": 72,
+    "gachaExtraResourceDisplayType": "normal"
+  },
+  {
+    "id": 73,
+    "resourceBoxId": 73,
+    "gachaExtraResourceDisplayType": "normal"
+  },
+  {
+    "id": 74,
+    "resourceBoxId": 74,
+    "gachaExtraResourceDisplayType": "normal"
+  },
+  {
+    "id": 75,
+    "resourceBoxId": 75,
+    "gachaExtraResourceDisplayType": "normal"
+  },
+  {
+    "id": 76,
+    "resourceBoxId": 76,
+    "gachaExtraResourceDisplayType": "normal"
+  },
+  {
+    "id": 77,
+    "resourceBoxId": 77,
+    "gachaExtraResourceDisplayType": "normal"
   }
 ]

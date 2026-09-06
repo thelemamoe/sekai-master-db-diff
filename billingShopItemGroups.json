@@ -782,5 +782,173 @@
       400022,
       400023
     ]
+  },
+  {
+    "id": 57,
+    "name": "「お花見」衣装",
+    "assetbundleName": "shop_301000",
+    "seq": 301000,
+    "billingShopItemType": "costume_3d",
+    "billingShopItemIds": [
+      301000,
+      301001,
+      301002,
+      301003,
+      301004
+    ]
+  },
+  {
+    "id": 58,
+    "name": "[カラフェススタイル] ぬいぐるみの設計図（2025年4月）",
+    "assetbundleName": "shop_400030",
+    "seq": 400030,
+    "billingShopItemType": "mysekai_blueprint",
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 4,
+    "billingShopItemIds": [
+      400030,
+      400031,
+      400032,
+      400033
+    ]
+  },
+  {
+    "id": 59,
+    "name": "「ヘルシー」衣装",
+    "assetbundleName": "shop_301020",
+    "seq": 301020,
+    "billingShopItemType": "costume_3d",
+    "billingShopItemIds": [
+      301020,
+      301021,
+      301022,
+      301023,
+      301024
+    ]
+  },
+  {
+    "id": 60,
+    "name": "[カラフェススタイル] ぬいぐるみの設計図（2025年5月）",
+    "assetbundleName": "shop_400040",
+    "seq": 400040,
+    "billingShopItemType": "mysekai_blueprint",
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 5,
+    "billingShopItemIds": [
+      400040,
+      400041,
+      400042,
+      400043
+    ]
+  },
+  {
+    "id": 61,
+    "name": "「カフェ」衣装",
+    "assetbundleName": "shop_301030",
+    "seq": 301030,
+    "billingShopItemType": "costume_3d",
+    "billingShopItemIds": [
+      301030,
+      301031,
+      301032,
+      301033,
+      301034
+    ]
+  },
+  {
+    "id": 62,
+    "name": "[リミテッドスタイル vol.1] ぬいぐるみの設計図（2025年6月）",
+    "assetbundleName": "shop_400050",
+    "seq": 400050,
+    "billingShopItemType": "mysekai_blueprint",
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 6,
+    "billingShopItemIds": [
+      400050,
+      400051,
+      400052,
+      400053
+    ]
+  },
+  {
+    "id": 63,
+    "name": "「天空の楽園・ショートケーキの紳士」衣装",
+    "assetbundleName": "shop_301040",
+    "seq": 301030,
+    "billingShopItemType": "costume_3d",
+    "billingShopItemIds": [
+      301040,
+      301041,
+      301042,
+      301043,
+      301044
+    ]
+  },
+  {
+    "id": 64,
+    "name": "[リミテッドスタイル vol.1] ぬいぐるみの設計図（2025年7月）",
+    "assetbundleName": "shop_400060",
+    "seq": 400060,
+    "billingShopItemType": "mysekai_blueprint",
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 7,
+    "billingShopItemIds": [
+      400060,
+      400061,
+      400062,
+      400063
+    ]
+  },
+  {
+    "id": 65,
+    "name": "「夏休み」衣装",
+    "assetbundleName": "shop_301070",
+    "seq": 301070,
+    "billingShopItemType": "costume_3d",
+    "billingShopItemIds": [
+      301070,
+      301071,
+      301072,
+      301073,
+      301074
+    ]
+  },
+  {
+    "id": 66,
+    "name": "[リミテッドスタイル vol.1] ぬいぐるみの設計図（2025年8月）",
+    "assetbundleName": "shop_400070",
+    "seq": 400070,
+    "billingShopItemType": "mysekai_blueprint",
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 8,
+    "billingShopItemIds": [
+      400070,
+      400071,
+      400072,
+      400073
+    ]
+  },
+  {
+    "id": 67,
+    "name": "「ドリーミー」衣装",
+    "assetbundleName": "shop_301080",
+    "seq": 301080,
+    "billingShopItemType": "costume_3d",
+    "billingShopItemIds": [
+      301080,
+      301081,
+      301082,
+      301083,
+      301084
+    ]
+  },
+  {
+    "id": 68,
+    "name": "[リミテッドスタイル vol.1] ぬいぐるみの設計図（2025年9月）",
+    "assetbundleName": "shop_400080",
+    "seq": 400080,
+    "billingShopItemType": "mysekai_blueprint",
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 9,
+    "billingShopItemIds": [
+      400080,
+      400081,
+      400082,
+      400083
+    ]
   }
 ]

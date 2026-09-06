@@ -3440,6 +3440,22 @@
     "backgroundAssetbundleName": "honor_bg_event_wl_2nd_finale"
   },
   {
+    "id": 539,
+    "name": "HAPPY BIRTHDAY 一歌 2026.8.11",
+    "pronunciation": "はっぴーばーすでーいちか2026.8.11",
+    "honorType": "birthday",
+    "backgroundAssetbundleName": "honor_bg_birthday_01_01",
+    "frameName": "honor_frame_birthday_01_01"
+  },
+  {
+    "id": 540,
+    "name": "HAPPY BIRTHDAY 咲希 2026.5.9",
+    "pronunciation": "はっぴーばーすでーさき2026.5.9",
+    "honorType": "birthday",
+    "backgroundAssetbundleName": "honor_bg_birthday_01_02",
+    "frameName": "honor_frame_birthday_01_02"
+  },
+  {
     "id": 541,
     "name": "HAPPY BIRTHDAY 穂波 2025.10.27",
     "pronunciation": "はっぴーばーすでーほなみ2025.10.27",
@@ -3454,6 +3470,14 @@
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_04",
     "frameName": "honor_frame_birthday_01_04"
+  },
+  {
+    "id": 543,
+    "name": "HAPPY BIRTHDAY みのり 2026.4.14",
+    "pronunciation": "はっぴーばーすでーみのり2026.4.14",
+    "honorType": "birthday",
+    "backgroundAssetbundleName": "honor_bg_birthday_01_05",
+    "frameName": "honor_frame_birthday_01_05"
   },
   {
     "id": 544,
@@ -3488,12 +3512,60 @@
     "frameName": "honor_frame_birthday_01_09"
   },
   {
+    "id": 548,
+    "name": "HAPPY BIRTHDAY 杏 2026.7.26",
+    "pronunciation": "はっぴーばーすでーあん2026.7.26",
+    "honorType": "birthday",
+    "backgroundAssetbundleName": "honor_bg_birthday_01_10",
+    "frameName": "honor_frame_birthday_01_10"
+  },
+  {
     "id": 549,
     "name": "HAPPY BIRTHDAY 彰人 2025.11.12",
     "pronunciation": "はっぴーばーすでーあきと2025.11.12",
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_11",
     "frameName": "honor_frame_birthday_01_11"
+  },
+  {
+    "id": 550,
+    "name": "HAPPY BIRTHDAY 冬弥 2026.5.25",
+    "pronunciation": "はっぴーばーすでーとうや2026.5.25",
+    "honorType": "birthday",
+    "backgroundAssetbundleName": "honor_bg_birthday_01_12",
+    "frameName": "honor_frame_birthday_01_12"
+  },
+  {
+    "id": 551,
+    "name": "HAPPY BIRTHDAY 司 2026.5.17",
+    "pronunciation": "はっぴーばーすでーつかさ2026.5.17",
+    "honorType": "birthday",
+    "backgroundAssetbundleName": "honor_bg_birthday_01_13",
+    "frameName": "honor_frame_birthday_01_13"
+  },
+  {
+    "id": 552,
+    "name": "HAPPY BIRTHDAY えむ 2026.9.9",
+    "pronunciation": "はっぴーばーすでーえむ2026.9.9",
+    "honorType": "birthday",
+    "backgroundAssetbundleName": "honor_bg_birthday_01_14",
+    "frameName": "honor_frame_birthday_01_14"
+  },
+  {
+    "id": 553,
+    "name": "HAPPY BIRTHDAY 寧々 2026.7.20",
+    "pronunciation": "はっぴーばーすでーねね2026.7.20",
+    "honorType": "birthday",
+    "backgroundAssetbundleName": "honor_bg_birthday_01_15",
+    "frameName": "honor_frame_birthday_01_15"
+  },
+  {
+    "id": 554,
+    "name": "HAPPY BIRTHDAY 類 2026.6.24",
+    "pronunciation": "はっぴーばーすでーるい2026.6.24",
+    "honorType": "birthday",
+    "backgroundAssetbundleName": "honor_bg_birthday_01_16",
+    "frameName": "honor_frame_birthday_01_16"
   },
   {
     "id": 555,
@@ -3510,6 +3582,30 @@
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_18",
     "frameName": "honor_frame_birthday_01_18"
+  },
+  {
+    "id": 557,
+    "name": "HAPPY BIRTHDAY 絵名 2026.4.30",
+    "pronunciation": "はっぴーばーすでーえな2026.4.30",
+    "honorType": "birthday",
+    "backgroundAssetbundleName": "honor_bg_birthday_01_19",
+    "frameName": "honor_frame_birthday_01_19"
+  },
+  {
+    "id": 558,
+    "name": "HAPPY BIRTHDAY 瑞希 2026.8.27",
+    "pronunciation": "はっぴーばーすでーみずき2026.8.27",
+    "honorType": "birthday",
+    "backgroundAssetbundleName": "honor_bg_birthday_01_20",
+    "frameName": "honor_frame_birthday_01_20"
+  },
+  {
+    "id": 559,
+    "name": "HAPPY ANNIVERSARY ミク 2026.8.31",
+    "pronunciation": "はっぴーあにばーさりーみく2026.8.31",
+    "honorType": "birthday",
+    "backgroundAssetbundleName": "honor_bg_birthday_01_21",
+    "frameName": "honor_frame_birthday_01_21"
   },
   {
     "id": 560,
@@ -3570,6 +3666,18 @@
     "honorType": "event"
   },
   {
+    "id": 568,
+    "name": "ベストクリエイター 一歌 BDパーティー '26",
+    "pronunciation": "べすとくりえいたーいちかばーすでーぱーてぃー26",
+    "honorType": "event"
+  },
+  {
+    "id": 569,
+    "name": "ベストクリエイター 咲希 BDパーティー '26",
+    "pronunciation": "べすとくりえいたーさきばーすでーぱーてぃー26",
+    "honorType": "event"
+  },
+  {
     "id": 570,
     "name": "ベストクリエイター 穂波 BDパーティー '25",
     "pronunciation": "べすとくりえいたーほなみばーすでーぱーてぃー25",
@@ -3579,6 +3687,12 @@
     "id": 571,
     "name": "ベストクリエイター 志歩 BDパーティー '26",
     "pronunciation": "べすとくりえいたーしほばーすでーぱーてぃー26",
+    "honorType": "event"
+  },
+  {
+    "id": 572,
+    "name": "ベストクリエイター みのり BDパーティー '26",
+    "pronunciation": "べすとくりえいたーみのりばーすでーぱーてぃー26",
     "honorType": "event"
   },
   {
@@ -3606,9 +3720,45 @@
     "honorType": "event"
   },
   {
+    "id": 577,
+    "name": "ベストクリエイター 杏 BDパーティー '26",
+    "pronunciation": "べすとくりえいたーあんばーすでーぱーてぃー26",
+    "honorType": "event"
+  },
+  {
     "id": 578,
     "name": "ベストクリエイター 彰人 BDパーティー '25",
     "pronunciation": "べすとくりえいたーあきとばーすでーぱーてぃー25",
+    "honorType": "event"
+  },
+  {
+    "id": 579,
+    "name": "ベストクリエイター 冬弥 BDパーティー '26",
+    "pronunciation": "べすとくりえいたーとうやばーすでーぱーてぃー26",
+    "honorType": "event"
+  },
+  {
+    "id": 580,
+    "name": "ベストクリエイター 司 BDパーティー '26",
+    "pronunciation": "べすとくりえいたーつかさばーすでーぱーてぃー26",
+    "honorType": "event"
+  },
+  {
+    "id": 581,
+    "name": "ベストクリエイター えむ BDパーティー '26",
+    "pronunciation": "べすとくりえいたーえむばーすでーぱーてぃー26",
+    "honorType": "event"
+  },
+  {
+    "id": 582,
+    "name": "ベストクリエイター 寧々 BDパーティー '26",
+    "pronunciation": "べすとくりえいたーねねばーすでーぱーてぃー26",
+    "honorType": "event"
+  },
+  {
+    "id": 583,
+    "name": "ベストクリエイター 類 BDパーティー '26",
+    "pronunciation": "べすとくりえいたーるいばーすでーぱーてぃー26",
     "honorType": "event"
   },
   {
@@ -3621,6 +3771,24 @@
     "id": 585,
     "name": "ベストクリエイター まふゆ BDパーティー '26",
     "pronunciation": "べすとくりえいたーまふゆばーすでーぱーてぃー26",
+    "honorType": "event"
+  },
+  {
+    "id": 586,
+    "name": "ベストクリエイター 絵名 BDパーティー '26",
+    "pronunciation": "べすとくりえいたーえなばーすでーぱーてぃー26",
+    "honorType": "event"
+  },
+  {
+    "id": 587,
+    "name": "ベストクリエイター 瑞希 BDパーティー '26",
+    "pronunciation": "べすとくりえいたーみずきばーすでーぱーてぃー26",
+    "honorType": "event"
+  },
+  {
+    "id": 588,
+    "name": "ベストクリエイター ミク ANパーティー '26",
+    "pronunciation": "べすとくりえいたーみくばーすでーぱーてぃー26",
     "honorType": "event"
   },
   {
@@ -3834,5 +4002,394 @@
     "pronunciation": "あみっど　ざ　うぇいゔぁりんぐ　らいと",
     "honorType": "event",
     "backgroundAssetbundleName": "honor_bg_event_wavering"
+  },
+  {
+    "id": 621,
+    "name": "残照のInside Direction",
+    "pronunciation": "ざんしょうのいんさいどでぃれくしょん",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_direction"
+  },
+  {
+    "id": 622,
+    "name": "ランクマッチ2026 SPRING",
+    "pronunciation": "らんくまっち2026すぷりんぐ",
+    "honorType": "rank_match",
+    "backgroundAssetbundleName": "season_2026_spring"
+  },
+  {
+    "id": 623,
+    "name": "ベストクリエイター フラワーフェスティバル",
+    "pronunciation": "べすとくりえいたー ふらわーふぇすてぃばる",
+    "honorType": "event"
+  },
+  {
+    "id": 624,
+    "name": "アメジスト",
+    "pronunciation": "あめじすと",
+    "honorType": "achievement"
+  },
+  {
+    "id": 625,
+    "name": "Show 'em what's up！",
+    "pronunciation": "しょう　えむ　わっつ　あっぷ！",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_show"
+  },
+  {
+    "id": 626,
+    "name": "約束のPasserelle 総合",
+    "pronunciation": "やくそくのぱすれる そうごう",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part1"
+  },
+  {
+    "id": 627,
+    "name": "約束のPasserelle チャプター1",
+    "pronunciation": "やくそくのぱすれる ちゃぷたー1",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part1_cp1",
+    "frameName": "event_wl_3rd_part1_cp1"
+  },
+  {
+    "id": 628,
+    "name": "約束のPasserelle チャプター2",
+    "pronunciation": "やくそくのぱすれる ちゃぷたー2",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part1_cp2",
+    "frameName": "event_wl_3rd_part1_cp2"
+  },
+  {
+    "id": 629,
+    "name": "約束のPasserelle チャプター3",
+    "pronunciation": "やくそくのぱすれる ちゃぷたー3",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part1_cp3",
+    "frameName": "event_wl_3rd_part1_cp3"
+  },
+  {
+    "id": 630,
+    "name": "約束のPasserelle チャプター4",
+    "pronunciation": "やくそくのぱすれる ちゃぷたー4",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part1_cp4",
+    "frameName": "event_wl_3rd_part1_cp4"
+  },
+  {
+    "id": 631,
+    "name": "約束のPasserelle チャプター5",
+    "pronunciation": "やくそくのぱすれる ちゃぷたー5",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part1_cp5",
+    "frameName": "event_wl_3rd_part1_cp5"
+  },
+  {
+    "id": 633,
+    "name": "未知の譜面を探して",
+    "pronunciation": "みちのふめんをさがして",
+    "honorType": "achievement"
+  },
+  {
+    "id": 635,
+    "name": "あたたかな思い出を辿って",
+    "pronunciation": "あたたかなおもいでをたどって",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_tracingmemories"
+  },
+  {
+    "id": 636,
+    "name": "コネクトライブ Parallel Paaaarty!!!!",
+    "pronunciation": "こねくとらいぶ　ぱられる ぱーてぃ",
+    "honorType": "event"
+  },
+  {
+    "id": 637,
+    "name": "Stay solid, No fold",
+    "pronunciation": "すてい　そりっど、のー　ふぉーるど",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_staysolid"
+  },
+  {
+    "id": 638,
+    "name": "Great Yell for Dreamers！ 総合",
+    "pronunciation": "ぐれーと えーる ふぉー どりーまーず！ そうごう",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part2"
+  },
+  {
+    "id": 639,
+    "name": "Great Yell for Dreamers！ チャプター1",
+    "pronunciation": "ぐれーと えーる ふぉー どりーまーず！ ちゃぷたー1",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part2_cp1",
+    "frameName": "event_wl_3rd_part2_cp1"
+  },
+  {
+    "id": 640,
+    "name": "Great Yell for Dreamers！ チャプター2",
+    "pronunciation": "ぐれーと えーる ふぉー どりーまーず！ ちゃぷたー2",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part2_cp2",
+    "frameName": "event_wl_3rd_part2_cp2"
+  },
+  {
+    "id": 641,
+    "name": "Great Yell for Dreamers！ チャプター3",
+    "pronunciation": "ぐれーと えーる ふぉー どりーまーず！ ちゃぷたー3",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part2_cp3",
+    "frameName": "event_wl_3rd_part2_cp3"
+  },
+  {
+    "id": 642,
+    "name": "Great Yell for Dreamers！ チャプター4",
+    "pronunciation": "ぐれーと えーる ふぉー どりーまーず！ ちゃぷたー4",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part2_cp4",
+    "frameName": "event_wl_3rd_part2_cp4"
+  },
+  {
+    "id": 643,
+    "name": "Great Yell for Dreamers！ チャプター5",
+    "pronunciation": "ぐれーと えーる ふぉー どりーまーず！ ちゃぷたー5",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part2_cp5",
+    "frameName": "event_wl_3rd_part2_cp5"
+  },
+  {
+    "id": 644,
+    "name": "Great Yell for Dreamers！ チャプター6",
+    "pronunciation": "ぐれーと えーる ふぉー どりーまーず！ ちゃぷたー6",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part2_cp6",
+    "frameName": "event_wl_3rd_part2_cp6"
+  },
+  {
+    "id": 645,
+    "name": "ベストクリエイター ブロックアート",
+    "pronunciation": "べすとくりえいたー ぶろっくあーと",
+    "honorType": "event"
+  },
+  {
+    "id": 646,
+    "name": "忘れられた砂時計",
+    "pronunciation": "わすれられたすなどけい",
+    "honorType": "event"
+  },
+  {
+    "id": 647,
+    "name": "#ΦωΦ",
+    "pronunciation": "#ΦωΦ",
+    "honorType": "event"
+  },
+  {
+    "id": 648,
+    "name": "最果てへと飛ぶキミへ",
+    "pronunciation": "さいはてへととぶきみへ",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_edge"
+  },
+  {
+    "id": 649,
+    "name": "Into the New Light 総合",
+    "pronunciation": "いんとぅ　ざ　にゅー　らいと そうごう",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part3"
+  },
+  {
+    "id": 650,
+    "name": "Into the New Light チャプター1",
+    "pronunciation": "いんとぅ　ざ　にゅー　らいと ちゃぷたー1",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part3_cp1",
+    "frameName": "event_wl_3rd_part3_cp1"
+  },
+  {
+    "id": 651,
+    "name": "Into the New Light チャプター2",
+    "pronunciation": "いんとぅ　ざ　にゅー　らいと ちゃぷたー2",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part3_cp2",
+    "frameName": "event_wl_3rd_part3_cp2"
+  },
+  {
+    "id": 652,
+    "name": "Into the New Light チャプター3",
+    "pronunciation": "いんとぅ　ざ　にゅー　らいと ちゃぷたー3",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part3_cp3",
+    "frameName": "event_wl_3rd_part3_cp3"
+  },
+  {
+    "id": 653,
+    "name": "Into the New Light チャプター4",
+    "pronunciation": "いんとぅ　ざ　にゅー　らいと ちゃぷたー4",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part3_cp4",
+    "frameName": "event_wl_3rd_part3_cp4"
+  },
+  {
+    "id": 654,
+    "name": "Into the New Light チャプター5",
+    "pronunciation": "いんとぅ　ざ　にゅー　らいと ちゃぷたー5",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part3_cp5",
+    "frameName": "event_wl_3rd_part3_cp5"
+  },
+  {
+    "id": 655,
+    "name": "Phantom maze monster",
+    "pronunciation": "ふぁんとむめいずもんすたー",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_monster"
+  },
+  {
+    "id": 656,
+    "name": "アイドル・花里みのり～夢の最前線～",
+    "pronunciation": "あいどる　はなさとみのり　ゆめのさいぜんせん",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_frontlines"
+  },
+  {
+    "id": 657,
+    "name": "ランクマッチ2026 SUMMER",
+    "pronunciation": "らんくまっち2026さまー",
+    "honorType": "rank_match",
+    "backgroundAssetbundleName": "season_2026_summer"
+  },
+  {
+    "id": 658,
+    "name": "ベストクリエイター サマーバケーション",
+    "pronunciation": "べすとくりえいたー さまーばけーしょん",
+    "honorType": "event"
+  },
+  {
+    "id": 659,
+    "name": "褪せない今を、彩って",
+    "pronunciation": "あせないいまを、いろどって",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_addcolor"
+  },
+  {
+    "id": 660,
+    "name": "君の隣、君と見る明日 総合",
+    "pronunciation": "きみのとなり、きみとみるあす そうごう",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part4"
+  },
+  {
+    "id": 661,
+    "name": "君の隣、君と見る明日 チャプター1",
+    "pronunciation": "きみのとなり、きみとみるあす ちゃぷたー1",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part4_cp1",
+    "frameName": "event_wl_3rd_part4_cp1"
+  },
+  {
+    "id": 662,
+    "name": "君の隣、君と見る明日 チャプター2",
+    "pronunciation": "きみのとなり、きみとみるあす ちゃぷたー2",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part4_cp2",
+    "frameName": "event_wl_3rd_part4_cp2"
+  },
+  {
+    "id": 663,
+    "name": "君の隣、君と見る明日 チャプター3",
+    "pronunciation": "きみのとなり、きみとみるあす ちゃぷたー3",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part4_cp3",
+    "frameName": "event_wl_3rd_part4_cp3"
+  },
+  {
+    "id": 664,
+    "name": "君の隣、君と見る明日 チャプター4",
+    "pronunciation": "きみのとなり、きみとみるあす ちゃぷたー4",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part4_cp4",
+    "frameName": "event_wl_3rd_part4_cp4"
+  },
+  {
+    "id": 665,
+    "name": "君の隣、君と見る明日 チャプター5",
+    "pronunciation": "きみのとなり、きみとみるあす ちゃぷたー5",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part4_cp5",
+    "frameName": "event_wl_3rd_part4_cp5"
+  },
+  {
+    "id": 666,
+    "name": "Echo of a Prayer",
+    "pronunciation": "えこー　おぶ　あ　ぷれいやー",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_ofprayer"
+  },
+  {
+    "id": 667,
+    "name": "Leap Beyond The Limits！",
+    "pronunciation": "りーぷ　びよんど　ざ　りみっつ！",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_limits"
+  },
+  {
+    "id": 668,
+    "name": "Again And Again Ambition！ 総合",
+    "pronunciation": "あげいん　あんど　あげいん　あんびしょん！ そうごう",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part5"
+  },
+  {
+    "id": 669,
+    "name": "Again And Again Ambition！ チャプター1",
+    "pronunciation": "あげいん　あんど　あげいん　あんびしょん！ ちゃぷたー1",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part5_cp1",
+    "frameName": "event_wl_3rd_part5_cp1"
+  },
+  {
+    "id": 670,
+    "name": "Again And Again Ambition！ チャプター2",
+    "pronunciation": "あげいん　あんど　あげいん　あんびしょん！ ちゃぷたー2",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part5_cp2",
+    "frameName": "event_wl_3rd_part5_cp2"
+  },
+  {
+    "id": 671,
+    "name": "Again And Again Ambition！ チャプター3",
+    "pronunciation": "あげいん　あんど　あげいん　あんびしょん！ ちゃぷたー3",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part5_cp3",
+    "frameName": "event_wl_3rd_part5_cp3"
+  },
+  {
+    "id": 672,
+    "name": "Again And Again Ambition！ チャプター4",
+    "pronunciation": "あげいん　あんど　あげいん　あんびしょん！ ちゃぷたー4",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part5_cp4",
+    "frameName": "event_wl_3rd_part5_cp4"
+  },
+  {
+    "id": 673,
+    "name": "Again And Again Ambition！ チャプター5",
+    "pronunciation": "あげいん　あんど　あげいん　あんびしょん！ ちゃぷたー5",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_3rd_part5_cp5",
+    "frameName": "event_wl_3rd_part5_cp5"
+  },
+  {
+    "id": 674,
+    "name": "Mix&Make Party Time!!",
+    "pronunciation": "みっくす　あんど　めいく　ぱーてぃーたいむ！！",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_partytime"
+  },
+  {
+    "id": 675,
+    "name": "After the Fire",
+    "pronunciation": "あふたー　ざ　ふぁいあ",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_afterfire"
   }
 ]

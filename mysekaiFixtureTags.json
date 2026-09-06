@@ -584,6 +584,48 @@
     "mysekaiFixtureTagType": "series"
   },
   {
+    "id": 100,
+    "name": "シャボンバスルーム",
+    "pronunciation": "しゃぼんばするーむ",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 101,
+    "name": "ドーリィゴシック",
+    "pronunciation": "どーりぃごしっく",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 102,
+    "name": "スイーツタウン",
+    "pronunciation": "すいーつたうん",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 103,
+    "name": "DEEMO×Cytusシリーズタイアップ",
+    "pronunciation": "でぃーもさいたすしりーずたいあっぷ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 104,
+    "name": "あわいろアクアドロップ",
+    "pronunciation": "あわいろあくあどろっぷ",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 105,
+    "name": "マルシェ",
+    "pronunciation": "まるしぇ",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 106,
+    "name": "和風",
+    "pronunciation": "わふう",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
     "id": 10001,
     "name": "きらめく流星の家",
     "pronunciation": "きらめくりゅうせいのいえ",
@@ -7505,6 +7547,2514 @@
     "id": 11164,
     "name": "[リミテッドスタイル vol.3] ルカのぬいぐるみ\/L",
     "pronunciation": "りみてっどすたいるぼりゅーむすりーるかのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11165,
+    "name": "[リミテッドスタイル vol.3] 穂波のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーほなみのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11166,
+    "name": "[リミテッドスタイル vol.3] 穂波のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーほなみのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11167,
+    "name": "[リミテッドスタイル vol.3] 穂波のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーほなみのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11168,
+    "name": "[リミテッドスタイル vol.3] 雫のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーしずくのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11169,
+    "name": "[リミテッドスタイル vol.3] 雫のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーしずくのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11170,
+    "name": "[リミテッドスタイル vol.3] 雫のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーしずくのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11171,
+    "name": "[リミテッドスタイル vol.3] 杏のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあんのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11172,
+    "name": "[リミテッドスタイル vol.3] 杏のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあんのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11173,
+    "name": "[リミテッドスタイル vol.3] 杏のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあんのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11174,
+    "name": "[リミテッドスタイル vol.3] 司のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーつかさのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11175,
+    "name": "[リミテッドスタイル vol.3] 司のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーつかさのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11176,
+    "name": "[リミテッドスタイル vol.3] 司のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーつかさのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11177,
+    "name": "[リミテッドスタイル vol.3] 絵名のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーえなのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11178,
+    "name": "[リミテッドスタイル vol.3] 絵名のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーえなのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11179,
+    "name": "[リミテッドスタイル vol.3] 絵名のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーえなのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11180,
+    "name": "[リミテッドスタイル vol.3] KAITOのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーかいとのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11181,
+    "name": "[リミテッドスタイル vol.3] KAITOのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーかいとのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11182,
+    "name": "[リミテッドスタイル vol.3] KAITOのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーかいとのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11183,
+    "name": "一歌のダイヤモンドオブジェ\/S",
+    "pronunciation": "いちかのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11184,
+    "name": "一歌のダイヤモンドオブジェ\/M",
+    "pronunciation": "いちかのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11185,
+    "name": "一歌のダイヤモンドオブジェ\/L",
+    "pronunciation": "いちかのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11186,
+    "name": "咲希のダイヤモンドオブジェ\/S",
+    "pronunciation": "さきのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11187,
+    "name": "咲希のダイヤモンドオブジェ\/M",
+    "pronunciation": "さきのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11188,
+    "name": "咲希のダイヤモンドオブジェ\/L",
+    "pronunciation": "さきのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11189,
+    "name": "穂波のダイヤモンドオブジェ\/S",
+    "pronunciation": "ほなみのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11190,
+    "name": "穂波のダイヤモンドオブジェ\/M",
+    "pronunciation": "ほなみのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11191,
+    "name": "穂波のダイヤモンドオブジェ\/L",
+    "pronunciation": "ほなみのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11192,
+    "name": "志歩のダイヤモンドオブジェ\/S",
+    "pronunciation": "しほのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11193,
+    "name": "志歩のダイヤモンドオブジェ\/M",
+    "pronunciation": "しほのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11194,
+    "name": "志歩のダイヤモンドオブジェ\/L",
+    "pronunciation": "しほのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11195,
+    "name": "みのりのダイヤモンドオブジェ\/S",
+    "pronunciation": "みのりのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11196,
+    "name": "みのりのダイヤモンドオブジェ\/M",
+    "pronunciation": "みのりのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11197,
+    "name": "みのりのダイヤモンドオブジェ\/L",
+    "pronunciation": "みのりのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11198,
+    "name": "遥のダイヤモンドオブジェ\/S",
+    "pronunciation": "はるかのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11199,
+    "name": "遥のダイヤモンドオブジェ\/M",
+    "pronunciation": "はるかのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11200,
+    "name": "遥のダイヤモンドオブジェ\/L",
+    "pronunciation": "はるかのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11201,
+    "name": "愛莉のダイヤモンドオブジェ\/S",
+    "pronunciation": "あいりのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11202,
+    "name": "愛莉のダイヤモンドオブジェ\/M",
+    "pronunciation": "あいりのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11203,
+    "name": "愛莉のダイヤモンドオブジェ\/L",
+    "pronunciation": "あいりのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11204,
+    "name": "雫のダイヤモンドオブジェ\/S",
+    "pronunciation": "しずくのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11205,
+    "name": "雫のダイヤモンドオブジェ\/M",
+    "pronunciation": "しずくのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11206,
+    "name": "雫のダイヤモンドオブジェ\/L",
+    "pronunciation": "しずくのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11207,
+    "name": "こはねのダイヤモンドオブジェ\/S",
+    "pronunciation": "こはねのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11208,
+    "name": "こはねのダイヤモンドオブジェ\/M",
+    "pronunciation": "こはねのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11209,
+    "name": "こはねのダイヤモンドオブジェ\/L",
+    "pronunciation": "こはねのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11210,
+    "name": "杏のダイヤモンドオブジェ\/S",
+    "pronunciation": "あんのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11211,
+    "name": "杏のダイヤモンドオブジェ\/M",
+    "pronunciation": "あんのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11212,
+    "name": "杏のダイヤモンドオブジェ\/L",
+    "pronunciation": "あんのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11213,
+    "name": "彰人のダイヤモンドオブジェ\/S",
+    "pronunciation": "あきとのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11214,
+    "name": "彰人のダイヤモンドオブジェ\/M",
+    "pronunciation": "あきとのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11215,
+    "name": "彰人のダイヤモンドオブジェ\/L",
+    "pronunciation": "あきとのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11216,
+    "name": "冬弥のダイヤモンドオブジェ\/S",
+    "pronunciation": "とうやのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11217,
+    "name": "冬弥のダイヤモンドオブジェ\/M",
+    "pronunciation": "とうやのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11218,
+    "name": "冬弥のダイヤモンドオブジェ\/L",
+    "pronunciation": "とうやのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11219,
+    "name": "司のダイヤモンドオブジェ\/S",
+    "pronunciation": "つかさのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11220,
+    "name": "司のダイヤモンドオブジェ\/M",
+    "pronunciation": "つかさのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11221,
+    "name": "司のダイヤモンドオブジェ\/L",
+    "pronunciation": "つかさのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11222,
+    "name": "えむのダイヤモンドオブジェ\/S",
+    "pronunciation": "えむのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11223,
+    "name": "えむのダイヤモンドオブジェ\/M",
+    "pronunciation": "えむのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11224,
+    "name": "えむのダイヤモンドオブジェ\/L",
+    "pronunciation": "えむのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11225,
+    "name": "寧々のダイヤモンドオブジェ\/S",
+    "pronunciation": "ねねのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11226,
+    "name": "寧々のダイヤモンドオブジェ\/M",
+    "pronunciation": "ねねのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11227,
+    "name": "寧々のダイヤモンドオブジェ\/L",
+    "pronunciation": "ねねのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11228,
+    "name": "類のダイヤモンドオブジェ\/S",
+    "pronunciation": "るいのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11229,
+    "name": "類のダイヤモンドオブジェ\/M",
+    "pronunciation": "るいのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11230,
+    "name": "類のダイヤモンドオブジェ\/L",
+    "pronunciation": "るいのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11231,
+    "name": "奏のダイヤモンドオブジェ\/S",
+    "pronunciation": "かなでのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11232,
+    "name": "奏のダイヤモンドオブジェ\/M",
+    "pronunciation": "かなでのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11233,
+    "name": "奏のダイヤモンドオブジェ\/L",
+    "pronunciation": "かなでのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11234,
+    "name": "まふゆのダイヤモンドオブジェ\/S",
+    "pronunciation": "まふゆのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11235,
+    "name": "まふゆのダイヤモンドオブジェ\/M",
+    "pronunciation": "まふゆのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11236,
+    "name": "まふゆのダイヤモンドオブジェ\/L",
+    "pronunciation": "まふゆのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11237,
+    "name": "絵名のダイヤモンドオブジェ\/S",
+    "pronunciation": "えなのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11238,
+    "name": "絵名のダイヤモンドオブジェ\/M",
+    "pronunciation": "えなのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11239,
+    "name": "絵名のダイヤモンドオブジェ\/L",
+    "pronunciation": "えなのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11240,
+    "name": "瑞希のダイヤモンドオブジェ\/S",
+    "pronunciation": "みずきのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11241,
+    "name": "瑞希のダイヤモンドオブジェ\/M",
+    "pronunciation": "みずきのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11242,
+    "name": "瑞希のダイヤモンドオブジェ\/L",
+    "pronunciation": "みずきのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11243,
+    "name": "ミクのダイヤモンドオブジェ\/S",
+    "pronunciation": "みくのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11244,
+    "name": "ミクのダイヤモンドオブジェ\/M",
+    "pronunciation": "みくのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11245,
+    "name": "ミクのダイヤモンドオブジェ\/L",
+    "pronunciation": "みくのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11246,
+    "name": "リンのダイヤモンドオブジェ\/S",
+    "pronunciation": "りんのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11247,
+    "name": "リンのダイヤモンドオブジェ\/M",
+    "pronunciation": "りんのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11248,
+    "name": "リンのダイヤモンドオブジェ\/L",
+    "pronunciation": "りんのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11249,
+    "name": "レンのダイヤモンドオブジェ\/S",
+    "pronunciation": "れんのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11250,
+    "name": "レンのダイヤモンドオブジェ\/M",
+    "pronunciation": "れんのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11251,
+    "name": "レンのダイヤモンドオブジェ\/L",
+    "pronunciation": "れんのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11252,
+    "name": "ルカのダイヤモンドオブジェ\/S",
+    "pronunciation": "るかのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11253,
+    "name": "ルカのダイヤモンドオブジェ\/M",
+    "pronunciation": "るかのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11254,
+    "name": "ルカのダイヤモンドオブジェ\/L",
+    "pronunciation": "るかのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11255,
+    "name": "MEIKOのダイヤモンドオブジェ\/S",
+    "pronunciation": "めいこのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11256,
+    "name": "MEIKOのダイヤモンドオブジェ\/M",
+    "pronunciation": "めいこのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11257,
+    "name": "MEIKOのダイヤモンドオブジェ\/L",
+    "pronunciation": "めいこのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11258,
+    "name": "KAITOのダイヤモンドオブジェ\/S",
+    "pronunciation": "かいとのだいやもんどおぶじぇえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11259,
+    "name": "KAITOのダイヤモンドオブジェ\/M",
+    "pronunciation": "かいとのだいやもんどおぶじぇえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11260,
+    "name": "KAITOのダイヤモンドオブジェ\/L",
+    "pronunciation": "かいとのだいやもんどおぶじぇえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11261,
+    "name": "バースデーケーキ（みのり）",
+    "pronunciation": "ばーすでーけーきみのり",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11262,
+    "name": "バースデーバルーン（みのり）",
+    "pronunciation": "ばーすでーばるーんみのり",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11263,
+    "name": "バースデーブーケ（みのり）",
+    "pronunciation": "ばーすでーぶーけみのり",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11264,
+    "name": "バースデーガーランド（みのり）",
+    "pronunciation": "ばーすでーがーらんどみのり",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11265,
+    "name": "バースデーチェア（みのり）",
+    "pronunciation": "ばーすでーちぇあみのり",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11266,
+    "name": "花里みのりBD '26",
+    "pronunciation": "はなさとみのりばーすでーにじゅうろく",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11267,
+    "name": "バースデーケーキ（絵名）",
+    "pronunciation": "ばーすでーけーきえな",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11268,
+    "name": "バースデーバルーン（絵名）",
+    "pronunciation": "ばーすでーばるーんえな",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11269,
+    "name": "バースデーブーケ（絵名）",
+    "pronunciation": "ばーすでーぶーけえな",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11270,
+    "name": "バースデーガーランド（絵名）",
+    "pronunciation": "ばーすでーがーらんどえな",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11271,
+    "name": "バースデーチェア（絵名）",
+    "pronunciation": "ばーすでーちぇあえな",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11272,
+    "name": "東雲絵名BD '26",
+    "pronunciation": "しののめえなばーすでーにじゅうろく",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11273,
+    "name": "シャボンバスルームの家",
+    "pronunciation": "しゃぼんばするーむのいえ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11274,
+    "name": "シャボンバスルームの壁",
+    "pronunciation": "しゃぼんばするーむのかべ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11275,
+    "name": "シャボンバスルームの床",
+    "pronunciation": "しゃぼんばするーむのゆか",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11276,
+    "name": "シャボンバスルームのラグ",
+    "pronunciation": "しゃぼんばするーむのらぐ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11277,
+    "name": "シャボンバスルームのバスタブ",
+    "pronunciation": "しゃぼんばするーむのばすたぶ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11278,
+    "name": "シャボンバスルームのライト",
+    "pronunciation": "しゃぼんばするーむのらいと",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11279,
+    "name": "シャボンバスルームのカーテン",
+    "pronunciation": "しゃぼんばするーむのかーてん",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11280,
+    "name": "シャボンバスルームのシェルフ",
+    "pronunciation": "しゃぼんばするーむのしぇるふ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11281,
+    "name": "シャボンバスルームのタオル",
+    "pronunciation": "しゃぼんばするーむのたおる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11282,
+    "name": "シャボンバスルームのウォールバス",
+    "pronunciation": "しゃぼんばするーむのうぉーるばす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11283,
+    "name": "シャボンバスルームのバスセット",
+    "pronunciation": "しゃぼんばするーむのばすせっと",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11284,
+    "name": "バースデーケーキ（咲希）",
+    "pronunciation": "ばーすでーけーきさき",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11285,
+    "name": "バースデーバルーン（咲希）",
+    "pronunciation": "ばーすでーばるーんさき",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11286,
+    "name": "バースデーブーケ（咲希）",
+    "pronunciation": "ばーすでーぶーけさき",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11287,
+    "name": "バースデーガーランド（咲希）",
+    "pronunciation": "ばーすでーがーらんどさき",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11288,
+    "name": "バースデーチェア（咲希）",
+    "pronunciation": "ばーすでーちぇあさき",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11289,
+    "name": "天馬咲希BD '26",
+    "pronunciation": "てんまさきばーすでーにじゅうろく",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11290,
+    "name": "[リミテッドスタイル vol.3] 志歩のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーしほのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11291,
+    "name": "[リミテッドスタイル vol.3] 志歩のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーしほのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11292,
+    "name": "[リミテッドスタイル vol.3] 志歩のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーしほのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11293,
+    "name": "[リミテッドスタイル vol.3] みのりのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーみのりのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11294,
+    "name": "[リミテッドスタイル vol.3] みのりのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーみのりのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11295,
+    "name": "[リミテッドスタイル vol.3] みのりのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーみのりのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11296,
+    "name": "[リミテッドスタイル vol.3] 冬弥のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーとうやのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11297,
+    "name": "[リミテッドスタイル vol.3] 冬弥のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーとうやのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11298,
+    "name": "[リミテッドスタイル vol.3] 冬弥のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーとうやのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11299,
+    "name": "[リミテッドスタイル vol.3] えむのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーえむのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11300,
+    "name": "[リミテッドスタイル vol.3] えむのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーえむのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11301,
+    "name": "[リミテッドスタイル vol.3] えむのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーえむのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11302,
+    "name": "[リミテッドスタイル vol.3] 奏のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーかなでのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11303,
+    "name": "[リミテッドスタイル vol.3] 奏のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーかなでのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11304,
+    "name": "[リミテッドスタイル vol.3] 奏のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーかなでのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11305,
+    "name": "[リミテッドスタイル vol.3] リンのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーりんのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11306,
+    "name": "[リミテッドスタイル vol.3] リンのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーりんのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11307,
+    "name": "[リミテッドスタイル vol.3] リンのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーりんのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11308,
+    "name": "[リミテッドスタイル vol.3] レンのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーれんのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11309,
+    "name": "[リミテッドスタイル vol.3] レンのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーれんのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11310,
+    "name": "[リミテッドスタイル vol.3] レンのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーれんのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11311,
+    "name": "バースデーケーキ（司）",
+    "pronunciation": "ばーすでーけーきつかさ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11312,
+    "name": "バースデーバルーン（司）",
+    "pronunciation": "ばーすでーばるーんつかさ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11313,
+    "name": "バースデーブーケ（司）",
+    "pronunciation": "ばーすでーぶーけつかさ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11314,
+    "name": "バースデーガーランド（司）",
+    "pronunciation": "ばーすでーがーらんどつかさ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11315,
+    "name": "バースデーチェア（司）",
+    "pronunciation": "ばーすでーちぇあつかさ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11316,
+    "name": "天馬司BD '26",
+    "pronunciation": "てんまつかさばーすでーにじゅうろく",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11317,
+    "name": "バースデーケーキ（冬弥）",
+    "pronunciation": "ばーすでーけーきとうや",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11318,
+    "name": "バースデーバルーン（冬弥）",
+    "pronunciation": "ばーすでーばるーんとうや",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11319,
+    "name": "バースデーブーケ（冬弥）",
+    "pronunciation": "ばーすでーぶーけとうや",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11320,
+    "name": "バースデーガーランド（冬弥）",
+    "pronunciation": "ばーすでーがーらんどとうや",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11321,
+    "name": "バースデーチェア（冬弥）",
+    "pronunciation": "ばーすでーちぇあとうや",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11322,
+    "name": "青柳冬弥BD '26",
+    "pronunciation": "あおやぎとうやばーすでーにじゅうろく",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11323,
+    "name": "バースデーケーキ（類）",
+    "pronunciation": "ばーすでーけーきるい",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11324,
+    "name": "バースデーバルーン（類）",
+    "pronunciation": "ばーすでーばるーんるい",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11325,
+    "name": "バースデーブーケ（類）",
+    "pronunciation": "ばーすでーぶーけるい",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11326,
+    "name": "バースデーガーランド（類）",
+    "pronunciation": "ばーすでーがーらんどるい",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11327,
+    "name": "バースデーチェア（類）",
+    "pronunciation": "ばーすでーちぇあるい",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11328,
+    "name": "神代類BD '26",
+    "pronunciation": "かみしろるいばーすでーにじゅうろく",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11329,
+    "name": "ドーリィゴシックの壁",
+    "pronunciation": "どーりぃごしっくのかべ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11330,
+    "name": "ドーリィゴシックの床",
+    "pronunciation": "どーりぃごしっくのゆか",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11331,
+    "name": "ドーリィゴシックの窓",
+    "pronunciation": "どーりぃごしっくのまど",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11332,
+    "name": "ドーリィゴシックの鳥籠",
+    "pronunciation": "どーりぃごしっくのとりかご",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11333,
+    "name": "ドーリィゴシックの暖炉",
+    "pronunciation": "どーりぃごしっくのだんろ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11334,
+    "name": "ドーリィゴシックのテーブル",
+    "pronunciation": "どーりぃごしっくのてーぶる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11335,
+    "name": "ドーリィゴシックの椅子",
+    "pronunciation": "どーりぃごしっくのいす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11336,
+    "name": "ドーリィゴシックの絵画",
+    "pronunciation": "どーりぃごしっくのかいが",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11337,
+    "name": "ドーリィゴシックの猫のぬいぐるみ",
+    "pronunciation": "どーりぃごしっくのねこのぬいぐるみ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11338,
+    "name": "ドーリィゴシックの燭台",
+    "pronunciation": "どーりぃごしっくのしょくだい",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11339,
+    "name": "ドーリィゴシックのフラワーベース",
+    "pronunciation": "どーりぃごしっくのふらわーべーす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11340,
+    "name": "ドーリィゴシックのラグ",
+    "pronunciation": "どーりぃごしっくのらぐ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11341,
+    "name": "三角柱カラーブロック\/レッド 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくれっどいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11342,
+    "name": "三角柱カラーブロック\/オレンジ 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくおれんじいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11343,
+    "name": "三角柱カラーブロック\/ライトオレンジ 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくらいとおれんじいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11344,
+    "name": "三角柱カラーブロック\/イエロー 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくいえろーいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11345,
+    "name": "三角柱カラーブロック\/ライトグリーン 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくらいとぐりーんいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11346,
+    "name": "三角柱カラーブロック\/グリーン 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくぐりーんいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11347,
+    "name": "三角柱カラーブロック\/ブルーグリーン 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくぶるーぐりーんいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11348,
+    "name": "三角柱カラーブロック\/ライトブルー 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくらいとぶるーいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11349,
+    "name": "三角柱カラーブロック\/ブルー 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくぶるーいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11350,
+    "name": "三角柱カラーブロック\/バイオレット 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくばいおれっといちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11351,
+    "name": "三角柱カラーブロック\/パープル 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくぱーぷるいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11352,
+    "name": "三角柱カラーブロック\/ピンク 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくぴんくいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11353,
+    "name": "三角柱カラーブロック\/クリーム 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくくりーむいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11354,
+    "name": "三角柱カラーブロック\/ベージュ 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくべーじゅいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11355,
+    "name": "三角柱カラーブロック\/ライトブラウン 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくらいとぶらうんいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11356,
+    "name": "三角柱カラーブロック\/ブラウン 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくぶらうんいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11357,
+    "name": "三角柱カラーブロック\/ホワイト 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくほわいといちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11358,
+    "name": "三角柱カラーブロック\/ライトグレー 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくらいとぐれーいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11359,
+    "name": "三角柱カラーブロック\/グレー 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくぐれーいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11360,
+    "name": "三角柱カラーブロック\/ブラック 1x1",
+    "pronunciation": "さんかくちゅうからーぶろっくぶらっくいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11361,
+    "name": "三角柱カラーブロック\/レッド 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくれっどにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11362,
+    "name": "三角柱カラーブロック\/オレンジ 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくおれんじにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11363,
+    "name": "三角柱カラーブロック\/ライトオレンジ 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくらいとおれんじにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11364,
+    "name": "三角柱カラーブロック\/イエロー 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくいえろーにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11365,
+    "name": "三角柱カラーブロック\/ライトグリーン 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくらいとぐりーんにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11366,
+    "name": "三角柱カラーブロック\/グリーン 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくぐりーんにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11367,
+    "name": "三角柱カラーブロック\/ブルーグリーン 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくぶるーぐりーんにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11368,
+    "name": "三角柱カラーブロック\/ライトブルー 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくらいとぶるーにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11369,
+    "name": "三角柱カラーブロック\/ブルー 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくぶるーにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11370,
+    "name": "三角柱カラーブロック\/バイオレット 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくばいおれっとにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11371,
+    "name": "三角柱カラーブロック\/パープル 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくぱーぷるにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11372,
+    "name": "三角柱カラーブロック\/ピンク 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくぴんくにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11373,
+    "name": "三角柱カラーブロック\/クリーム 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくくりーむにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11374,
+    "name": "三角柱カラーブロック\/ベージュ 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくべーじゅにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11375,
+    "name": "三角柱カラーブロック\/ライトブラウン 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくらいとぶらうんにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11376,
+    "name": "三角柱カラーブロック\/ブラウン 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくぶらうんにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11377,
+    "name": "三角柱カラーブロック\/ホワイト 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくほわいとにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11378,
+    "name": "三角柱カラーブロック\/ライトグレー 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくらいとぐれーにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11379,
+    "name": "三角柱カラーブロック\/グレー 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくぐれーにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11380,
+    "name": "三角柱カラーブロック\/ブラック 2x2",
+    "pronunciation": "さんかくちゅうからーぶろっくぶらっくにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11381,
+    "name": "三角柱レンガブロック 1x1",
+    "pronunciation": "さんかくちゅうれんがぶろっくいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11382,
+    "name": "三角柱レンガブロック 2x2",
+    "pronunciation": "さんかくちゅうれんがぶろっくにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11383,
+    "name": "三角柱木目ブロック 1x1",
+    "pronunciation": "さんかくちゅうもくめぶろっくいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11384,
+    "name": "三角柱木目ブロック 2x2",
+    "pronunciation": "さんかくちゅうもくめぶろっくにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11385,
+    "name": "三角柱コンクリートブロック 1x1",
+    "pronunciation": "さんかくちゅうこんくりーとぶろっくいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11386,
+    "name": "三角柱コンクリートブロック 2x2",
+    "pronunciation": "さんかくちゅうこんくりーとぶろっくにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11387,
+    "name": "扇カラーブロック\/レッド 1x1",
+    "pronunciation": "おうぎからーぶろっくれっどいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11388,
+    "name": "扇カラーブロック\/オレンジ 1x1",
+    "pronunciation": "おうぎからーぶろっくおれんじいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11389,
+    "name": "扇カラーブロック\/ライトオレンジ 1x1",
+    "pronunciation": "おうぎからーぶろっくらいとおれんじいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11390,
+    "name": "扇カラーブロック\/イエロー 1x1",
+    "pronunciation": "おうぎからーぶろっくいえろーいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11391,
+    "name": "扇カラーブロック\/ライトグリーン 1x1",
+    "pronunciation": "おうぎからーぶろっくらいとぐりーんいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11392,
+    "name": "扇カラーブロック\/グリーン 1x1",
+    "pronunciation": "おうぎからーぶろっくぐりーんいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11393,
+    "name": "扇カラーブロック\/ブルーグリーン 1x1",
+    "pronunciation": "おうぎからーぶろっくぶるーぐりーんいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11394,
+    "name": "扇カラーブロック\/ライトブルー 1x1",
+    "pronunciation": "おうぎからーぶろっくらいとぶるーいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11395,
+    "name": "扇カラーブロック\/ブルー 1x1",
+    "pronunciation": "おうぎからーぶろっくぶるーいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11396,
+    "name": "扇カラーブロック\/バイオレット 1x1",
+    "pronunciation": "おうぎからーぶろっくばいおれっといちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11397,
+    "name": "扇カラーブロック\/パープル 1x1",
+    "pronunciation": "おうぎからーぶろっくぱーぷるいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11398,
+    "name": "扇カラーブロック\/ピンク 1x1",
+    "pronunciation": "おうぎからーぶろっくぴんくいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11399,
+    "name": "扇カラーブロック\/クリーム 1x1",
+    "pronunciation": "おうぎからーぶろっくくりーむいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11400,
+    "name": "扇カラーブロック\/ベージュ 1x1",
+    "pronunciation": "おうぎからーぶろっくべーじゅいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11401,
+    "name": "扇カラーブロック\/ライトブラウン 1x1",
+    "pronunciation": "おうぎからーぶろっくらいとぶらうんいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11402,
+    "name": "扇カラーブロック\/ブラウン 1x1",
+    "pronunciation": "おうぎからーぶろっくぶらうんいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11403,
+    "name": "扇カラーブロック\/ホワイト 1x1",
+    "pronunciation": "おうぎからーぶろっくほわいといちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11404,
+    "name": "扇カラーブロック\/ライトグレー 1x1",
+    "pronunciation": "おうぎからーぶろっくらいとぐれーいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11405,
+    "name": "扇カラーブロック\/グレー 1x1",
+    "pronunciation": "おうぎからーぶろっくぐれーいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11406,
+    "name": "扇カラーブロック\/ブラック 1x1",
+    "pronunciation": "おうぎからーぶろっくぶらっくいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11407,
+    "name": "扇カラーブロック\/レッド 2x2",
+    "pronunciation": "おうぎからーぶろっくれっどにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11408,
+    "name": "扇カラーブロック\/オレンジ 2x2",
+    "pronunciation": "おうぎからーぶろっくおれんじにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11409,
+    "name": "扇カラーブロック\/ライトオレンジ 2x2",
+    "pronunciation": "おうぎからーぶろっくらいとおれんじにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11410,
+    "name": "扇カラーブロック\/イエロー 2x2",
+    "pronunciation": "おうぎからーぶろっくいえろーにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11411,
+    "name": "扇カラーブロック\/ライトグリーン 2x2",
+    "pronunciation": "おうぎからーぶろっくらいとぐりーんにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11412,
+    "name": "扇カラーブロック\/グリーン 2x2",
+    "pronunciation": "おうぎからーぶろっくぐりーんにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11413,
+    "name": "扇カラーブロック\/ブルーグリーン 2x2",
+    "pronunciation": "おうぎからーぶろっくぶるーぐりーんにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11414,
+    "name": "扇カラーブロック\/ライトブルー 2x2",
+    "pronunciation": "おうぎからーぶろっくらいとぶるーにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11415,
+    "name": "扇カラーブロック\/ブルー 2x2",
+    "pronunciation": "おうぎからーぶろっくぶるーにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11416,
+    "name": "扇カラーブロック\/バイオレット 2x2",
+    "pronunciation": "おうぎからーぶろっくばいおれっとにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11417,
+    "name": "扇カラーブロック\/パープル 2x2",
+    "pronunciation": "おうぎからーぶろっくぱーぷるにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11418,
+    "name": "扇カラーブロック\/ピンク 2x2",
+    "pronunciation": "おうぎからーぶろっくぴんくにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11419,
+    "name": "扇カラーブロック\/クリーム 2x2",
+    "pronunciation": "おうぎからーぶろっくくりーむにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11420,
+    "name": "扇カラーブロック\/ベージュ 2x2",
+    "pronunciation": "おうぎからーぶろっくべーじゅにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11421,
+    "name": "扇カラーブロック\/ライトブラウン 2x2",
+    "pronunciation": "おうぎからーぶろっくらいとぶらうんにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11422,
+    "name": "扇カラーブロック\/ブラウン 2x2",
+    "pronunciation": "おうぎからーぶろっくぶらうんにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11423,
+    "name": "扇カラーブロック\/ホワイト 2x2",
+    "pronunciation": "おうぎからーぶろっくほわいとにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11424,
+    "name": "扇カラーブロック\/ライトグレー 2x2",
+    "pronunciation": "おうぎからーぶろっくらいとぐれーにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11425,
+    "name": "扇カラーブロック\/グレー 2x2",
+    "pronunciation": "おうぎからーぶろっくぐれーにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11426,
+    "name": "扇カラーブロック\/ブラック 2x2",
+    "pronunciation": "おうぎからーぶろっくぶらっくにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11427,
+    "name": "扇レンガブロック 1x1",
+    "pronunciation": "おうぎれんがぶろっくいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11428,
+    "name": "扇レンガブロック 2x2",
+    "pronunciation": "おうぎれんがぶろっくにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11429,
+    "name": "扇木目ブロック 1x1",
+    "pronunciation": "おうぎもくめぶろっくいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11430,
+    "name": "扇木目ブロック 2x2",
+    "pronunciation": "おうぎもくめぶろっくにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11431,
+    "name": "扇コンクリートブロック 1x1",
+    "pronunciation": "おうぎこんくりーとぶろっくいちかけるいち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11432,
+    "name": "扇コンクリートブロック 2x2",
+    "pronunciation": "おうぎこんくりーとぶろっくにかけるに",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11433,
+    "name": "スイーツタウンの家",
+    "pronunciation": "すいーつたうんのいえ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11434,
+    "name": "スイーツタウンのチョコ噴水",
+    "pronunciation": "すいーつたうんのちょこふんすい",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11435,
+    "name": "スイーツタウンのゼリーチェア",
+    "pronunciation": "すいーつたうんのぜりーちぇあ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11436,
+    "name": "スイーツタウンのロリポップライト",
+    "pronunciation": "すいーつたうんのろりぽっぷらいと",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11437,
+    "name": "スイーツタウンのアーチ",
+    "pronunciation": "すいーつたうんのあーち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11438,
+    "name": "スイーツタウンのわたあめの木",
+    "pronunciation": "すいーつたうんのわたあめのき",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11439,
+    "name": "スイーツタウンのパーテーション",
+    "pronunciation": "すいーつたうんのぱーてーしょん",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11440,
+    "name": "スイーツタウンのマカロンクッション",
+    "pronunciation": "すいーつたうんのまかろんくっしょん",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11441,
+    "name": "スイーツタウンのお花",
+    "pronunciation": "すいーつたうんのおはな",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11442,
+    "name": "スイーツタウンのクッキーのラグ",
+    "pronunciation": "すいーつたうんのくっきーのらぐ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11443,
+    "name": "ウェディングケーキ",
+    "pronunciation": "うぇでぃんぐけーき",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11444,
+    "name": "[リミテッドスタイル vol.4] 一歌のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーいちかのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11445,
+    "name": "[リミテッドスタイル vol.4] 一歌のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーいちかのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11446,
+    "name": "[リミテッドスタイル vol.4] 一歌のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーいちかのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11447,
+    "name": "[リミテッドスタイル vol.4] 遥のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーはるかのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11448,
+    "name": "[リミテッドスタイル vol.4] 遥のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーはるかのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11449,
+    "name": "[リミテッドスタイル vol.4] 遥のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーはるかのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11450,
+    "name": "[リミテッドスタイル vol.4] 彰人のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーあきとのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11451,
+    "name": "[リミテッドスタイル vol.4] 彰人のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーあきとのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11452,
+    "name": "[リミテッドスタイル vol.4] 彰人のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーあきとのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11453,
+    "name": "[リミテッドスタイル vol.4] 寧々のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーねねのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11454,
+    "name": "[リミテッドスタイル vol.4] 寧々のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーねねのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11455,
+    "name": "[リミテッドスタイル vol.4] 寧々のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーねねのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11456,
+    "name": "[リミテッドスタイル vol.4] 絵名のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーえなのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11457,
+    "name": "[リミテッドスタイル vol.4] 絵名のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーえなのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11458,
+    "name": "[リミテッドスタイル vol.4] 絵名のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーえなのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11459,
+    "name": "[リミテッドスタイル vol.4] ルカのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーるかのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11460,
+    "name": "[リミテッドスタイル vol.4] ルカのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーるかのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11461,
+    "name": "[リミテッドスタイル vol.4] ルカのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーるかのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11462,
+    "name": "Miraiの像",
+    "pronunciation": "みらいのぞう",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11463,
+    "name": "バースデーケーキ（寧々）",
+    "pronunciation": "ばーすでーけーきねね",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11464,
+    "name": "バースデーバルーン（寧々）",
+    "pronunciation": "ばーすでーばるーんねね",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11465,
+    "name": "バースデーブーケ（寧々）",
+    "pronunciation": "ばーすでーぶーけねね",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11466,
+    "name": "バースデーガーランド（寧々）",
+    "pronunciation": "ばーすでーがーらんどねね",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11467,
+    "name": "バースデーチェア（寧々）",
+    "pronunciation": "ばーすでーちぇあねね",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11468,
+    "name": "草薙寧々BD '26",
+    "pronunciation": "くさなぎねねばーすでーにじゅうろく",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11469,
+    "name": "バースデーケーキ（杏）",
+    "pronunciation": "ばーすでーけーきあん",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11470,
+    "name": "バースデーバルーン（杏）",
+    "pronunciation": "ばーすでーばるーんあん",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11471,
+    "name": "バースデーブーケ（杏）",
+    "pronunciation": "ばーすでーぶーけあん",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11472,
+    "name": "バースデーガーランド（杏）",
+    "pronunciation": "ばーすでーがーらんどあん",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11473,
+    "name": "バースデーチェア（杏）",
+    "pronunciation": "ばーすでーちぇああん",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11474,
+    "name": "白石杏BD '26",
+    "pronunciation": "しらいしあんばーすでーにじゅうろく",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11475,
+    "name": "あわいろアクアドロップの家",
+    "pronunciation": "あわいろあくあどろっぷのいえ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11476,
+    "name": "あわいろアクアドロップの壁",
+    "pronunciation": "あわいろあくあどろっぷのかべ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11477,
+    "name": "あわいろアクアドロップの床",
+    "pronunciation": "あわいろあくあどろっぷのゆか",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11478,
+    "name": "あわいろアクアドロップの窓",
+    "pronunciation": "あわいろあくあどろっぷのまど",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11479,
+    "name": "あわいろアクアドロップの鏡台",
+    "pronunciation": "あわいろあくあどろっぷのきょうだい",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11480,
+    "name": "あわいろアクアドロップのテーブル",
+    "pronunciation": "あわいろあくあどろっぷのてーぶる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11481,
+    "name": "あわいろアクアドロップの椅子",
+    "pronunciation": "あわいろあくあどろっぷのいす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11482,
+    "name": "あわいろアクアドロップのベッド",
+    "pronunciation": "あわいろあくあどろっぷのべっど",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11483,
+    "name": "あわいろアクアドロップのランプ",
+    "pronunciation": "あわいろあくあどろっぷのらんぷ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11484,
+    "name": "あわいろアクアドロップの珊瑚",
+    "pronunciation": "あわいろあくあどろっぷのさんご",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11485,
+    "name": "あわいろアクアドロップの宝箱",
+    "pronunciation": "あわいろあくあどろっぷのたからばこ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11486,
+    "name": "[リミテッドスタイル vol.4] 穂波のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーほなみのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11487,
+    "name": "[リミテッドスタイル vol.4] 穂波のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーほなみのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11488,
+    "name": "[リミテッドスタイル vol.4] 穂波のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーほなみのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11489,
+    "name": "[リミテッドスタイル vol.4] 愛莉のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーあいりのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11490,
+    "name": "[リミテッドスタイル vol.4] 愛莉のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーあいりのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11491,
+    "name": "[リミテッドスタイル vol.4] 愛莉のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーあいりのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11492,
+    "name": "[リミテッドスタイル vol.4] こはねのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーこはねのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11493,
+    "name": "[リミテッドスタイル vol.4] こはねのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーこはねのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11494,
+    "name": "[リミテッドスタイル vol.4] こはねのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーこはねのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11495,
+    "name": "[リミテッドスタイル vol.4] 類のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーるいのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11496,
+    "name": "[リミテッドスタイル vol.4] 類のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーるいのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11497,
+    "name": "[リミテッドスタイル vol.4] 類のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーるいのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11498,
+    "name": "[リミテッドスタイル vol.4] まふゆのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーまふゆのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11499,
+    "name": "[リミテッドスタイル vol.4] まふゆのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーまふゆのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11500,
+    "name": "[リミテッドスタイル vol.4] まふゆのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーまふゆのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11501,
+    "name": "[リミテッドスタイル vol.4] レンのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーれんのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11502,
+    "name": "[リミテッドスタイル vol.4] レンのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーれんのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11503,
+    "name": "[リミテッドスタイル vol.4] レンのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーれんのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11504,
+    "name": "[リミテッドスタイル vol.4] MEIKOのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーめいこのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11505,
+    "name": "[リミテッドスタイル vol.4] MEIKOのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーめいこのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11506,
+    "name": "[リミテッドスタイル vol.4] MEIKOのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーめいこのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11507,
+    "name": "バースデーケーキ（一歌）",
+    "pronunciation": "ばーすでーけーきいちか",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11508,
+    "name": "バースデーバルーン（一歌）",
+    "pronunciation": "ばーすでーばるーんいちか",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11509,
+    "name": "バースデーブーケ（一歌）",
+    "pronunciation": "ばーすでーぶーけいちか",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11510,
+    "name": "バースデーガーランド（一歌）",
+    "pronunciation": "ばーすでーがーらんどいちか",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11511,
+    "name": "バースデーチェア（一歌）",
+    "pronunciation": "ばーすでーちぇあいちか",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11512,
+    "name": "星乃一歌BD '26",
+    "pronunciation": "ほしのいちかばーすでーにじゅうろく",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11513,
+    "name": "バースデーケーキ（瑞希）",
+    "pronunciation": "ばーすでーけーきみずき",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11514,
+    "name": "バースデーバルーン（瑞希）",
+    "pronunciation": "ばーすでーばるーんみずき",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11515,
+    "name": "バースデーブーケ（瑞希）",
+    "pronunciation": "ばーすでーぶーけみずき",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11516,
+    "name": "バースデーガーランド（瑞希）",
+    "pronunciation": "ばーすでーがーらんどみずき",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11517,
+    "name": "バースデーチェア（瑞希）",
+    "pronunciation": "ばーすでーちぇあみずき",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11518,
+    "name": "暁山瑞希BD '26",
+    "pronunciation": "あきやまみずきばーすでーにじゅうろく",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11519,
+    "name": "アニバーサリーケーキ（ミク）",
+    "pronunciation": "あにばーさりーけーきみく",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11520,
+    "name": "アニバーサリーバルーン（ミク）",
+    "pronunciation": "あにばーさりーばるーんみく",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11521,
+    "name": "アニバーサリーブーケ（ミク）",
+    "pronunciation": "あにばーさりーぶーけみく",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11522,
+    "name": "アニバーサリーガーランド（ミク）",
+    "pronunciation": "あにばーさりーがーらんどみく",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11523,
+    "name": "アニバーサリーチェア（ミク）",
+    "pronunciation": "あにばーさりーちぇあみく",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11524,
+    "name": "初音ミクAN '26",
+    "pronunciation": "はつねみくあにばーさりーにじゅうろく",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11525,
+    "name": "バースデーケーキ（えむ）",
+    "pronunciation": "ばーすでーけーきえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11526,
+    "name": "バースデーバルーン（えむ）",
+    "pronunciation": "ばーすでーばるーんえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11527,
+    "name": "バースデーブーケ（えむ）",
+    "pronunciation": "ばーすでーぶーけえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11528,
+    "name": "バースデーガーランド（えむ）",
+    "pronunciation": "ばーすでーがーらんどえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11529,
+    "name": "バースデーチェア（えむ）",
+    "pronunciation": "ばーすでーちぇあえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11530,
+    "name": "鳳えむBD '26",
+    "pronunciation": "おおとりえむばーすでーにじゅうろく",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11531,
+    "name": "甘味処",
+    "pronunciation": "かんみどころ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11532,
+    "name": "お土産処",
+    "pronunciation": "おみやげどころ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11533,
+    "name": "提灯ガーランド",
+    "pronunciation": "ちょうちんがーらんど",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11534,
+    "name": "和風の橋",
+    "pronunciation": "わふうのはし",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11535,
+    "name": "マルシェの家",
+    "pronunciation": "まるしぇのいえ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11536,
+    "name": "マルシェの野菜ワゴン",
+    "pronunciation": "まるしぇのやさいわごん",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11537,
+    "name": "マルシェのアクセサリーワゴン",
+    "pronunciation": "まるしぇのあくせさりーわごん",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11538,
+    "name": "マルシェのブレッドワゴン",
+    "pronunciation": "まるしぇのぶれっどわごん",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11539,
+    "name": "マルシェのアイスワゴン",
+    "pronunciation": "まるしぇのあいすわごん",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11540,
+    "name": "マルシェのアーチ",
+    "pronunciation": "まるしぇのあーち",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11541,
+    "name": "マルシェの展示台",
+    "pronunciation": "まるしぇのてんじだい",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11542,
+    "name": "マルシェのライト",
+    "pronunciation": "まるしぇのらいと",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11543,
+    "name": "マルシェの木箱",
+    "pronunciation": "まるしぇのきばこ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11558,
+    "name": "[リミテッドスタイル vol.4] 咲希のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーさきのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11559,
+    "name": "[リミテッドスタイル vol.4] 咲希のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーさきのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11560,
+    "name": "[リミテッドスタイル vol.4] 咲希のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーさきのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11561,
+    "name": "[リミテッドスタイル vol.4] みのりのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーみのりのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11562,
+    "name": "[リミテッドスタイル vol.4] みのりのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーみのりのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11563,
+    "name": "[リミテッドスタイル vol.4] みのりのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーみのりのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11564,
+    "name": "[リミテッドスタイル vol.4] 冬弥のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーとうやのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11565,
+    "name": "[リミテッドスタイル vol.4] 冬弥のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーとうやのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11566,
+    "name": "[リミテッドスタイル vol.4] 冬弥のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーとうやのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11567,
+    "name": "[リミテッドスタイル vol.4] えむのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーえむのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11568,
+    "name": "[リミテッドスタイル vol.4] えむのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーえむのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11569,
+    "name": "[リミテッドスタイル vol.4] えむのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーえむのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11570,
+    "name": "[リミテッドスタイル vol.4] 瑞希のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーみずきのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11571,
+    "name": "[リミテッドスタイル vol.4] 瑞希のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーみずきのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11572,
+    "name": "[リミテッドスタイル vol.4] 瑞希のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーみずきのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11573,
+    "name": "[リミテッドスタイル vol.4] ミクのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーみくのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11574,
+    "name": "[リミテッドスタイル vol.4] ミクのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーみくのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11575,
+    "name": "[リミテッドスタイル vol.4] ミクのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーみくのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11851,
+    "name": "[リミテッドスタイル vol.4] 志歩のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーしほのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11852,
+    "name": "[リミテッドスタイル vol.4] 志歩のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーしほのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11853,
+    "name": "[リミテッドスタイル vol.4] 志歩のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーしほのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11854,
+    "name": "[リミテッドスタイル vol.4] 雫のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーしずくのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11855,
+    "name": "[リミテッドスタイル vol.4] 雫のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーしずくのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11856,
+    "name": "[リミテッドスタイル vol.4] 雫のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーしずくのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11857,
+    "name": "[リミテッドスタイル vol.4] 杏のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーあんのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11858,
+    "name": "[リミテッドスタイル vol.4] 杏のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーあんのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11859,
+    "name": "[リミテッドスタイル vol.4] 杏のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーあんのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11860,
+    "name": "[リミテッドスタイル vol.4] 司のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーつかさのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11861,
+    "name": "[リミテッドスタイル vol.4] 司のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーつかさのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11862,
+    "name": "[リミテッドスタイル vol.4] 司のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーつかさのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11863,
+    "name": "[リミテッドスタイル vol.4] 奏のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーかなでのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11864,
+    "name": "[リミテッドスタイル vol.4] 奏のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーかなでのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11865,
+    "name": "[リミテッドスタイル vol.4] 奏のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーかなでのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11866,
+    "name": "[リミテッドスタイル vol.4] リンのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーりんのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11867,
+    "name": "[リミテッドスタイル vol.4] リンのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーりんのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11868,
+    "name": "[リミテッドスタイル vol.4] リンのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーりんのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11869,
+    "name": "[リミテッドスタイル vol.4] KAITOのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーかいとのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11870,
+    "name": "[リミテッドスタイル vol.4] KAITOのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーかいとのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11871,
+    "name": "[リミテッドスタイル vol.4] KAITOのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーかいとのぬいぐるみえる",
     "mysekaiFixtureTagType": "none"
   }
 ]

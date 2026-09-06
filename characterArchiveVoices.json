@@ -4067,6 +4067,72 @@
     "displayStartAt": 1732933800000
   },
   {
+    "id": 2010154,
+    "groupId": 2010154,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここは勢いをつけて……！",
+    "displayPhrase2": "一歌ちゃん、がんばれ〜！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16001,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2010155,
+    "groupId": 2010155,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "すごいアクロバット……！",
+    "displayPhrase2": "一歌ちゃんも一緒に〜！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16002,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2010156,
+    "groupId": 2010156,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "一緒に歌おう、鳳さん！",
+    "displayPhrase2": "ぎゅぎゅっと心を込めてね！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16003,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2010157,
+    "groupId": 2010157,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "きらきらのステージ、届けよー！",
+    "displayPhrase2": "楽しんでいこうね",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16004,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2010158,
+    "groupId": 2010158,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "一歌ちゃん、キラキラだ！",
+    "displayPhrase2": "鳳さんのおかげだよ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16005,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2010159,
+    "groupId": 2010159,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "一歌ちゃん、せーのっ！",
+    "displayPhrase2": "わんだほーい！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16006,
+    "displayStartAt": 1780194600000
+  },
+  {
     "id": 2020001,
     "groupId": 2020001,
     "gameCharacterId": 2,
@@ -5915,6 +5981,28 @@
     "displayStartAt": 1772159400000
   },
   {
+    "id": 2020169,
+    "groupId": 2020169,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "想いを込めて弾きます！",
+    "displayPhrase2": "フフ、さすがは咲希くんだ",
+    "characterArchiveVoiceTagId": 1,
+    "externalId": 16045,
+    "displayStartAt": 1787884200000
+  },
+  {
+    "id": 2020170,
+    "groupId": 2020170,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "とっておきを見せてあげよう",
+    "displayPhrase2": "るいさんの演出、魔法みたい！",
+    "characterArchiveVoiceTagId": 1,
+    "externalId": 16046,
+    "displayStartAt": 1787884200000
+  },
+  {
     "id": 2030001,
     "groupId": 2030001,
     "gameCharacterId": 3,
@@ -7719,6 +7807,204 @@
     "displayStartAt": 1761877800000
   },
   {
+    "id": 2030183,
+    "groupId": 2030183,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "この調子でいきましょう",
+    "displayPhrase2": "うん、いい感じ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16015,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2030184,
+    "groupId": 2030184,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "こんな感じでどうですか？",
+    "displayPhrase2": "練習の成果が出てるね",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16016,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2030185,
+    "groupId": 2030185,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ふふ、楽しいですね",
+    "displayPhrase2": "うん……俺も",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16017,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2030186,
+    "groupId": 2030186,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "穂波ならもっとできるよ",
+    "displayPhrase2": "が、がんばります……！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16018,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2030187,
+    "groupId": 2030187,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "音に想いを込めて……",
+    "displayPhrase2": "はい、丁寧にいきましょう",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16019,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2030188,
+    "groupId": 2030188,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "胸に響く演奏だね",
+    "displayPhrase2": "たくさん練習しましたから",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16020,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2030189,
+    "groupId": 2030189,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "最後まで頑張りましょう",
+    "displayPhrase2": "出し惜しみはなしだな",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16021,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2030190,
+    "groupId": 2030190,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "このテンポでいきましょう",
+    "displayPhrase2": "おう、任せとけ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16022,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2030191,
+    "groupId": 2030191,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "東雲さんの歌、すごい……！",
+    "displayPhrase2": "お前こそ、やるな",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16023,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2030192,
+    "groupId": 2030192,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "気ぃ緩めんなよ",
+    "displayPhrase2": "はい。集中していきます",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16024,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2030193,
+    "groupId": 2030193,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "やっぱリズム感いいな",
+    "displayPhrase2": "ふふ、ドラマーですから",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16025,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2030194,
+    "groupId": 2030194,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここはかまさねえとな",
+    "displayPhrase2": "こ、こんな感じですか？",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16026,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2030195,
+    "groupId": 2030195,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "神代さん、冷静ですね",
+    "displayPhrase2": "こう見えて胸が躍っているよ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16027,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2030196,
+    "groupId": 2030196,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "もっと盛り上げるには……",
+    "displayPhrase2": "演出なら相談にのるよ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16028,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2030197,
+    "groupId": 2030197,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "今です、神代さん！",
+    "displayPhrase2": "さあ、僕の見せ場だ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16029,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2030198,
+    "groupId": 2030198,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "情熱的なステージにしよう",
+    "displayPhrase2": "じゃあ、テンポを上げて……！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16030,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2030199,
+    "groupId": 2030199,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "胸を打つ演奏だね",
+    "displayPhrase2": "ふふ、ありがとうございます",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16031,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2030200,
+    "groupId": 2030200,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここで望月くんにライトを！",
+    "displayPhrase2": "わ、わたしですか……！？",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16032,
+    "displayStartAt": 1785465000000
+  },
+  {
     "id": 2040001,
     "groupId": 2040001,
     "gameCharacterId": 4,
@@ -9323,6 +9609,72 @@
     "characterArchiveVoiceTagId": 6,
     "externalId": 15856,
     "displayStartAt": 1738290600000
+  },
+  {
+    "id": 2040147,
+    "groupId": 2040147,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここから上げるよ！",
+    "displayPhrase2": "ビビッとしゅーちゅー！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16007,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2040148,
+    "groupId": 2040148,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "しっかり決めるよ！",
+    "displayPhrase2": "志歩ちゃんメラメラだ〜！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16008,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2040149,
+    "groupId": 2040149,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "鳳さん、ついてきて",
+    "displayPhrase2": "ベースに合わせて、ダンスダーンスっ♪",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16009,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2040150,
+    "groupId": 2040150,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ベース、かっこい〜！",
+    "displayPhrase2": "鳳さんのダンスもいいね",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16010,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2040151,
+    "groupId": 2040151,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "楽しいね、志歩ちゃん！",
+    "displayPhrase2": "うん、そうだね……！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16011,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2040152,
+    "groupId": 2040152,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "志歩ちゃん、ニコニコだね！",
+    "displayPhrase2": "え、そう……？",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16012,
+    "displayStartAt": 1780194600000
   },
   {
     "id": 2050001,
@@ -11096,6 +11448,204 @@
     "displayStartAt": 1772159400000
   },
   {
+    "id": 2050162,
+    "groupId": 2050162,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ダンスで盛り上げるねっ！",
+    "displayPhrase2": "じゃあ、わたしは歌で……！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15981,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2050163,
+    "groupId": 2050163,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "もっと想いを込めて……！",
+    "displayPhrase2": "わたしも、もっと……！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15982,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2050164,
+    "groupId": 2050164,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "一緒に歌うと心強いな",
+    "displayPhrase2": "ふふ、わたしも",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15983,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2050165,
+    "groupId": 2050165,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "花里さん、キラキラしてるな",
+    "displayPhrase2": "えへへ、アイドルですから！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15984,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2050166,
+    "groupId": 2050166,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "絶対成功させよう！",
+    "displayPhrase2": "うん！　わたし達なら大丈夫！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15985,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2050167,
+    "groupId": 2050167,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "花里さん、いくよ！",
+    "displayPhrase2": "希望と笑顔を届けよう！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15986,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2050180,
+    "groupId": 2050180,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "かっこいい歌……！",
+    "displayPhrase2": "そりゃ、どーも",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16033,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2050181,
+    "groupId": 2050181,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "東雲くんも笑顔でね！",
+    "displayPhrase2": "それはお前に任せる",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16034,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2050182,
+    "groupId": 2050182,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "アイドル魂、見せます！",
+    "displayPhrase2": "はっ、いい気合いじゃねえか",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16035,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2050183,
+    "groupId": 2050183,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "妙なセッションだな",
+    "displayPhrase2": "よろしくね、東雲くん！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16036,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2050184,
+    "groupId": 2050184,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "手ぇ振ってる場合か？",
+    "displayPhrase2": "歌にも集中……！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16037,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2050185,
+    "groupId": 2050185,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "おい、飛ばしすぎだ",
+    "displayPhrase2": "えへへ、楽しくなっちゃって",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16038,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2050186,
+    "groupId": 2050186,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ワクワクしてきました！",
+    "displayPhrase2": "演者も楽しんでこそだよ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16039,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2050187,
+    "groupId": 2050187,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここはわたしの出番！",
+    "displayPhrase2": "ああ、期待しているよ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16040,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2050188,
+    "groupId": 2050188,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "神代さんも踊りましょう！",
+    "displayPhrase2": "もちろん、声援に応えよう",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16041,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2050189,
+    "groupId": 2050189,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここでダンスを入れようか",
+    "displayPhrase2": "が、頑張ります！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16042,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2050190,
+    "groupId": 2050190,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "次の演出を披露しよう",
+    "displayPhrase2": "ええっ、ステージにドローンが！？",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16043,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2050191,
+    "groupId": 2050191,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "さあ、僕達もいこうか",
+    "displayPhrase2": "キラキラの笑顔を届けましょう！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16044,
+    "displayStartAt": 1785465000000
+  },
+  {
     "id": 2060001,
     "groupId": 2060001,
     "gameCharacterId": 6,
@@ -12810,6 +13360,28 @@
     "characterArchiveVoiceTagId": 6,
     "externalId": 15966,
     "displayStartAt": 1769740200000
+  },
+  {
+    "id": 2060175,
+    "groupId": 2060175,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "音楽と希望を！",
+    "displayPhrase2": "うん。一緒に届けよう",
+    "characterArchiveVoiceTagId": 1,
+    "externalId": 15999,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2060176,
+    "groupId": 2060176,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "わたしにできるかな……",
+    "displayPhrase2": "大丈夫、一緒にやりましょう！",
+    "characterArchiveVoiceTagId": 1,
+    "externalId": 16000,
+    "displayStartAt": 1780194600000
   },
   {
     "id": 2070001,
@@ -14548,6 +15120,94 @@
     "characterArchiveVoiceTagId": 6,
     "externalId": 15934,
     "displayStartAt": 1756449000000
+  },
+  {
+    "id": 2070159,
+    "groupId": 2070159,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "今のフレーズ、完璧ね！",
+    "displayPhrase2": "桃井さんがリードしてくれたから",
+    "characterArchiveVoiceTagId": 1,
+    "externalId": 15979,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2070160,
+    "groupId": 2070160,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "元気をもらえる歌だね",
+    "displayPhrase2": "もっと元気にしちゃうわよ！",
+    "characterArchiveVoiceTagId": 1,
+    "externalId": 15980,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2070161,
+    "groupId": 2070161,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "朝比奈さんも踊らない？",
+    "displayPhrase2": "じゃあ、ちょっとだけ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15987,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2070162,
+    "groupId": 2070162,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "手拍子、いくわよ～！",
+    "displayPhrase2": "盛り上げ方、上手いな",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15988,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2070163,
+    "groupId": 2070163,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "まだまだこれからよ！",
+    "displayPhrase2": "全力でサポートするね",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15989,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2070164,
+    "groupId": 2070164,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここのメロディーは……",
+    "displayPhrase2": "あら、素敵な歌声ね！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15990,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2070165,
+    "groupId": 2070165,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ワン、ツー、ターン！っと……",
+    "displayPhrase2": "さすが呑み込み早いわね……！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15991,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2070166,
+    "groupId": 2070166,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "私達の見せ場だね",
+    "displayPhrase2": "失敗する気がしないわ！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15992,
+    "displayStartAt": 1774837800000
   },
   {
     "id": 2080001,
@@ -19940,6 +20600,28 @@
     "displayStartAt": 1772159400000
   },
   {
+    "id": 2100155,
+    "groupId": 2100155,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "先輩、キレッキレですね！",
+    "displayPhrase2": "まだまだ序の口だ！",
+    "characterArchiveVoiceTagId": 1,
+    "externalId": 16013,
+    "displayStartAt": 1782714600000
+  },
+  {
+    "id": 2100156,
+    "groupId": 2100156,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "好きに歌え、白石！",
+    "displayPhrase2": "はーい、じゃあ遠慮なく！",
+    "characterArchiveVoiceTagId": 1,
+    "externalId": 16014,
+    "displayStartAt": 1782714600000
+  },
+  {
     "id": 2110001,
     "groupId": 2110001,
     "gameCharacterId": 11,
@@ -21522,6 +22204,138 @@
     "characterArchiveVoiceTagId": 1,
     "externalId": 15818,
     "displayStartAt": 1730341800000
+  },
+  {
+    "id": 2110157,
+    "groupId": 2110157,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "気ぃ緩めんなよ",
+    "displayPhrase2": "はい。集中していきます",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16024,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2110158,
+    "groupId": 2110158,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "やっぱリズム感いいな",
+    "displayPhrase2": "ふふ、ドラマーですから",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16025,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2110159,
+    "groupId": 2110159,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここはかまさねえとな",
+    "displayPhrase2": "こ、こんな感じですか？",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16026,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2110160,
+    "groupId": 2110160,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "最後まで頑張りましょう",
+    "displayPhrase2": "出し惜しみはなしだな",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16021,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2110161,
+    "groupId": 2110161,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "このテンポでいきましょう",
+    "displayPhrase2": "おう、任せとけ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16022,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2110162,
+    "groupId": 2110162,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "東雲さんの歌、すごい……！",
+    "displayPhrase2": "お前こそ、やるな",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16023,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2110163,
+    "groupId": 2110163,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "妙なセッションだな",
+    "displayPhrase2": "よろしくね、東雲くん！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16036,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2110164,
+    "groupId": 2110164,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "手ぇ振ってる場合か？",
+    "displayPhrase2": "歌にも集中……！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16037,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2110165,
+    "groupId": 2110165,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "おい、飛ばしすぎだ",
+    "displayPhrase2": "えへへ、楽しくなっちゃって",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16038,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2110166,
+    "groupId": 2110166,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "かっこいい歌……！",
+    "displayPhrase2": "そりゃ、どーも",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16033,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2110167,
+    "groupId": 2110167,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "東雲くんも笑顔でね！",
+    "displayPhrase2": "それはお前に任せる",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16034,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2110168,
+    "groupId": 2110168,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "アイドル魂、見せます！",
+    "displayPhrase2": "はっ、いい気合いじゃねえか",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16035,
+    "displayStartAt": 1785465000000
   },
   {
     "id": 2120001,
@@ -25022,6 +25836,94 @@
     "displayStartAt": 1756449000000
   },
   {
+    "id": 2130165,
+    "groupId": 2130165,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ギアを上げるぞ！",
+    "displayPhrase2": "え、まだ上が……？",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15993,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2130166,
+    "groupId": 2130166,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "とっておきのポーズだ！",
+    "displayPhrase2": "ふふ、面白いな",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15994,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2130167,
+    "groupId": 2130167,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "いくぞ、決めのポーズ！",
+    "displayPhrase2": "こ、こうかな？",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15995,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2130168,
+    "groupId": 2130168,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここは合わせます！",
+    "displayPhrase2": "おお、頼もしいな！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15996,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2130169,
+    "groupId": 2130169,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "すごいジャンプ力……！",
+    "displayPhrase2": "ハッハッハ、スターだからな！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15997,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2130170,
+    "groupId": 2130170,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここで決めなきゃ！",
+    "displayPhrase2": "ああ、期待を超えてみせよう！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15998,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2130171,
+    "groupId": 2130171,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "先輩、キレッキレですね！",
+    "displayPhrase2": "まだまだ序の口だ！",
+    "characterArchiveVoiceTagId": 1,
+    "externalId": 16013,
+    "displayStartAt": 1782714600000
+  },
+  {
+    "id": 2130172,
+    "groupId": 2130172,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "好きに歌え、白石！",
+    "displayPhrase2": "はーい、じゃあ遠慮なく！",
+    "characterArchiveVoiceTagId": 1,
+    "externalId": 16014,
+    "displayStartAt": 1782714600000
+  },
+  {
     "id": 2140001,
     "groupId": 2140001,
     "gameCharacterId": 14,
@@ -26716,6 +27618,138 @@
     "displayStartAt": 1772159400000
   },
   {
+    "id": 2140155,
+    "groupId": 2140155,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "きらきらのステージ、届けよー！",
+    "displayPhrase2": "楽しんでいこうね",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16004,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2140156,
+    "groupId": 2140156,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "一歌ちゃん、キラキラだ！",
+    "displayPhrase2": "鳳さんのおかげだよ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16005,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2140157,
+    "groupId": 2140157,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "一歌ちゃん、せーのっ！",
+    "displayPhrase2": "わんだほーい！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16006,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2140158,
+    "groupId": 2140158,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここは勢いをつけて……！",
+    "displayPhrase2": "一歌ちゃん、がんばれ〜！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16001,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2140159,
+    "groupId": 2140159,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "すごいアクロバット……！",
+    "displayPhrase2": "一歌ちゃんも一緒に〜！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16002,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2140160,
+    "groupId": 2140160,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "一緒に歌おう、鳳さん！",
+    "displayPhrase2": "ぎゅぎゅっと心を込めてね！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16003,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2140161,
+    "groupId": 2140161,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ベース、かっこい〜！",
+    "displayPhrase2": "鳳さんのダンスもいいね",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16010,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2140162,
+    "groupId": 2140162,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "楽しいね、志歩ちゃん！",
+    "displayPhrase2": "うん、そうだね……！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16011,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2140163,
+    "groupId": 2140163,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "志歩ちゃん、ニコニコだね！",
+    "displayPhrase2": "え、そう……？",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16012,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2140164,
+    "groupId": 2140164,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここから上げるよ！",
+    "displayPhrase2": "ビビッとしゅーちゅー！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16007,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2140165,
+    "groupId": 2140165,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "しっかり決めるよ！",
+    "displayPhrase2": "志歩ちゃんメラメラだ〜！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16008,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2140166,
+    "groupId": 2140166,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "鳳さん、ついてきて",
+    "displayPhrase2": "ベースに合わせて、ダンスダーンスっ♪",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16009,
+    "displayStartAt": 1780194600000
+  },
+  {
     "id": 2150001,
     "groupId": 2150001,
     "gameCharacterId": 15,
@@ -28254,6 +29288,72 @@
     "characterArchiveVoiceTagId": 1,
     "externalId": 15904,
     "displayStartAt": 1745980200000
+  },
+  {
+    "id": 2150141,
+    "groupId": 2150141,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "花里さん、キラキラしてるな",
+    "displayPhrase2": "えへへ、アイドルですから！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15984,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2150142,
+    "groupId": 2150142,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "絶対成功させよう！",
+    "displayPhrase2": "うん！　わたし達なら大丈夫！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15985,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2150143,
+    "groupId": 2150143,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "花里さん、いくよ！",
+    "displayPhrase2": "希望と笑顔を届けよう！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15986,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2150144,
+    "groupId": 2150144,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ダンスで盛り上げるねっ！",
+    "displayPhrase2": "じゃあ、わたしは歌で……！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15981,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2150145,
+    "groupId": 2150145,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "もっと想いを込めて……！",
+    "displayPhrase2": "わたしも、もっと……！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15982,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2150146,
+    "groupId": 2150146,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "一緒に歌うと心強いな",
+    "displayPhrase2": "ふふ、わたしも",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15983,
+    "displayStartAt": 1774837800000
   },
   {
     "id": 2160001,
@@ -29906,6 +31006,160 @@
     "displayStartAt": 1756449000000
   },
   {
+    "id": 2160163,
+    "groupId": 2160163,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "情熱的なステージにしよう",
+    "displayPhrase2": "じゃあ、テンポを上げて……！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16030,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2160164,
+    "groupId": 2160164,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "胸を打つ演奏だね",
+    "displayPhrase2": "ふふ、ありがとうございます",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16031,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2160165,
+    "groupId": 2160165,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここで望月くんにライトを！",
+    "displayPhrase2": "わ、わたしですか……！？",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16032,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2160166,
+    "groupId": 2160166,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "神代さん、冷静ですね",
+    "displayPhrase2": "こう見えて胸が躍っているよ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16027,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2160167,
+    "groupId": 2160167,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "もっと盛り上げるには……",
+    "displayPhrase2": "演出なら相談にのるよ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16028,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2160168,
+    "groupId": 2160168,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "今です、神代さん！",
+    "displayPhrase2": "さあ、僕の見せ場だ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16029,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2160169,
+    "groupId": 2160169,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここでダンスを入れようか",
+    "displayPhrase2": "が、頑張ります！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16042,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2160170,
+    "groupId": 2160170,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "次の演出を披露しよう",
+    "displayPhrase2": "ええっ、ステージにドローンが！？",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16043,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2160171,
+    "groupId": 2160171,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "さあ、僕達もいこうか",
+    "displayPhrase2": "キラキラの笑顔を届けましょう！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16044,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2160172,
+    "groupId": 2160172,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ワクワクしてきました！",
+    "displayPhrase2": "演者も楽しんでこそだよ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16039,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2160173,
+    "groupId": 2160173,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここはわたしの出番！",
+    "displayPhrase2": "ああ、期待しているよ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16040,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2160174,
+    "groupId": 2160174,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "神代さんも踊りましょう！",
+    "displayPhrase2": "もちろん、声援に応えよう",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16041,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2160175,
+    "groupId": 2160175,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "想いを込めて弾きます！",
+    "displayPhrase2": "フフ、さすがは咲希くんだ",
+    "characterArchiveVoiceTagId": 1,
+    "externalId": 16045,
+    "displayStartAt": 1787884200000
+  },
+  {
+    "id": 2160176,
+    "groupId": 2160176,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "とっておきを見せてあげよう",
+    "displayPhrase2": "るいさんの演出、魔法みたい！",
+    "characterArchiveVoiceTagId": 1,
+    "externalId": 16046,
+    "displayStartAt": 1787884200000
+  },
+  {
     "id": 2170001,
     "groupId": 2170001,
     "gameCharacterId": 17,
@@ -31380,6 +32634,28 @@
     "displayStartAt": 1752546600000
   },
   {
+    "id": 2170135,
+    "groupId": 2170135,
+    "gameCharacterId": 17,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "音楽と希望を！",
+    "displayPhrase2": "うん。一緒に届けよう",
+    "characterArchiveVoiceTagId": 1,
+    "externalId": 15999,
+    "displayStartAt": 1780194600000
+  },
+  {
+    "id": 2170136,
+    "groupId": 2170136,
+    "gameCharacterId": 17,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "わたしにできるかな……",
+    "displayPhrase2": "大丈夫、一緒にやりましょう！",
+    "characterArchiveVoiceTagId": 1,
+    "externalId": 16000,
+    "displayStartAt": 1780194600000
+  },
+  {
     "id": 2180001,
     "groupId": 2180001,
     "gameCharacterId": 18,
@@ -32786,6 +34062,160 @@
     "characterArchiveVoiceTagId": 1,
     "externalId": 15960,
     "displayStartAt": 1769740200000
+  },
+  {
+    "id": 2180129,
+    "groupId": 2180129,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "今のフレーズ、完璧ね！",
+    "displayPhrase2": "桃井さんがリードしてくれたから",
+    "characterArchiveVoiceTagId": 1,
+    "externalId": 15979,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2180130,
+    "groupId": 2180130,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "元気をもらえる歌だね",
+    "displayPhrase2": "もっと元気にしちゃうわよ！",
+    "characterArchiveVoiceTagId": 1,
+    "externalId": 15980,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2180131,
+    "groupId": 2180131,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここのメロディーは……",
+    "displayPhrase2": "あら、素敵な歌声ね！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15990,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2180132,
+    "groupId": 2180132,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ワン、ツー、ターン！っと……",
+    "displayPhrase2": "さすが呑み込み早いわね……！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15991,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2180133,
+    "groupId": 2180133,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "私達の見せ場だね",
+    "displayPhrase2": "失敗する気がしないわ！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15992,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2180134,
+    "groupId": 2180134,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "朝比奈さんも踊らない？",
+    "displayPhrase2": "じゃあ、ちょっとだけ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15987,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2180135,
+    "groupId": 2180135,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "手拍子、いくわよ～！",
+    "displayPhrase2": "盛り上げ方、上手いな",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15988,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2180136,
+    "groupId": 2180136,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "まだまだこれからよ！",
+    "displayPhrase2": "全力でサポートするね",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15989,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2180137,
+    "groupId": 2180137,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここは合わせます！",
+    "displayPhrase2": "おお、頼もしいな！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15996,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2180138,
+    "groupId": 2180138,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "すごいジャンプ力……！",
+    "displayPhrase2": "ハッハッハ、スターだからな！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15997,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2180139,
+    "groupId": 2180139,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ここで決めなきゃ！",
+    "displayPhrase2": "ああ、期待を超えてみせよう！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15998,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2180140,
+    "groupId": 2180140,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ギアを上げるぞ！",
+    "displayPhrase2": "え、まだ上が……？",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15993,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2180141,
+    "groupId": 2180141,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "とっておきのポーズだ！",
+    "displayPhrase2": "ふふ、面白いな",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15994,
+    "displayStartAt": 1774837800000
+  },
+  {
+    "id": 2180142,
+    "groupId": 2180142,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "いくぞ、決めのポーズ！",
+    "displayPhrase2": "こ、こうかな？",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 15995,
+    "displayStartAt": 1774837800000
   },
   {
     "id": 2190001,
@@ -55896,6 +57326,78 @@
     "displayStartAt": 1761877800000
   },
   {
+    "id": 2260274,
+    "groupId": 2260274,
+    "gameCharacterId": 26,
+    "unit": "light_sound",
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "穂波ならもっとできるよ",
+    "displayPhrase2": "が、がんばります……！",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16018,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2260275,
+    "groupId": 2260275,
+    "gameCharacterId": 26,
+    "unit": "light_sound",
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "音に想いを込めて……",
+    "displayPhrase2": "はい、丁寧にいきましょう",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16019,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2260276,
+    "groupId": 2260276,
+    "gameCharacterId": 26,
+    "unit": "light_sound",
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "胸に響く演奏だね",
+    "displayPhrase2": "たくさん練習しましたから",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16020,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2260277,
+    "groupId": 2260277,
+    "gameCharacterId": 26,
+    "unit": "light_sound",
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "この調子でいきましょう",
+    "displayPhrase2": "うん、いい感じ",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16015,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2260278,
+    "groupId": 2260278,
+    "gameCharacterId": 26,
+    "unit": "light_sound",
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "こんな感じでどうですか？",
+    "displayPhrase2": "練習の成果が出てるね",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16016,
+    "displayStartAt": 1785465000000
+  },
+  {
+    "id": 2260279,
+    "groupId": 2260279,
+    "gameCharacterId": 26,
+    "unit": "light_sound",
+    "characterArchiveVoiceType": "live_cutin_pair",
+    "displayPhrase": "ふふ、楽しいですね",
+    "displayPhrase2": "うん……俺も",
+    "characterArchiveVoiceTagId": 6,
+    "externalId": 16017,
+    "displayStartAt": 1785465000000
+  },
+  {
     "id": 3010001,
     "groupId": 3010001,
     "gameCharacterId": 1,
@@ -64510,6 +66012,126 @@
     "displayStartAt": 1773846000000
   },
   {
+    "id": 4010223,
+    "groupId": 4010223,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6766,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4010224,
+    "groupId": 4010224,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6787,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4010225,
+    "groupId": 4010225,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6806,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4010226,
+    "groupId": 4010226,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6825,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4010227,
+    "groupId": 4010227,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6844,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4010228,
+    "groupId": 4010228,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6864,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4010229,
+    "groupId": 4010229,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6974,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4010230,
+    "groupId": 4010230,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7005,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4010231,
+    "groupId": 4010231,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7044,
+    "isNextGrade": true,
+    "displayStartAt": 1786374000000
+  },
+  {
+    "id": 4010232,
+    "groupId": 4010232,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7081,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4010233,
+    "groupId": 4010233,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7112,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4010234,
+    "groupId": 4010234,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7205,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
+  },
+  {
     "id": 4020004,
     "groupId": 4020004,
     "gameCharacterId": 2,
@@ -66428,6 +68050,146 @@
     "externalId": 6684,
     "isNextGrade": true,
     "displayStartAt": 1773846000000
+  },
+  {
+    "id": 4020223,
+    "groupId": 4020223,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6767,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4020224,
+    "groupId": 4020224,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6807,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4020225,
+    "groupId": 4020225,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6826,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4020226,
+    "groupId": 4020226,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6845,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4020227,
+    "groupId": 4020227,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6867,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4020228,
+    "groupId": 4020228,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6957,
+    "isNextGrade": true,
+    "displayStartAt": 1782226800000
+  },
+  {
+    "id": 4020229,
+    "groupId": 4020229,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6975,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4020230,
+    "groupId": 4020230,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7006,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4020231,
+    "groupId": 4020231,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7025,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4020232,
+    "groupId": 4020232,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7045,
+    "isNextGrade": true,
+    "displayStartAt": 1786374000000
+  },
+  {
+    "id": 4020233,
+    "groupId": 4020233,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7061,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4020234,
+    "groupId": 4020234,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7082,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4020235,
+    "groupId": 4020235,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7115,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4020236,
+    "groupId": 4020236,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7206,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
   },
   {
     "id": 4030004,
@@ -68400,6 +70162,146 @@
     "displayStartAt": 1773846000000
   },
   {
+    "id": 4030228,
+    "groupId": 4030228,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6768,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4030229,
+    "groupId": 4030229,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6788,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4030230,
+    "groupId": 4030230,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6808,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4030231,
+    "groupId": 4030231,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6827,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4030232,
+    "groupId": 4030232,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6846,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4030233,
+    "groupId": 4030233,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6870,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4030234,
+    "groupId": 4030234,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6958,
+    "isNextGrade": true,
+    "displayStartAt": 1782226800000
+  },
+  {
+    "id": 4030235,
+    "groupId": 4030235,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6976,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4030236,
+    "groupId": 4030236,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7007,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4030237,
+    "groupId": 4030237,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7046,
+    "isNextGrade": true,
+    "displayStartAt": 1786374000000
+  },
+  {
+    "id": 4030238,
+    "groupId": 4030238,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7062,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4030239,
+    "groupId": 4030239,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7083,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4030240,
+    "groupId": 4030240,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7118,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4030241,
+    "groupId": 4030241,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7207,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
+  },
+  {
     "id": 4040004,
     "groupId": 4040004,
     "gameCharacterId": 4,
@@ -70298,6 +72200,136 @@
     "externalId": 6686,
     "isNextGrade": true,
     "displayStartAt": 1773846000000
+  },
+  {
+    "id": 4040220,
+    "groupId": 4040220,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6769,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4040221,
+    "groupId": 4040221,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6789,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4040222,
+    "groupId": 4040222,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6809,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4040223,
+    "groupId": 4040223,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6828,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4040224,
+    "groupId": 4040224,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6873,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4040225,
+    "groupId": 4040225,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6977,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4040226,
+    "groupId": 4040226,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7008,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4040227,
+    "groupId": 4040227,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7026,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4040228,
+    "groupId": 4040228,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7047,
+    "isNextGrade": true,
+    "displayStartAt": 1786374000000
+  },
+  {
+    "id": 4040229,
+    "groupId": 4040229,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7063,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4040230,
+    "groupId": 4040230,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7084,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4040231,
+    "groupId": 4040231,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7121,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4040232,
+    "groupId": 4040232,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7208,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
   },
   {
     "id": 4050004,
@@ -72260,6 +74292,156 @@
     "displayStartAt": 1773846000000
   },
   {
+    "id": 4050227,
+    "groupId": 4050227,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6770,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4050228,
+    "groupId": 4050228,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6790,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4050229,
+    "groupId": 4050229,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6810,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4050230,
+    "groupId": 4050230,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6829,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4050231,
+    "groupId": 4050231,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6847,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4050232,
+    "groupId": 4050232,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6876,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4050233,
+    "groupId": 4050233,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6959,
+    "isNextGrade": true,
+    "displayStartAt": 1782226800000
+  },
+  {
+    "id": 4050234,
+    "groupId": 4050234,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6978,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4050235,
+    "groupId": 4050235,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7009,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4050236,
+    "groupId": 4050236,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7027,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4050237,
+    "groupId": 4050237,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7048,
+    "isNextGrade": true,
+    "displayStartAt": 1786374000000
+  },
+  {
+    "id": 4050238,
+    "groupId": 4050238,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7064,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4050239,
+    "groupId": 4050239,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7085,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4050240,
+    "groupId": 4050240,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7124,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4050241,
+    "groupId": 4050241,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7209,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
+  },
+  {
     "id": 4060004,
     "groupId": 4060004,
     "gameCharacterId": 6,
@@ -74138,6 +76320,146 @@
     "externalId": 6688,
     "isNextGrade": true,
     "displayStartAt": 1773846000000
+  },
+  {
+    "id": 4060219,
+    "groupId": 4060219,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6771,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4060220,
+    "groupId": 4060220,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6791,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4060221,
+    "groupId": 4060221,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6811,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4060222,
+    "groupId": 4060222,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6830,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4060223,
+    "groupId": 4060223,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6848,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4060224,
+    "groupId": 4060224,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6879,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4060225,
+    "groupId": 4060225,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6979,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4060226,
+    "groupId": 4060226,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7010,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4060227,
+    "groupId": 4060227,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7028,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4060228,
+    "groupId": 4060228,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7049,
+    "isNextGrade": true,
+    "displayStartAt": 1786374000000
+  },
+  {
+    "id": 4060229,
+    "groupId": 4060229,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7065,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4060230,
+    "groupId": 4060230,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7086,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4060231,
+    "groupId": 4060231,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7127,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4060232,
+    "groupId": 4060232,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7210,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
   },
   {
     "id": 4070004,
@@ -76078,6 +78400,156 @@
     "externalId": 6689,
     "isNextGrade": true,
     "displayStartAt": 1773846000000
+  },
+  {
+    "id": 4070225,
+    "groupId": 4070225,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6772,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4070226,
+    "groupId": 4070226,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6792,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4070227,
+    "groupId": 4070227,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6812,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4070228,
+    "groupId": 4070228,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6831,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4070229,
+    "groupId": 4070229,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6849,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4070230,
+    "groupId": 4070230,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6882,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4070231,
+    "groupId": 4070231,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6960,
+    "isNextGrade": true,
+    "displayStartAt": 1782226800000
+  },
+  {
+    "id": 4070232,
+    "groupId": 4070232,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6980,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4070233,
+    "groupId": 4070233,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7011,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4070234,
+    "groupId": 4070234,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7029,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4070235,
+    "groupId": 4070235,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7050,
+    "isNextGrade": true,
+    "displayStartAt": 1786374000000
+  },
+  {
+    "id": 4070236,
+    "groupId": 4070236,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7066,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4070237,
+    "groupId": 4070237,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7087,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4070238,
+    "groupId": 4070238,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7130,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4070239,
+    "groupId": 4070239,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7211,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
   },
   {
     "id": 4080004,
@@ -78058,6 +80530,156 @@
     "externalId": 6690,
     "isNextGrade": true,
     "displayStartAt": 1773846000000
+  },
+  {
+    "id": 4080229,
+    "groupId": 4080229,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6773,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4080230,
+    "groupId": 4080230,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6793,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4080231,
+    "groupId": 4080231,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6813,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4080232,
+    "groupId": 4080232,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6832,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4080233,
+    "groupId": 4080233,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6850,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4080234,
+    "groupId": 4080234,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6885,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4080235,
+    "groupId": 4080235,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6961,
+    "isNextGrade": true,
+    "displayStartAt": 1782226800000
+  },
+  {
+    "id": 4080236,
+    "groupId": 4080236,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6981,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4080237,
+    "groupId": 4080237,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7012,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4080238,
+    "groupId": 4080238,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7030,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4080239,
+    "groupId": 4080239,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7051,
+    "isNextGrade": true,
+    "displayStartAt": 1786374000000
+  },
+  {
+    "id": 4080240,
+    "groupId": 4080240,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7067,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4080241,
+    "groupId": 4080241,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7088,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4080242,
+    "groupId": 4080242,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7133,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4080243,
+    "groupId": 4080243,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7212,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
   },
   {
     "id": 4090004,
@@ -80120,6 +82742,156 @@
     "displayStartAt": 1773846000000
   },
   {
+    "id": 4090246,
+    "groupId": 4090246,
+    "gameCharacterId": 9,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6774,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4090247,
+    "groupId": 4090247,
+    "gameCharacterId": 9,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6794,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4090248,
+    "groupId": 4090248,
+    "gameCharacterId": 9,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6814,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4090249,
+    "groupId": 4090249,
+    "gameCharacterId": 9,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6833,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4090250,
+    "groupId": 4090250,
+    "gameCharacterId": 9,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6851,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4090251,
+    "groupId": 4090251,
+    "gameCharacterId": 9,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6888,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4090252,
+    "groupId": 4090252,
+    "gameCharacterId": 9,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6962,
+    "isNextGrade": true,
+    "displayStartAt": 1782226800000
+  },
+  {
+    "id": 4090253,
+    "groupId": 4090253,
+    "gameCharacterId": 9,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6982,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4090254,
+    "groupId": 4090254,
+    "gameCharacterId": 9,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7013,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4090255,
+    "groupId": 4090255,
+    "gameCharacterId": 9,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7031,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4090256,
+    "groupId": 4090256,
+    "gameCharacterId": 9,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7052,
+    "isNextGrade": true,
+    "displayStartAt": 1786374000000
+  },
+  {
+    "id": 4090257,
+    "groupId": 4090257,
+    "gameCharacterId": 9,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7068,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4090258,
+    "groupId": 4090258,
+    "gameCharacterId": 9,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7089,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4090259,
+    "groupId": 4090259,
+    "gameCharacterId": 9,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7136,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4090260,
+    "groupId": 4090260,
+    "gameCharacterId": 9,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7213,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
+  },
+  {
     "id": 4100004,
     "groupId": 4100004,
     "gameCharacterId": 10,
@@ -82000,6 +84772,146 @@
     "displayStartAt": 1773846000000
   },
   {
+    "id": 4100218,
+    "groupId": 4100218,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6775,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4100219,
+    "groupId": 4100219,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6795,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4100220,
+    "groupId": 4100220,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6815,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4100221,
+    "groupId": 4100221,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6834,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4100222,
+    "groupId": 4100222,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6852,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4100223,
+    "groupId": 4100223,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6891,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4100224,
+    "groupId": 4100224,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6963,
+    "isNextGrade": true,
+    "displayStartAt": 1782226800000
+  },
+  {
+    "id": 4100225,
+    "groupId": 4100225,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6983,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4100226,
+    "groupId": 4100226,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7014,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4100227,
+    "groupId": 4100227,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7032,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4100228,
+    "groupId": 4100228,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7069,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4100229,
+    "groupId": 4100229,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7090,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4100230,
+    "groupId": 4100230,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7139,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4100231,
+    "groupId": 4100231,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7214,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
+  },
+  {
     "id": 4110004,
     "groupId": 4110004,
     "gameCharacterId": 11,
@@ -83860,6 +86772,136 @@
     "displayStartAt": 1773846000000
   },
   {
+    "id": 4110217,
+    "groupId": 4110217,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6776,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4110218,
+    "groupId": 4110218,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6796,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4110219,
+    "groupId": 4110219,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6835,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4110220,
+    "groupId": 4110220,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6853,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4110221,
+    "groupId": 4110221,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6894,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4110222,
+    "groupId": 4110222,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6964,
+    "isNextGrade": true,
+    "displayStartAt": 1782226800000
+  },
+  {
+    "id": 4110223,
+    "groupId": 4110223,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6984,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4110224,
+    "groupId": 4110224,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7015,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4110225,
+    "groupId": 4110225,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7033,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4110226,
+    "groupId": 4110226,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7070,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4110227,
+    "groupId": 4110227,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7091,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4110228,
+    "groupId": 4110228,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7142,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4110229,
+    "groupId": 4110229,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7215,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
+  },
+  {
     "id": 4120004,
     "groupId": 4120004,
     "gameCharacterId": 12,
@@ -85668,6 +88710,156 @@
     "externalId": 6694,
     "isNextGrade": true,
     "displayStartAt": 1773846000000
+  },
+  {
+    "id": 4120212,
+    "groupId": 4120212,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6777,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4120213,
+    "groupId": 4120213,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6797,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4120214,
+    "groupId": 4120214,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6816,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4120215,
+    "groupId": 4120215,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6836,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4120216,
+    "groupId": 4120216,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6854,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4120217,
+    "groupId": 4120217,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6897,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4120218,
+    "groupId": 4120218,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6965,
+    "isNextGrade": true,
+    "displayStartAt": 1782226800000
+  },
+  {
+    "id": 4120219,
+    "groupId": 4120219,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6985,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4120220,
+    "groupId": 4120220,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7016,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4120221,
+    "groupId": 4120221,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7034,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4120222,
+    "groupId": 4120222,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7053,
+    "isNextGrade": true,
+    "displayStartAt": 1786374000000
+  },
+  {
+    "id": 4120223,
+    "groupId": 4120223,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7071,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4120224,
+    "groupId": 4120224,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7092,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4120225,
+    "groupId": 4120225,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7145,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4120226,
+    "groupId": 4120226,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7216,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
   },
   {
     "id": 4130004,
@@ -87638,6 +90830,146 @@
     "externalId": 6695,
     "isNextGrade": true,
     "displayStartAt": 1773846000000
+  },
+  {
+    "id": 4130228,
+    "groupId": 4130228,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6778,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4130229,
+    "groupId": 4130229,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6817,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4130230,
+    "groupId": 4130230,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6837,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4130231,
+    "groupId": 4130231,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6855,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4130232,
+    "groupId": 4130232,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6900,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4130233,
+    "groupId": 4130233,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6966,
+    "isNextGrade": true,
+    "displayStartAt": 1782226800000
+  },
+  {
+    "id": 4130234,
+    "groupId": 4130234,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6986,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4130235,
+    "groupId": 4130235,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7017,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4130236,
+    "groupId": 4130236,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7035,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4130237,
+    "groupId": 4130237,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7054,
+    "isNextGrade": true,
+    "displayStartAt": 1786374000000
+  },
+  {
+    "id": 4130238,
+    "groupId": 4130238,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7072,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4130239,
+    "groupId": 4130239,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7093,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4130240,
+    "groupId": 4130240,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7148,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4130241,
+    "groupId": 4130241,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7217,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
   },
   {
     "id": 4140004,
@@ -89650,6 +92982,156 @@
     "displayStartAt": 1773846000000
   },
   {
+    "id": 4140232,
+    "groupId": 4140232,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6779,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4140233,
+    "groupId": 4140233,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6798,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4140234,
+    "groupId": 4140234,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6818,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4140235,
+    "groupId": 4140235,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6838,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4140236,
+    "groupId": 4140236,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6856,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4140237,
+    "groupId": 4140237,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6903,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4140238,
+    "groupId": 4140238,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6967,
+    "isNextGrade": true,
+    "displayStartAt": 1782226800000
+  },
+  {
+    "id": 4140239,
+    "groupId": 4140239,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6987,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4140240,
+    "groupId": 4140240,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7018,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4140241,
+    "groupId": 4140241,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7036,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4140242,
+    "groupId": 4140242,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7055,
+    "isNextGrade": true,
+    "displayStartAt": 1786374000000
+  },
+  {
+    "id": 4140243,
+    "groupId": 4140243,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7073,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4140244,
+    "groupId": 4140244,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7094,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4140245,
+    "groupId": 4140245,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7151,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4140246,
+    "groupId": 4140246,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7218,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
+  },
+  {
     "id": 4150004,
     "groupId": 4150004,
     "gameCharacterId": 15,
@@ -91510,6 +94992,156 @@
     "displayStartAt": 1773846000000
   },
   {
+    "id": 4150219,
+    "groupId": 4150219,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6780,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4150220,
+    "groupId": 4150220,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6799,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4150221,
+    "groupId": 4150221,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6819,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4150222,
+    "groupId": 4150222,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6839,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4150223,
+    "groupId": 4150223,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6857,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4150224,
+    "groupId": 4150224,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6906,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4150225,
+    "groupId": 4150225,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6968,
+    "isNextGrade": true,
+    "displayStartAt": 1782226800000
+  },
+  {
+    "id": 4150226,
+    "groupId": 4150226,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6988,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4150227,
+    "groupId": 4150227,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7019,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4150228,
+    "groupId": 4150228,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7037,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4150229,
+    "groupId": 4150229,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7056,
+    "isNextGrade": true,
+    "displayStartAt": 1786374000000
+  },
+  {
+    "id": 4150230,
+    "groupId": 4150230,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7074,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4150231,
+    "groupId": 4150231,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7095,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4150232,
+    "groupId": 4150232,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7154,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4150233,
+    "groupId": 4150233,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7219,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
+  },
+  {
     "id": 4160004,
     "groupId": 4160004,
     "gameCharacterId": 16,
@@ -93330,6 +96962,146 @@
     "displayStartAt": 1773846000000
   },
   {
+    "id": 4160213,
+    "groupId": 4160213,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6781,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4160214,
+    "groupId": 4160214,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6800,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4160215,
+    "groupId": 4160215,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6820,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4160216,
+    "groupId": 4160216,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6840,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4160217,
+    "groupId": 4160217,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6858,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4160218,
+    "groupId": 4160218,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6909,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4160219,
+    "groupId": 4160219,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6969,
+    "isNextGrade": true,
+    "displayStartAt": 1782226800000
+  },
+  {
+    "id": 4160220,
+    "groupId": 4160220,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6989,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4160221,
+    "groupId": 4160221,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7020,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4160222,
+    "groupId": 4160222,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7038,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4160223,
+    "groupId": 4160223,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7075,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4160224,
+    "groupId": 4160224,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7096,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4160225,
+    "groupId": 4160225,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7157,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4160226,
+    "groupId": 4160226,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7220,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
+  },
+  {
     "id": 4170004,
     "groupId": 4170004,
     "gameCharacterId": 17,
@@ -95018,6 +98790,136 @@
     "externalId": 6699,
     "isNextGrade": true,
     "displayStartAt": 1773846000000
+  },
+  {
+    "id": 4170198,
+    "groupId": 4170198,
+    "gameCharacterId": 17,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6782,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4170199,
+    "groupId": 4170199,
+    "gameCharacterId": 17,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6801,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4170200,
+    "groupId": 4170200,
+    "gameCharacterId": 17,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6821,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4170201,
+    "groupId": 4170201,
+    "gameCharacterId": 17,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6859,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4170202,
+    "groupId": 4170202,
+    "gameCharacterId": 17,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6912,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4170203,
+    "groupId": 4170203,
+    "gameCharacterId": 17,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6990,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4170204,
+    "groupId": 4170204,
+    "gameCharacterId": 17,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7021,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4170205,
+    "groupId": 4170205,
+    "gameCharacterId": 17,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7039,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4170206,
+    "groupId": 4170206,
+    "gameCharacterId": 17,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7057,
+    "isNextGrade": true,
+    "displayStartAt": 1786374000000
+  },
+  {
+    "id": 4170207,
+    "groupId": 4170207,
+    "gameCharacterId": 17,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7076,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4170208,
+    "groupId": 4170208,
+    "gameCharacterId": 17,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7097,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4170209,
+    "groupId": 4170209,
+    "gameCharacterId": 17,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7160,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4170210,
+    "groupId": 4170210,
+    "gameCharacterId": 17,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7221,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
   },
   {
     "id": 4180004,
@@ -96768,6 +100670,146 @@
     "externalId": 6700,
     "isNextGrade": true,
     "displayStartAt": 1773846000000
+  },
+  {
+    "id": 4180206,
+    "groupId": 4180206,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6783,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4180207,
+    "groupId": 4180207,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6802,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4180208,
+    "groupId": 4180208,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6822,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4180209,
+    "groupId": 4180209,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6841,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4180210,
+    "groupId": 4180210,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6860,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4180211,
+    "groupId": 4180211,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6915,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4180212,
+    "groupId": 4180212,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6970,
+    "isNextGrade": true,
+    "displayStartAt": 1782226800000
+  },
+  {
+    "id": 4180213,
+    "groupId": 4180213,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6991,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4180214,
+    "groupId": 4180214,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7040,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4180215,
+    "groupId": 4180215,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7058,
+    "isNextGrade": true,
+    "displayStartAt": 1786374000000
+  },
+  {
+    "id": 4180216,
+    "groupId": 4180216,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7077,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4180217,
+    "groupId": 4180217,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7098,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4180218,
+    "groupId": 4180218,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7163,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4180219,
+    "groupId": 4180219,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7222,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
   },
   {
     "id": 4190004,
@@ -98648,6 +102690,136 @@
     "externalId": 6701,
     "isNextGrade": true,
     "displayStartAt": 1773846000000
+  },
+  {
+    "id": 4190219,
+    "groupId": 4190219,
+    "gameCharacterId": 19,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6784,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4190220,
+    "groupId": 4190220,
+    "gameCharacterId": 19,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6803,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4190221,
+    "groupId": 4190221,
+    "gameCharacterId": 19,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6861,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4190222,
+    "groupId": 4190222,
+    "gameCharacterId": 19,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6918,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4190223,
+    "groupId": 4190223,
+    "gameCharacterId": 19,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6971,
+    "isNextGrade": true,
+    "displayStartAt": 1782226800000
+  },
+  {
+    "id": 4190224,
+    "groupId": 4190224,
+    "gameCharacterId": 19,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6992,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4190225,
+    "groupId": 4190225,
+    "gameCharacterId": 19,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7022,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4190226,
+    "groupId": 4190226,
+    "gameCharacterId": 19,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7041,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4190227,
+    "groupId": 4190227,
+    "gameCharacterId": 19,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7059,
+    "isNextGrade": true,
+    "displayStartAt": 1786374000000
+  },
+  {
+    "id": 4190228,
+    "groupId": 4190228,
+    "gameCharacterId": 19,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7078,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4190229,
+    "groupId": 4190229,
+    "gameCharacterId": 19,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7099,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4190230,
+    "groupId": 4190230,
+    "gameCharacterId": 19,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7166,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4190231,
+    "groupId": 4190231,
+    "gameCharacterId": 19,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7223,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
   },
   {
     "id": 4200004,
@@ -100588,6 +104760,146 @@
     "externalId": 6702,
     "isNextGrade": true,
     "displayStartAt": 1773846000000
+  },
+  {
+    "id": 4200225,
+    "groupId": 4200225,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6785,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4200226,
+    "groupId": 4200226,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6804,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4200227,
+    "groupId": 4200227,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6823,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4200228,
+    "groupId": 4200228,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6842,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4200229,
+    "groupId": 4200229,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6862,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4200230,
+    "groupId": 4200230,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6921,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4200231,
+    "groupId": 4200231,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6972,
+    "isNextGrade": true,
+    "displayStartAt": 1782226800000
+  },
+  {
+    "id": 4200232,
+    "groupId": 4200232,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6993,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4200233,
+    "groupId": 4200233,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7023,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4200234,
+    "groupId": 4200234,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7042,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4200235,
+    "groupId": 4200235,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7079,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4200236,
+    "groupId": 4200236,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7100,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4200237,
+    "groupId": 4200237,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7169,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4200238,
+    "groupId": 4200238,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7224,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
   },
   {
     "id": 4210019,
@@ -109577,6 +113889,391 @@
     "displayStartAt": 1773846000000
   },
   {
+    "id": 4211032,
+    "groupId": 4211032,
+    "gameCharacterId": 21,
+    "unit": "idol",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6786,
+    "isNextGrade": true,
+    "displayStartAt": 1776092400000
+  },
+  {
+    "id": 4211033,
+    "groupId": 4211033,
+    "gameCharacterId": 21,
+    "unit": "school_refusal",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6805,
+    "isNextGrade": true,
+    "displayStartAt": 1777474800000
+  },
+  {
+    "id": 4211034,
+    "groupId": 4211034,
+    "gameCharacterId": 21,
+    "unit": "light_sound",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6824,
+    "isNextGrade": true,
+    "displayStartAt": 1778252400000
+  },
+  {
+    "id": 4211035,
+    "groupId": 4211035,
+    "gameCharacterId": 21,
+    "unit": "theme_park",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6843,
+    "isNextGrade": true,
+    "displayStartAt": 1778943600000
+  },
+  {
+    "id": 4211036,
+    "groupId": 4211036,
+    "gameCharacterId": 21,
+    "unit": "street",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6863,
+    "isNextGrade": true,
+    "displayStartAt": 1779634800000
+  },
+  {
+    "id": 4211037,
+    "groupId": 4211037,
+    "gameCharacterId": 21,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6924,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4211038,
+    "groupId": 4211038,
+    "gameCharacterId": 21,
+    "unit": "light_sound",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6942,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4211039,
+    "groupId": 4211039,
+    "gameCharacterId": 21,
+    "unit": "idol",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6945,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4211040,
+    "groupId": 4211040,
+    "gameCharacterId": 21,
+    "unit": "street",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6948,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4211041,
+    "groupId": 4211041,
+    "gameCharacterId": 21,
+    "unit": "theme_park",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6951,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4211042,
+    "groupId": 4211042,
+    "gameCharacterId": 21,
+    "unit": "school_refusal",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6954,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4211043,
+    "groupId": 4211043,
+    "gameCharacterId": 21,
+    "unit": "theme_park",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 6973,
+    "isNextGrade": true,
+    "displayStartAt": 1782226800000
+  },
+  {
+    "id": 4211044,
+    "groupId": 4211044,
+    "gameCharacterId": 21,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6994,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4211045,
+    "groupId": 4211045,
+    "gameCharacterId": 21,
+    "unit": "light_sound",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 7000,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4211046,
+    "groupId": 4211046,
+    "gameCharacterId": 21,
+    "unit": "idol",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 7001,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4211047,
+    "groupId": 4211047,
+    "gameCharacterId": 21,
+    "unit": "street",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 7002,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4211048,
+    "groupId": 4211048,
+    "gameCharacterId": 21,
+    "unit": "theme_park",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 7003,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4211049,
+    "groupId": 4211049,
+    "gameCharacterId": 21,
+    "unit": "school_refusal",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 7004,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4211050,
+    "groupId": 4211050,
+    "gameCharacterId": 21,
+    "unit": "theme_park",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7024,
+    "isNextGrade": true,
+    "displayStartAt": 1784473200000
+  },
+  {
+    "id": 4211051,
+    "groupId": 4211051,
+    "gameCharacterId": 21,
+    "unit": "street",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7043,
+    "isNextGrade": true,
+    "displayStartAt": 1784991600000
+  },
+  {
+    "id": 4211052,
+    "groupId": 4211052,
+    "gameCharacterId": 21,
+    "unit": "light_sound",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7060,
+    "isNextGrade": true,
+    "displayStartAt": 1786374000000
+  },
+  {
+    "id": 4211053,
+    "groupId": 4211053,
+    "gameCharacterId": 21,
+    "unit": "school_refusal",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7080,
+    "isNextGrade": true,
+    "displayStartAt": 1787756400000
+  },
+  {
+    "id": 4211054,
+    "groupId": 4211054,
+    "gameCharacterId": 21,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7101,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4211055,
+    "groupId": 4211055,
+    "gameCharacterId": 21,
+    "unit": "light_sound",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7107,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4211056,
+    "groupId": 4211056,
+    "gameCharacterId": 21,
+    "unit": "idol",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7108,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4211057,
+    "groupId": 4211057,
+    "gameCharacterId": 21,
+    "unit": "street",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7109,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4211058,
+    "groupId": 4211058,
+    "gameCharacterId": 21,
+    "unit": "theme_park",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7110,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4211059,
+    "groupId": 4211059,
+    "gameCharacterId": 21,
+    "unit": "school_refusal",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7111,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4211060,
+    "groupId": 4211060,
+    "gameCharacterId": 21,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7172,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4211061,
+    "groupId": 4211061,
+    "gameCharacterId": 21,
+    "unit": "light_sound",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7190,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4211062,
+    "groupId": 4211062,
+    "gameCharacterId": 21,
+    "unit": "idol",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7193,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4211063,
+    "groupId": 4211063,
+    "gameCharacterId": 21,
+    "unit": "street",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7196,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4211064,
+    "groupId": 4211064,
+    "gameCharacterId": 21,
+    "unit": "theme_park",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7199,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4211065,
+    "groupId": 4211065,
+    "gameCharacterId": 21,
+    "unit": "school_refusal",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7202,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
+    "id": 4211066,
+    "groupId": 4211066,
+    "gameCharacterId": 21,
+    "unit": "theme_park",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7225,
+    "isNextGrade": true,
+    "displayStartAt": 1788879600000
+  },
+  {
     "id": 4220004,
     "groupId": 4220004,
     "gameCharacterId": 22,
@@ -110961,6 +115658,50 @@
     "externalId": 6673,
     "isNextGrade": true,
     "displayStartAt": 1773414000000
+  },
+  {
+    "id": 4220156,
+    "groupId": 4220156,
+    "gameCharacterId": 22,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6927,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4220157,
+    "groupId": 4220157,
+    "gameCharacterId": 22,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6995,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4220158,
+    "groupId": 4220158,
+    "gameCharacterId": 22,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7102,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4220159,
+    "groupId": 4220159,
+    "gameCharacterId": 22,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7175,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
   },
   {
     "id": 4230004,
@@ -112349,6 +117090,50 @@
     "displayStartAt": 1773414000000
   },
   {
+    "id": 4230156,
+    "groupId": 4230156,
+    "gameCharacterId": 23,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6930,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4230157,
+    "groupId": 4230157,
+    "gameCharacterId": 23,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6996,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4230158,
+    "groupId": 4230158,
+    "gameCharacterId": 23,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7103,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4230159,
+    "groupId": 4230159,
+    "gameCharacterId": 23,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7178,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
     "id": 4240004,
     "groupId": 4240004,
     "gameCharacterId": 24,
@@ -113733,6 +118518,50 @@
     "externalId": 6675,
     "isNextGrade": true,
     "displayStartAt": 1773414000000
+  },
+  {
+    "id": 4240156,
+    "groupId": 4240156,
+    "gameCharacterId": 24,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6933,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4240157,
+    "groupId": 4240157,
+    "gameCharacterId": 24,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6997,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4240158,
+    "groupId": 4240158,
+    "gameCharacterId": 24,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7104,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4240159,
+    "groupId": 4240159,
+    "gameCharacterId": 24,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7181,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
   },
   {
     "id": 4250004,
@@ -115121,6 +119950,50 @@
     "displayStartAt": 1773414000000
   },
   {
+    "id": 4250156,
+    "groupId": 4250156,
+    "gameCharacterId": 25,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6936,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4250157,
+    "groupId": 4250157,
+    "gameCharacterId": 25,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6998,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4250158,
+    "groupId": 4250158,
+    "gameCharacterId": 25,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7105,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4250159,
+    "groupId": 4250159,
+    "gameCharacterId": 25,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7184,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
+  },
+  {
     "id": 4260004,
     "groupId": 4260004,
     "gameCharacterId": 26,
@@ -116505,6 +121378,50 @@
     "externalId": 6677,
     "isNextGrade": true,
     "displayStartAt": 1773414000000
+  },
+  {
+    "id": 4260156,
+    "groupId": 4260156,
+    "gameCharacterId": 26,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 6939,
+    "isNextGrade": true,
+    "displayStartAt": 1780207200000
+  },
+  {
+    "id": 4260157,
+    "groupId": 4260157,
+    "gameCharacterId": 26,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 4,
+    "externalId": 6999,
+    "isNextGrade": true,
+    "displayStartAt": 1783350000000
+  },
+  {
+    "id": 4260158,
+    "groupId": 4260158,
+    "gameCharacterId": 26,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 3,
+    "externalId": 7106,
+    "isNextGrade": true,
+    "displayStartAt": 1788102000000
+  },
+  {
+    "id": 4260159,
+    "groupId": 4260159,
+    "gameCharacterId": 26,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "comment_live_top",
+    "characterArchiveVoiceTagId": 5,
+    "externalId": 7187,
+    "isNextGrade": true,
+    "displayStartAt": 1788156000000
   },
   {
     "id": 5010001,
@@ -123519,6 +128436,46 @@
     "displayStartAt": 1764471600000
   },
   {
+    "id": 8010038,
+    "groupId": 8010038,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1375,
+    "displayStartAt": 1776481200000
+  },
+  {
+    "id": 8010039,
+    "groupId": 8010039,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1434,
+    "displayStartAt": 1785466800000
+  },
+  {
+    "id": 8010042,
+    "groupId": 8010042,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1439,
+    "displayStartAt": 1786028400000
+  },
+  {
+    "id": 8010043,
+    "groupId": 8010043,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1458,
+    "displayStartAt": 1788404400000
+  },
+  {
+    "id": 8010044,
+    "groupId": 8010044,
+    "gameCharacterId": 1,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1336,
+    "displayStartAt": 1788663600000
+  },
+  {
     "id": 8020001,
     "groupId": 8020001,
     "gameCharacterId": 2,
@@ -123823,6 +128780,30 @@
     "displayStartAt": 1770692400000
   },
   {
+    "id": 8020039,
+    "groupId": 8020039,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1381,
+    "displayStartAt": 1777518000000
+  },
+  {
+    "id": 8020040,
+    "groupId": 8020040,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1385,
+    "displayStartAt": 1777906800000
+  },
+  {
+    "id": 8020041,
+    "groupId": 8020041,
+    "gameCharacterId": 2,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1429,
+    "displayStartAt": 1784430000000
+  },
+  {
     "id": 8030001,
     "groupId": 8030001,
     "gameCharacterId": 3,
@@ -124125,6 +129106,22 @@
     "characterArchiveVoiceType": "collect_card",
     "externalId": 1291,
     "displayStartAt": 1764471600000
+  },
+  {
+    "id": 8030039,
+    "groupId": 8030039,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1380,
+    "displayStartAt": 1777518000000
+  },
+  {
+    "id": 8030040,
+    "groupId": 8030040,
+    "gameCharacterId": 3,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1405,
+    "displayStartAt": 1780887600000
   },
   {
     "id": 8040001,
@@ -124447,6 +129444,22 @@
     "displayStartAt": 1770692400000
   },
   {
+    "id": 8040041,
+    "groupId": 8040041,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1394,
+    "displayStartAt": 1778986800000
+  },
+  {
+    "id": 8040042,
+    "groupId": 8040042,
+    "gameCharacterId": 4,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1435,
+    "displayStartAt": 1785466800000
+  },
+  {
     "id": 8050001,
     "groupId": 8050001,
     "gameCharacterId": 5,
@@ -124741,6 +129754,46 @@
     "characterArchiveVoiceType": "collect_card",
     "externalId": 1351,
     "displayStartAt": 1773111600000
+  },
+  {
+    "id": 8050038,
+    "groupId": 8050038,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1373,
+    "displayStartAt": 1775746800000
+  },
+  {
+    "id": 8050039,
+    "groupId": 8050039,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1269,
+    "displayStartAt": 1778209200000
+  },
+  {
+    "id": 8050040,
+    "groupId": 8050040,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1395,
+    "displayStartAt": 1778986800000
+  },
+  {
+    "id": 8050041,
+    "groupId": 8050041,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1417,
+    "displayStartAt": 1782788400000
+  },
+  {
+    "id": 8050042,
+    "groupId": 8050042,
+    "gameCharacterId": 5,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1441,
+    "displayStartAt": 1786244400000
   },
   {
     "id": 8060001,
@@ -125047,6 +130100,30 @@
     "displayStartAt": 1766286000000
   },
   {
+    "id": 8060040,
+    "groupId": 8060040,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1376,
+    "displayStartAt": 1776481200000
+  },
+  {
+    "id": 8060041,
+    "groupId": 8060041,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1418,
+    "displayStartAt": 1782788400000
+  },
+  {
+    "id": 8060042,
+    "groupId": 8060042,
+    "gameCharacterId": 6,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1440,
+    "displayStartAt": 1786244400000
+  },
+  {
     "id": 8070001,
     "groupId": 8070001,
     "gameCharacterId": 7,
@@ -125351,6 +130428,22 @@
     "displayStartAt": 1773500400000
   },
   {
+    "id": 8070039,
+    "groupId": 8070039,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1400,
+    "displayStartAt": 1780196400000
+  },
+  {
+    "id": 8070040,
+    "groupId": 8070040,
+    "gameCharacterId": 7,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1446,
+    "displayStartAt": 1786935600000
+  },
+  {
     "id": 8080001,
     "groupId": 8080001,
     "gameCharacterId": 8,
@@ -125645,6 +130738,46 @@
     "characterArchiveVoiceType": "collect_card",
     "externalId": 1352,
     "displayStartAt": 1773111600000
+  },
+  {
+    "id": 8080038,
+    "groupId": 8080038,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1361,
+    "displayStartAt": 1774839600000
+  },
+  {
+    "id": 8080039,
+    "groupId": 8080039,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1406,
+    "displayStartAt": 1780887600000
+  },
+  {
+    "id": 8080040,
+    "groupId": 8080040,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1303,
+    "displayStartAt": 1783566000000
+  },
+  {
+    "id": 8080041,
+    "groupId": 8080041,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1442,
+    "displayStartAt": 1786244400000
+  },
+  {
+    "id": 8080042,
+    "groupId": 8080042,
+    "gameCharacterId": 8,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1459,
+    "displayStartAt": 1788404400000
   },
   {
     "id": 8090001,
@@ -125967,6 +131100,22 @@
     "displayStartAt": 1773111600000
   },
   {
+    "id": 8090042,
+    "groupId": 8090042,
+    "gameCharacterId": 9,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1386,
+    "displayStartAt": 1778209200000
+  },
+  {
+    "id": 8090043,
+    "groupId": 8090043,
+    "gameCharacterId": 9,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1407,
+    "displayStartAt": 1780887600000
+  },
+  {
     "id": 8100001,
     "groupId": 8100001,
     "gameCharacterId": 10,
@@ -126253,6 +131402,38 @@
     "characterArchiveVoiceType": "collect_card",
     "externalId": 1321,
     "displayStartAt": 1768964400000
+  },
+  {
+    "id": 8100037,
+    "groupId": 8100037,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1368,
+    "displayStartAt": 1775703600000
+  },
+  {
+    "id": 8100038,
+    "groupId": 8100038,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1396,
+    "displayStartAt": 1778986800000
+  },
+  {
+    "id": 8100039,
+    "groupId": 8100039,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1433,
+    "displayStartAt": 1784646000000
+  },
+  {
+    "id": 8100040,
+    "groupId": 8100040,
+    "gameCharacterId": 10,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1460,
+    "displayStartAt": 1788404400000
   },
   {
     "id": 8110001,
@@ -126567,6 +131748,46 @@
     "displayStartAt": 1769828400000
   },
   {
+    "id": 8110040,
+    "groupId": 8110040,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1369,
+    "displayStartAt": 1775703600000
+  },
+  {
+    "id": 8110041,
+    "groupId": 8110041,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1387,
+    "displayStartAt": 1778209200000
+  },
+  {
+    "id": 8110042,
+    "groupId": 8110042,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1323,
+    "displayStartAt": 1786244400000
+  },
+  {
+    "id": 8110043,
+    "groupId": 8110043,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1447,
+    "displayStartAt": 1786935600000
+  },
+  {
+    "id": 8110044,
+    "groupId": 8110044,
+    "gameCharacterId": 11,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1465,
+    "displayStartAt": 1788663600000
+  },
+  {
     "id": 8120001,
     "groupId": 8120001,
     "gameCharacterId": 12,
@@ -126871,6 +132092,46 @@
     "displayStartAt": 1768964400000
   },
   {
+    "id": 8120040,
+    "groupId": 8120040,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1388,
+    "displayStartAt": 1778209200000
+  },
+  {
+    "id": 8120041,
+    "groupId": 8120041,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1398,
+    "displayStartAt": 1779289200000
+  },
+  {
+    "id": 8120042,
+    "groupId": 8120042,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1415,
+    "displayStartAt": 1782788400000
+  },
+  {
+    "id": 8120043,
+    "groupId": 8120043,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1430,
+    "displayStartAt": 1784430000000
+  },
+  {
+    "id": 8120044,
+    "groupId": 8120044,
+    "gameCharacterId": 12,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1466,
+    "displayStartAt": 1788663600000
+  },
+  {
     "id": 8130001,
     "groupId": 8130001,
     "gameCharacterId": 13,
@@ -127165,6 +132426,54 @@
     "characterArchiveVoiceType": "collect_card",
     "externalId": 1327,
     "displayStartAt": 1769828400000
+  },
+  {
+    "id": 8130038,
+    "groupId": 8130038,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1391,
+    "displayStartAt": 1778598000000
+  },
+  {
+    "id": 8130039,
+    "groupId": 8130039,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1397,
+    "displayStartAt": 1778986800000
+  },
+  {
+    "id": 8130040,
+    "groupId": 8130040,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1282,
+    "displayStartAt": 1780887600000
+  },
+  {
+    "id": 8130041,
+    "groupId": 8130041,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1410,
+    "displayStartAt": 1781924400000
+  },
+  {
+    "id": 8130042,
+    "groupId": 8130042,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1312,
+    "displayStartAt": 1786244400000
+  },
+  {
+    "id": 8130043,
+    "groupId": 8130043,
+    "gameCharacterId": 13,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1461,
+    "displayStartAt": 1788404400000
   },
   {
     "id": 8140001,
@@ -127471,6 +132780,46 @@
     "displayStartAt": 1771470000000
   },
   {
+    "id": 8140039,
+    "groupId": 8140039,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1377,
+    "displayStartAt": 1776481200000
+  },
+  {
+    "id": 8140040,
+    "groupId": 8140040,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1258,
+    "displayStartAt": 1778209200000
+  },
+  {
+    "id": 8140041,
+    "groupId": 8140041,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1411,
+    "displayStartAt": 1781924400000
+  },
+  {
+    "id": 8140042,
+    "groupId": 8140042,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1298,
+    "displayStartAt": 1783566000000
+  },
+  {
+    "id": 8140043,
+    "groupId": 8140043,
+    "gameCharacterId": 14,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1464,
+    "displayStartAt": 1788534000000
+  },
+  {
     "id": 8150001,
     "groupId": 8150001,
     "gameCharacterId": 15,
@@ -127757,6 +133106,46 @@
     "characterArchiveVoiceType": "collect_card",
     "externalId": 1279,
     "displayStartAt": 1762743600000
+  },
+  {
+    "id": 8150037,
+    "groupId": 8150037,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1364,
+    "displayStartAt": 1774839600000
+  },
+  {
+    "id": 8150038,
+    "groupId": 8150038,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1416,
+    "displayStartAt": 1782788400000
+  },
+  {
+    "id": 8150039,
+    "groupId": 8150039,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1427,
+    "displayStartAt": 1784127600000
+  },
+  {
+    "id": 8150040,
+    "groupId": 8150040,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1448,
+    "displayStartAt": 1786935600000
+  },
+  {
+    "id": 8150041,
+    "groupId": 8150041,
+    "gameCharacterId": 15,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1342,
+    "displayStartAt": 1788663600000
   },
   {
     "id": 8160001,
@@ -128053,6 +133442,46 @@
     "characterArchiveVoiceType": "collect_card",
     "externalId": 1340,
     "displayStartAt": 1771470000000
+  },
+  {
+    "id": 8160038,
+    "groupId": 8160038,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1363,
+    "displayStartAt": 1774839600000
+  },
+  {
+    "id": 8160039,
+    "groupId": 8160039,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1409,
+    "displayStartAt": 1781881200000
+  },
+  {
+    "id": 8160040,
+    "groupId": 8160040,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1412,
+    "displayStartAt": 1781924400000
+  },
+  {
+    "id": 8160041,
+    "groupId": 8160041,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1431,
+    "displayStartAt": 1784430000000
+  },
+  {
+    "id": 8160042,
+    "groupId": 8160042,
+    "gameCharacterId": 16,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1330,
+    "displayStartAt": 1788663600000
   },
   {
     "id": 8170001,
@@ -128367,6 +133796,22 @@
     "displayStartAt": 1773975600000
   },
   {
+    "id": 8170042,
+    "groupId": 8170042,
+    "gameCharacterId": 17,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1378,
+    "displayStartAt": 1776481200000
+  },
+  {
+    "id": 8170043,
+    "groupId": 8170043,
+    "gameCharacterId": 17,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1462,
+    "displayStartAt": 1788404400000
+  },
+  {
     "id": 8180001,
     "groupId": 8180001,
     "gameCharacterId": 18,
@@ -128661,6 +134106,30 @@
     "characterArchiveVoiceType": "collect_card",
     "externalId": 1325,
     "displayStartAt": 1769094000000
+  },
+  {
+    "id": 8180038,
+    "groupId": 8180038,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1362,
+    "displayStartAt": 1774839600000
+  },
+  {
+    "id": 8180039,
+    "groupId": 8180039,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1408,
+    "displayStartAt": 1780887600000
+  },
+  {
+    "id": 8180040,
+    "groupId": 8180040,
+    "gameCharacterId": 18,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1423,
+    "displayStartAt": 1783566000000
   },
   {
     "id": 8190001,
@@ -128975,6 +134444,30 @@
     "displayStartAt": 1772247600000
   },
   {
+    "id": 8190040,
+    "groupId": 8190040,
+    "gameCharacterId": 19,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1379,
+    "displayStartAt": 1777129200000
+  },
+  {
+    "id": 8190041,
+    "groupId": 8190041,
+    "gameCharacterId": 19,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1422,
+    "displayStartAt": 1783566000000
+  },
+  {
+    "id": 8190042,
+    "groupId": 8190042,
+    "gameCharacterId": 19,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1449,
+    "displayStartAt": 1786935600000
+  },
+  {
     "id": 8200001,
     "groupId": 8200001,
     "gameCharacterId": 20,
@@ -129269,6 +134762,38 @@
     "characterArchiveVoiceType": "collect_card",
     "externalId": 1356,
     "displayStartAt": 1773975600000
+  },
+  {
+    "id": 8200038,
+    "groupId": 8200038,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1399,
+    "displayStartAt": 1780196400000
+  },
+  {
+    "id": 8200039,
+    "groupId": 8200039,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1432,
+    "displayStartAt": 1784430000000
+  },
+  {
+    "id": 8200040,
+    "groupId": 8200040,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1318,
+    "displayStartAt": 1786244400000
+  },
+  {
+    "id": 8200041,
+    "groupId": 8200041,
+    "gameCharacterId": 20,
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1450,
+    "displayStartAt": 1787410800000
   },
   {
     "id": 8210001,
@@ -129622,6 +135147,51 @@
     "displayStartAt": 1773975600000
   },
   {
+    "id": 8210040,
+    "groupId": 8210040,
+    "gameCharacterId": 21,
+    "unit": "theme_park",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1232,
+    "displayStartAt": 1775703600000
+  },
+  {
+    "id": 8210041,
+    "groupId": 8210041,
+    "gameCharacterId": 21,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1374,
+    "displayStartAt": 1776481200000
+  },
+  {
+    "id": 8210042,
+    "groupId": 8210042,
+    "gameCharacterId": 21,
+    "unit": "school_refusal",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1275,
+    "displayStartAt": 1780887600000
+  },
+  {
+    "id": 8210043,
+    "groupId": 8210043,
+    "gameCharacterId": 21,
+    "unit": "idol",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1419,
+    "displayStartAt": 1782788400000
+  },
+  {
+    "id": 8210044,
+    "groupId": 8210044,
+    "gameCharacterId": 21,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1451,
+    "displayStartAt": 1787756400000
+  },
+  {
     "id": 8220001,
     "groupId": 8220001,
     "gameCharacterId": 22,
@@ -129973,6 +135543,33 @@
     "displayStartAt": 1771470000000
   },
   {
+    "id": 8220040,
+    "groupId": 8220040,
+    "gameCharacterId": 22,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1392,
+    "displayStartAt": 1778986800000
+  },
+  {
+    "id": 8220041,
+    "groupId": 8220041,
+    "gameCharacterId": 22,
+    "unit": "light_sound",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1436,
+    "displayStartAt": 1785466800000
+  },
+  {
+    "id": 8220042,
+    "groupId": 8220042,
+    "gameCharacterId": 22,
+    "unit": "street",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1467,
+    "displayStartAt": 1788663600000
+  },
+  {
     "id": 8230001,
     "groupId": 8230001,
     "gameCharacterId": 23,
@@ -130313,6 +135910,42 @@
     "characterArchiveVoiceType": "collect_card",
     "externalId": 1347,
     "displayStartAt": 1772247600000
+  },
+  {
+    "id": 8230040,
+    "groupId": 8230040,
+    "gameCharacterId": 23,
+    "unit": "light_sound",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1382,
+    "displayStartAt": 1777518000000
+  },
+  {
+    "id": 8230041,
+    "groupId": 8230041,
+    "gameCharacterId": 23,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1393,
+    "displayStartAt": 1778986800000
+  },
+  {
+    "id": 8230042,
+    "groupId": 8230042,
+    "gameCharacterId": 23,
+    "unit": "street",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1287,
+    "displayStartAt": 1780887600000
+  },
+  {
+    "id": 8230043,
+    "groupId": 8230043,
+    "gameCharacterId": 23,
+    "unit": "idol",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1453,
+    "displayStartAt": 1787972400000
   },
   {
     "id": 8240001,
@@ -130657,6 +136290,42 @@
     "displayStartAt": 1770692400000
   },
   {
+    "id": 8240039,
+    "groupId": 8240039,
+    "gameCharacterId": 24,
+    "unit": "street",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1370,
+    "displayStartAt": 1775703600000
+  },
+  {
+    "id": 8240040,
+    "groupId": 8240040,
+    "gameCharacterId": 24,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1404,
+    "displayStartAt": 1780887600000
+  },
+  {
+    "id": 8240041,
+    "groupId": 8240041,
+    "gameCharacterId": 24,
+    "unit": "light_sound",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1292,
+    "displayStartAt": 1783566000000
+  },
+  {
+    "id": 8240042,
+    "groupId": 8240042,
+    "gameCharacterId": 24,
+    "unit": "street",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1452,
+    "displayStartAt": 1787972400000
+  },
+  {
     "id": 8250001,
     "groupId": 8250001,
     "gameCharacterId": 25,
@@ -130988,6 +136657,51 @@
     "characterArchiveVoiceType": "collect_card",
     "externalId": 1317,
     "displayStartAt": 1768100400000
+  },
+  {
+    "id": 8250039,
+    "groupId": 8250039,
+    "gameCharacterId": 25,
+    "unit": "theme_park",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1365,
+    "displayStartAt": 1774839600000
+  },
+  {
+    "id": 8250040,
+    "groupId": 8250040,
+    "gameCharacterId": 25,
+    "unit": "light_sound",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1264,
+    "displayStartAt": 1778209200000
+  },
+  {
+    "id": 8250041,
+    "groupId": 8250041,
+    "gameCharacterId": 25,
+    "unit": "school_refusal",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1424,
+    "displayStartAt": 1783566000000
+  },
+  {
+    "id": 8250042,
+    "groupId": 8250042,
+    "gameCharacterId": 25,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1445,
+    "displayStartAt": 1786935600000
+  },
+  {
+    "id": 8250043,
+    "groupId": 8250043,
+    "gameCharacterId": 25,
+    "unit": "street",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1463,
+    "displayStartAt": 1788404400000
   },
   {
     "id": 8260001,
@@ -131339,5 +137053,32 @@
     "characterArchiveVoiceType": "collect_card",
     "externalId": 1338,
     "displayStartAt": 1770908400000
+  },
+  {
+    "id": 8260040,
+    "groupId": 8260040,
+    "gameCharacterId": 26,
+    "unit": "idol",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1401,
+    "displayStartAt": 1780196400000
+  },
+  {
+    "id": 8260041,
+    "groupId": 8260041,
+    "gameCharacterId": 26,
+    "unit": "piapro",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1428,
+    "displayStartAt": 1784430000000
+  },
+  {
+    "id": 8260042,
+    "groupId": 8260042,
+    "gameCharacterId": 26,
+    "unit": "theme_park",
+    "characterArchiveVoiceType": "collect_card",
+    "externalId": 1454,
+    "displayStartAt": 1787972400000
   }
 ]

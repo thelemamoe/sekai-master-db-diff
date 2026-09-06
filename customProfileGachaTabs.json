@@ -176,5 +176,23 @@
     ],
     "seq": 16,
     "assetbundleName": "006_joint_mmj_wds"
+  },
+  {
+    "id": 17,
+    "childCustomProfileGachaIds": [
+      78
+    ],
+    "seq": 17,
+    "assetbundleName": "resale_collab_es_collection"
+  },
+  {
+    "id": 18,
+    "childCustomProfileGachaIds": [
+      80,
+      81,
+      82
+    ],
+    "seq": 18,
+    "assetbundleName": "resale_collection_gacha_dreamscape_live"
   }
 ]

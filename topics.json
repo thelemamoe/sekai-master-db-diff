@@ -5142,6 +5142,48 @@
     "releaseConditionId": 1
   },
   {
+    "id": 50060,
+    "topicType": "rule_slide",
+    "topicTypeId": 66,
+    "releaseConditionId": 1
+  },
+  {
+    "id": 50061,
+    "topicType": "rule_slide",
+    "topicTypeId": 67,
+    "releaseConditionId": 1
+  },
+  {
+    "id": 50062,
+    "topicType": "rule_slide",
+    "topicTypeId": 68,
+    "releaseConditionId": 1
+  },
+  {
+    "id": 50063,
+    "topicType": "rule_slide",
+    "topicTypeId": 69,
+    "releaseConditionId": 1
+  },
+  {
+    "id": 50064,
+    "topicType": "rule_slide",
+    "topicTypeId": 70,
+    "releaseConditionId": 1
+  },
+  {
+    "id": 50065,
+    "topicType": "rule_slide",
+    "topicTypeId": 71,
+    "releaseConditionId": 1
+  },
+  {
+    "id": 50066,
+    "topicType": "rule_slide",
+    "topicTypeId": 72,
+    "releaseConditionId": 1
+  },
+  {
     "id": 60001,
     "topicType": "virtual_live_reward",
     "topicTypeId": 1,
@@ -14136,6 +14178,666 @@
     "releaseConditionId": 119807
   },
   {
+    "id": 119901,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001620,
+    "releaseConditionId": 119901
+  },
+  {
+    "id": 119902,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001621,
+    "releaseConditionId": 119902
+  },
+  {
+    "id": 119903,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001622,
+    "releaseConditionId": 119903
+  },
+  {
+    "id": 119904,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001623,
+    "releaseConditionId": 119904
+  },
+  {
+    "id": 119905,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001624,
+    "releaseConditionId": 119905
+  },
+  {
+    "id": 119906,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001625,
+    "releaseConditionId": 119906
+  },
+  {
+    "id": 119907,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001626,
+    "releaseConditionId": 119907
+  },
+  {
+    "id": 120001,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001628,
+    "releaseConditionId": 120001
+  },
+  {
+    "id": 120002,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001629,
+    "releaseConditionId": 120002
+  },
+  {
+    "id": 120003,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001630,
+    "releaseConditionId": 120003
+  },
+  {
+    "id": 120004,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001631,
+    "releaseConditionId": 120004
+  },
+  {
+    "id": 120005,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001632,
+    "releaseConditionId": 120005
+  },
+  {
+    "id": 120006,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001633,
+    "releaseConditionId": 120006
+  },
+  {
+    "id": 120007,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001634,
+    "releaseConditionId": 120007
+  },
+  {
+    "id": 120101,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001637,
+    "releaseConditionId": 120102
+  },
+  {
+    "id": 120102,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001638,
+    "releaseConditionId": 120103
+  },
+  {
+    "id": 120103,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001639,
+    "releaseConditionId": 120104
+  },
+  {
+    "id": 120104,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001640,
+    "releaseConditionId": 120105
+  },
+  {
+    "id": 120105,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001641,
+    "releaseConditionId": 120106
+  },
+  {
+    "id": 120201,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001643,
+    "releaseConditionId": 120201
+  },
+  {
+    "id": 120202,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001644,
+    "releaseConditionId": 120202
+  },
+  {
+    "id": 120203,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001645,
+    "releaseConditionId": 120203
+  },
+  {
+    "id": 120204,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001646,
+    "releaseConditionId": 120204
+  },
+  {
+    "id": 120205,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001647,
+    "releaseConditionId": 120205
+  },
+  {
+    "id": 120206,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001648,
+    "releaseConditionId": 120206
+  },
+  {
+    "id": 120207,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001649,
+    "releaseConditionId": 120207
+  },
+  {
+    "id": 120301,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001651,
+    "releaseConditionId": 120301
+  },
+  {
+    "id": 120302,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001652,
+    "releaseConditionId": 120302
+  },
+  {
+    "id": 120303,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001653,
+    "releaseConditionId": 120303
+  },
+  {
+    "id": 120304,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001654,
+    "releaseConditionId": 120304
+  },
+  {
+    "id": 120305,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001655,
+    "releaseConditionId": 120305
+  },
+  {
+    "id": 120306,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001656,
+    "releaseConditionId": 120306
+  },
+  {
+    "id": 120307,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001657,
+    "releaseConditionId": 120307
+  },
+  {
+    "id": 120401,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001660,
+    "releaseConditionId": 120402
+  },
+  {
+    "id": 120402,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001661,
+    "releaseConditionId": 120403
+  },
+  {
+    "id": 120403,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001662,
+    "releaseConditionId": 120404
+  },
+  {
+    "id": 120404,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001663,
+    "releaseConditionId": 120405
+  },
+  {
+    "id": 120405,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001664,
+    "releaseConditionId": 120406
+  },
+  {
+    "id": 120406,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001665,
+    "releaseConditionId": 120407
+  },
+  {
+    "id": 120501,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001667,
+    "releaseConditionId": 120501
+  },
+  {
+    "id": 120502,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001668,
+    "releaseConditionId": 120502
+  },
+  {
+    "id": 120503,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001669,
+    "releaseConditionId": 120503
+  },
+  {
+    "id": 120504,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001670,
+    "releaseConditionId": 120504
+  },
+  {
+    "id": 120505,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001671,
+    "releaseConditionId": 120505
+  },
+  {
+    "id": 120506,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001672,
+    "releaseConditionId": 120506
+  },
+  {
+    "id": 120507,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001673,
+    "releaseConditionId": 120507
+  },
+  {
+    "id": 120601,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001676,
+    "releaseConditionId": 120602
+  },
+  {
+    "id": 120602,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001677,
+    "releaseConditionId": 120603
+  },
+  {
+    "id": 120603,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001678,
+    "releaseConditionId": 120604
+  },
+  {
+    "id": 120604,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001679,
+    "releaseConditionId": 120605
+  },
+  {
+    "id": 120605,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001680,
+    "releaseConditionId": 120606
+  },
+  {
+    "id": 120701,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001682,
+    "releaseConditionId": 120701
+  },
+  {
+    "id": 120702,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001683,
+    "releaseConditionId": 120702
+  },
+  {
+    "id": 120703,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001684,
+    "releaseConditionId": 120703
+  },
+  {
+    "id": 120704,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001685,
+    "releaseConditionId": 120704
+  },
+  {
+    "id": 120705,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001686,
+    "releaseConditionId": 120705
+  },
+  {
+    "id": 120706,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001687,
+    "releaseConditionId": 120706
+  },
+  {
+    "id": 120707,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001688,
+    "releaseConditionId": 120707
+  },
+  {
+    "id": 120801,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001690,
+    "releaseConditionId": 120801
+  },
+  {
+    "id": 120802,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001691,
+    "releaseConditionId": 120802
+  },
+  {
+    "id": 120803,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001692,
+    "releaseConditionId": 120803
+  },
+  {
+    "id": 120804,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001693,
+    "releaseConditionId": 120804
+  },
+  {
+    "id": 120805,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001694,
+    "releaseConditionId": 120805
+  },
+  {
+    "id": 120806,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001695,
+    "releaseConditionId": 120806
+  },
+  {
+    "id": 120807,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001696,
+    "releaseConditionId": 120807
+  },
+  {
+    "id": 120901,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001698,
+    "releaseConditionId": 120901
+  },
+  {
+    "id": 120902,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001699,
+    "releaseConditionId": 120902
+  },
+  {
+    "id": 120903,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001700,
+    "releaseConditionId": 120903
+  },
+  {
+    "id": 120904,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001701,
+    "releaseConditionId": 120904
+  },
+  {
+    "id": 120905,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001702,
+    "releaseConditionId": 120905
+  },
+  {
+    "id": 120906,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001703,
+    "releaseConditionId": 120906
+  },
+  {
+    "id": 120907,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001704,
+    "releaseConditionId": 120907
+  },
+  {
+    "id": 121001,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001707,
+    "releaseConditionId": 121002
+  },
+  {
+    "id": 121002,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001708,
+    "releaseConditionId": 121003
+  },
+  {
+    "id": 121003,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001709,
+    "releaseConditionId": 121004
+  },
+  {
+    "id": 121004,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001710,
+    "releaseConditionId": 121005
+  },
+  {
+    "id": 121005,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001711,
+    "releaseConditionId": 121006
+  },
+  {
+    "id": 121101,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001713,
+    "releaseConditionId": 121101
+  },
+  {
+    "id": 121102,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001714,
+    "releaseConditionId": 121102
+  },
+  {
+    "id": 121103,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001715,
+    "releaseConditionId": 121103
+  },
+  {
+    "id": 121104,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001716,
+    "releaseConditionId": 121104
+  },
+  {
+    "id": 121105,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001717,
+    "releaseConditionId": 121105
+  },
+  {
+    "id": 121106,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001718,
+    "releaseConditionId": 121106
+  },
+  {
+    "id": 121107,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001719,
+    "releaseConditionId": 121107
+  },
+  {
+    "id": 121201,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001721,
+    "releaseConditionId": 121201
+  },
+  {
+    "id": 121202,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001722,
+    "releaseConditionId": 121202
+  },
+  {
+    "id": 121203,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001723,
+    "releaseConditionId": 121203
+  },
+  {
+    "id": 121204,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001724,
+    "releaseConditionId": 121204
+  },
+  {
+    "id": 121205,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001725,
+    "releaseConditionId": 121205
+  },
+  {
+    "id": 121206,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001726,
+    "releaseConditionId": 121206
+  },
+  {
+    "id": 121207,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001727,
+    "releaseConditionId": 121207
+  },
+  {
+    "id": 121301,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001730,
+    "releaseConditionId": 121302
+  },
+  {
+    "id": 121302,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001731,
+    "releaseConditionId": 121303
+  },
+  {
+    "id": 121303,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001732,
+    "releaseConditionId": 121304
+  },
+  {
+    "id": 121304,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001733,
+    "releaseConditionId": 121305
+  },
+  {
+    "id": 121305,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001734,
+    "releaseConditionId": 121306
+  },
+  {
+    "id": 121401,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001736,
+    "releaseConditionId": 121401
+  },
+  {
+    "id": 121402,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001737,
+    "releaseConditionId": 121402
+  },
+  {
+    "id": 121403,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001738,
+    "releaseConditionId": 121403
+  },
+  {
+    "id": 121404,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001739,
+    "releaseConditionId": 121404
+  },
+  {
+    "id": 121405,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001740,
+    "releaseConditionId": 121405
+  },
+  {
+    "id": 121406,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001741,
+    "releaseConditionId": 121406
+  },
+  {
+    "id": 121407,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001742,
+    "releaseConditionId": 121407
+  },
+  {
+    "id": 121501,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001744,
+    "releaseConditionId": 121501
+  },
+  {
+    "id": 121502,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001745,
+    "releaseConditionId": 121502
+  },
+  {
+    "id": 121503,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001746,
+    "releaseConditionId": 121503
+  },
+  {
+    "id": 121504,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001747,
+    "releaseConditionId": 121504
+  },
+  {
+    "id": 121505,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001748,
+    "releaseConditionId": 121505
+  },
+  {
+    "id": 121506,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001749,
+    "releaseConditionId": 121506
+  },
+  {
+    "id": 121507,
+    "topicType": "event_story_episode",
+    "topicTypeId": 1001750,
+    "releaseConditionId": 121507
+  },
+  {
     "id": 200001,
     "topicType": "cut_in_voice",
     "topicTypeId": 4124,
@@ -22414,5 +23116,365 @@
     "topicType": "cut_in_voice",
     "topicTypeId": 5549,
     "releaseConditionId": 1082503
+  },
+  {
+    "id": 201381,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5550,
+    "releaseConditionId": 1051501
+  },
+  {
+    "id": 201382,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5551,
+    "releaseConditionId": 1051502
+  },
+  {
+    "id": 201383,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5552,
+    "releaseConditionId": 1051503
+  },
+  {
+    "id": 201384,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5553,
+    "releaseConditionId": 1051501
+  },
+  {
+    "id": 201385,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5554,
+    "releaseConditionId": 1051502
+  },
+  {
+    "id": 201386,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5555,
+    "releaseConditionId": 1051503
+  },
+  {
+    "id": 201387,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5556,
+    "releaseConditionId": 1071801
+  },
+  {
+    "id": 201388,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5557,
+    "releaseConditionId": 1071802
+  },
+  {
+    "id": 201389,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5558,
+    "releaseConditionId": 1071803
+  },
+  {
+    "id": 201390,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5559,
+    "releaseConditionId": 1071801
+  },
+  {
+    "id": 201391,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5560,
+    "releaseConditionId": 1071802
+  },
+  {
+    "id": 201392,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5561,
+    "releaseConditionId": 1071803
+  },
+  {
+    "id": 201393,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5562,
+    "releaseConditionId": 1131801
+  },
+  {
+    "id": 201394,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5563,
+    "releaseConditionId": 1131802
+  },
+  {
+    "id": 201395,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5564,
+    "releaseConditionId": 1131803
+  },
+  {
+    "id": 201396,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5565,
+    "releaseConditionId": 1131801
+  },
+  {
+    "id": 201397,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5566,
+    "releaseConditionId": 1131802
+  },
+  {
+    "id": 201398,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5567,
+    "releaseConditionId": 1131803
+  },
+  {
+    "id": 201399,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5568,
+    "releaseConditionId": 1011401
+  },
+  {
+    "id": 201400,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5569,
+    "releaseConditionId": 1011402
+  },
+  {
+    "id": 201401,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5570,
+    "releaseConditionId": 1011403
+  },
+  {
+    "id": 201402,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5571,
+    "releaseConditionId": 1011401
+  },
+  {
+    "id": 201403,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5572,
+    "releaseConditionId": 1011402
+  },
+  {
+    "id": 201404,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5573,
+    "releaseConditionId": 1011403
+  },
+  {
+    "id": 201405,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5574,
+    "releaseConditionId": 1041401
+  },
+  {
+    "id": 201406,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5575,
+    "releaseConditionId": 1041402
+  },
+  {
+    "id": 201407,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5576,
+    "releaseConditionId": 1041403
+  },
+  {
+    "id": 201408,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5577,
+    "releaseConditionId": 1041401
+  },
+  {
+    "id": 201409,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5578,
+    "releaseConditionId": 1041402
+  },
+  {
+    "id": 201410,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5579,
+    "releaseConditionId": 1041403
+  },
+  {
+    "id": 201411,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5580,
+    "releaseConditionId": 1032601
+  },
+  {
+    "id": 201412,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5581,
+    "releaseConditionId": 1032602
+  },
+  {
+    "id": 201413,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5582,
+    "releaseConditionId": 1032603
+  },
+  {
+    "id": 201414,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5583,
+    "releaseConditionId": 1032601
+  },
+  {
+    "id": 201415,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5584,
+    "releaseConditionId": 1032602
+  },
+  {
+    "id": 201416,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5585,
+    "releaseConditionId": 1032603
+  },
+  {
+    "id": 201417,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5586,
+    "releaseConditionId": 1031101
+  },
+  {
+    "id": 201418,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5587,
+    "releaseConditionId": 1031102
+  },
+  {
+    "id": 201419,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5588,
+    "releaseConditionId": 1031103
+  },
+  {
+    "id": 201420,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5589,
+    "releaseConditionId": 1031101
+  },
+  {
+    "id": 201421,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5590,
+    "releaseConditionId": 1031102
+  },
+  {
+    "id": 201422,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5591,
+    "releaseConditionId": 1031103
+  },
+  {
+    "id": 201423,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5592,
+    "releaseConditionId": 1031601
+  },
+  {
+    "id": 201424,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5593,
+    "releaseConditionId": 1031602
+  },
+  {
+    "id": 201425,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5594,
+    "releaseConditionId": 1031603
+  },
+  {
+    "id": 201426,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5595,
+    "releaseConditionId": 1031601
+  },
+  {
+    "id": 201427,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5596,
+    "releaseConditionId": 1031602
+  },
+  {
+    "id": 201428,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5597,
+    "releaseConditionId": 1031603
+  },
+  {
+    "id": 201429,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5598,
+    "releaseConditionId": 1051101
+  },
+  {
+    "id": 201430,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5599,
+    "releaseConditionId": 1051102
+  },
+  {
+    "id": 201431,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5600,
+    "releaseConditionId": 1051103
+  },
+  {
+    "id": 201432,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5601,
+    "releaseConditionId": 1051101
+  },
+  {
+    "id": 201433,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5602,
+    "releaseConditionId": 1051102
+  },
+  {
+    "id": 201434,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5603,
+    "releaseConditionId": 1051103
+  },
+  {
+    "id": 201435,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5604,
+    "releaseConditionId": 1051601
+  },
+  {
+    "id": 201436,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5605,
+    "releaseConditionId": 1051602
+  },
+  {
+    "id": 201437,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5606,
+    "releaseConditionId": 1051603
+  },
+  {
+    "id": 201438,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5607,
+    "releaseConditionId": 1051601
+  },
+  {
+    "id": 201439,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5608,
+    "releaseConditionId": 1051602
+  },
+  {
+    "id": 201440,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 5609,
+    "releaseConditionId": 1051603
   }
 ]

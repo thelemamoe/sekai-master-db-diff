@@ -3108,5 +3108,665 @@
     "endAt": 1774450799000,
     "appealReadConditionType": "transition",
     "text": "マイセカイ百景「愛莉BDパーティー'26」開催中！"
+  },
+  {
+    "id": 312,
+    "seq": 4,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1774839600000,
+    "endAt": 1775271599000,
+    "appealReadConditionType": "transition",
+    "text": "ブルフェス限定メンバー登場"
+  },
+  {
+    "id": 313,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1774839600000,
+    "endAt": 1775703599000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトキャラクターガチャ開催"
+  },
+  {
+    "id": 314,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1774839600000,
+    "endAt": 1775703599000,
+    "appealReadConditionType": "transition",
+    "text": "プレミアムプレゼントガチャ開催"
+  },
+  {
+    "id": 315,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1774839600000,
+    "endAt": 1775703599000,
+    "appealReadConditionType": "transition",
+    "text": "1\/3セレクトリストガチャ LIMITED EDITION開催"
+  },
+  {
+    "id": 316,
+    "seq": 5,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1775116800000,
+    "endAt": 1775635199000,
+    "appealReadConditionType": "transition",
+    "text": "マイセカイ百景「フラワーフェスティバル」開催中！"
+  },
+  {
+    "id": 317,
+    "seq": 6,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1775271600000,
+    "endAt": 1775703599000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 318,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1775746800000,
+    "endAt": 1776351599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 319,
+    "seq": 2,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1775833200000,
+    "endAt": 1776092399000,
+    "appealReadConditionType": "transition",
+    "text": "みのり BDイベント '26開催中！"
+  },
+  {
+    "id": 320,
+    "seq": 4,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1776092400000,
+    "endAt": 1776697199000,
+    "appealReadConditionType": "transition",
+    "text": "マイセカイ百景「みのりBDパーティー'26」開催中！"
+  },
+  {
+    "id": 321,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1776049200000,
+    "endAt": 1777301999000,
+    "appealReadConditionType": "transition",
+    "text": "コラボ限定メンバー登場"
+  },
+  {
+    "id": 322,
+    "seq": 4,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1776481200000,
+    "endAt": 1777517999000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 323,
+    "seq": 5,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1777086000000,
+    "endAt": 1777863599000,
+    "appealReadConditionType": "transition",
+    "text": "ハピネスパッケージガチャ開催"
+  },
+  {
+    "id": 324,
+    "seq": 6,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1777129200000,
+    "endAt": 1777733999000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 325,
+    "seq": 7,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1777215600000,
+    "endAt": 1777474799000,
+    "appealReadConditionType": "transition",
+    "text": "絵名 BDイベント '26開催中！"
+  },
+  {
+    "id": 326,
+    "seq": 8,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1777474800000,
+    "endAt": 1778079599000,
+    "appealReadConditionType": "transition",
+    "text": "マイセカイ百景「絵名 BDパーティー '26」開催中！"
+  },
+  {
+    "id": 327,
+    "seq": 9,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1777518000000,
+    "endAt": 1778209199000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 328,
+    "seq": 10,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1777906800000,
+    "endAt": 1778511599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 329,
+    "seq": 11,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1777993200000,
+    "endAt": 1778252399000,
+    "appealReadConditionType": "transition",
+    "text": "咲希 BDイベント '26開催中！"
+  },
+  {
+    "id": 330,
+    "seq": 12,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1778252400000,
+    "endAt": 1778857199000,
+    "appealReadConditionType": "transition",
+    "text": "マイセカイ百景「咲希 BDパーティー '26」開催中！"
+  },
+  {
+    "id": 331,
+    "seq": 13,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1778382000000,
+    "endAt": 1779159599000,
+    "appealReadConditionType": "transition",
+    "text": "[Parallel Paaaarty!!!! 開催記念]プレミアムプレゼントガチャ開催"
+  },
+  {
+    "id": 332,
+    "seq": 14,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1778598000000,
+    "endAt": 1779202799000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 333,
+    "seq": 15,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1778684400000,
+    "endAt": 1778943599000,
+    "appealReadConditionType": "transition",
+    "text": "司 BDイベント '26開催中！"
+  },
+  {
+    "id": 334,
+    "seq": 16,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1778943600000,
+    "endAt": 1779548399000,
+    "appealReadConditionType": "transition",
+    "text": "マイセカイ百景「司 BDパーティー '26」開催中！"
+  },
+  {
+    "id": 335,
+    "seq": 17,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1778986800000,
+    "endAt": 1780196399000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 336,
+    "seq": 18,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1779289200000,
+    "endAt": 1779893999000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 337,
+    "seq": 19,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1779375600000,
+    "endAt": 1779634799000,
+    "appealReadConditionType": "transition",
+    "text": "冬弥 BDイベント '26開催中！"
+  },
+  {
+    "id": 338,
+    "seq": 20,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1779634800000,
+    "endAt": 1780239599000,
+    "appealReadConditionType": "transition",
+    "text": "マイセカイ百景「冬弥 BDパーティー '26」開催中！"
+  },
+  {
+    "id": 339,
+    "seq": 21,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1779764400000,
+    "endAt": 1780541999000,
+    "appealReadConditionType": "transition",
+    "text": "セレクトリストガチャ開催"
+  },
+  {
+    "id": 340,
+    "seq": 22,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1780196400000,
+    "endAt": 1780887599000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 341,
+    "seq": 23,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1780732800000,
+    "endAt": 1781251199000,
+    "appealReadConditionType": "transition",
+    "text": "マイセカイ百景「ブロックアート」開催中！"
+  },
+  {
+    "id": 342,
+    "seq": 24,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1780887600000,
+    "endAt": 1781924399000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 343,
+    "seq": 25,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1781881200000,
+    "endAt": 1782485999000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 344,
+    "seq": 26,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1781967600000,
+    "endAt": 1782226799000,
+    "appealReadConditionType": "transition",
+    "text": "類 BDイベント '26開催中！"
+  },
+  {
+    "id": 345,
+    "seq": 28,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1782226800000,
+    "endAt": 1782831599000,
+    "appealReadConditionType": "transition",
+    "text": "マイセカイ百景「類 BDパーティー '26」開催中！"
+  },
+  {
+    "id": 346,
+    "seq": 27,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1782021600000,
+    "endAt": 1783090799000,
+    "appealReadConditionType": "transition",
+    "text": "[DEEMO×Cytusシリーズ]タイアップ記念プレミアムプレゼントガチャ開催"
+  },
+  {
+    "id": 347,
+    "seq": 28,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1782788400000,
+    "endAt": 1783133999000,
+    "appealReadConditionType": "transition",
+    "text": "ブルフェス限定メンバー登場"
+  },
+  {
+    "id": 348,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1783134000000,
+    "endAt": 1783565999000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 349,
+    "seq": 2,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1783152000000,
+    "endAt": 1783670399000,
+    "appealReadConditionType": "transition",
+    "text": "マイセカイ百景「サマーバケーション」開催中！"
+  },
+  {
+    "id": 350,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1784127600000,
+    "endAt": 1784732399000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 351,
+    "seq": 2,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1784214000000,
+    "endAt": 1784473199000,
+    "appealReadConditionType": "transition",
+    "text": "寧々 BDイベント '26開催中！"
+  },
+  {
+    "id": 352,
+    "seq": 4,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1784473200000,
+    "endAt": 1785077999000,
+    "appealReadConditionType": "transition",
+    "text": "マイセカイ百景「寧々 BDパーティー '26」開催中！"
+  },
+  {
+    "id": 353,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1784430000000,
+    "endAt": 1785466799000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 354,
+    "seq": 5,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1784646000000,
+    "endAt": 1785250799000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 355,
+    "seq": 6,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1784689200000,
+    "endAt": 1785466799000,
+    "appealReadConditionType": "transition",
+    "text": "海外版の限定衣装登場"
+  },
+  {
+    "id": 356,
+    "seq": 7,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1784732400000,
+    "endAt": 1784991599000,
+    "appealReadConditionType": "transition",
+    "text": "杏 BDイベント '26開催中！"
+  },
+  {
+    "id": 357,
+    "seq": 8,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1784991600000,
+    "endAt": 1785596399000,
+    "appealReadConditionType": "transition",
+    "text": "マイセカイ百景「杏 BDパーティー '26」開催中！"
+  },
+  {
+    "id": 358,
+    "seq": 9,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1785034800000,
+    "endAt": 1785812399000,
+    "appealReadConditionType": "transition",
+    "text": "ハピネスパッケージガチャ開催"
+  },
+  {
+    "id": 359,
+    "seq": 10,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1785466800000,
+    "endAt": 1786244399000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 360,
+    "seq": 11,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1785898800000,
+    "endAt": 1786676399000,
+    "appealReadConditionType": "transition",
+    "text": "海外版の限定衣装登場"
+  },
+  {
+    "id": 361,
+    "seq": 12,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1786028400000,
+    "endAt": 1786633199000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 362,
+    "seq": 13,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1786114800000,
+    "endAt": 1786373999000,
+    "appealReadConditionType": "transition",
+    "text": "一歌 BDイベント '26開催中！"
+  },
+  {
+    "id": 363,
+    "seq": 13,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1786374000000,
+    "endAt": 1786978799000,
+    "appealReadConditionType": "transition",
+    "text": "マイセカイ百景「一歌 BDパーティー '26」開催中！"
+  },
+  {
+    "id": 364,
+    "seq": 14,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1786935600000,
+    "endAt": 1787972399000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 365,
+    "seq": 15,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1787410800000,
+    "endAt": 1788015599000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 366,
+    "seq": 16,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1787497200000,
+    "endAt": 1787756399000,
+    "appealReadConditionType": "transition",
+    "text": "瑞希 BDイベント '26開催中！"
+  },
+  {
+    "id": 367,
+    "seq": 17,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1787756400000,
+    "endAt": 1788361199000,
+    "appealReadConditionType": "transition",
+    "text": "マイセカイ百景「瑞希 BDパーティー '26」開催中！"
+  },
+  {
+    "id": 368,
+    "seq": 18,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1787756400000,
+    "endAt": 1788361199000,
+    "appealReadConditionType": "transition",
+    "text": "アニバーサリーメンバー登場"
+  },
+  {
+    "id": 369,
+    "seq": 19,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1787842800000,
+    "endAt": 1788101999000,
+    "appealReadConditionType": "transition",
+    "text": "ミク ANイベント '26開催中！"
+  },
+  {
+    "id": 370,
+    "seq": 20,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1788102000000,
+    "endAt": 1788706799000,
+    "appealReadConditionType": "transition",
+    "text": "マイセカイ百景「ミク ANパーティー '26」開催中！"
+  },
+  {
+    "id": 371,
+    "seq": 21,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1787886000000,
+    "endAt": 1788404399000,
+    "appealReadConditionType": "transition",
+    "text": "[マジカルミライ2026開催記念]プレミアムプレゼントガチャ開催"
+  },
+  {
+    "id": 372,
+    "seq": 22,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1787972400000,
+    "endAt": 1788663599000,
+    "appealReadConditionType": "transition",
+    "text": "期間限定メンバー登場"
+  },
+  {
+    "id": 373,
+    "seq": 23,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1788145200000,
+    "endAt": 1788490799000,
+    "appealReadConditionType": "transition",
+    "text": "リコレクションフェスティバルガチャ開催"
+  },
+  {
+    "id": 374,
+    "seq": 24,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1788404400000,
+    "endAt": 1789311599000,
+    "appealReadConditionType": "transition",
+    "text": "コラボ限定メンバー登場"
+  },
+  {
+    "id": 375,
+    "seq": 25,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1788534000000,
+    "endAt": 1789138799000,
+    "appealReadConditionType": "transition",
+    "text": "バースデーメンバー登場"
+  },
+  {
+    "id": 376,
+    "seq": 26,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1788620400000,
+    "endAt": 1788879599000,
+    "appealReadConditionType": "transition",
+    "text": "えむ BDイベント '26開催中！"
+  },
+  {
+    "id": 377,
+    "seq": 27,
+    "appealTargetType": "mysekai",
+    "appealType": "once",
+    "startAt": 1788879600000,
+    "endAt": 1789484399000,
+    "appealReadConditionType": "transition",
+    "text": "マイセカイ百景「えむ BDパーティー '26」開催中！"
   }
 ]

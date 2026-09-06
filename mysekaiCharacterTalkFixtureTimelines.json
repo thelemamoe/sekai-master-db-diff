@@ -1798,5 +1798,305 @@
     "groupId": 330,
     "mysekaiCharacterTalkActionPointId": 3,
     "assetbundleName": "tl_ext0025_fixture_cafe1_ex03"
+  },
+  {
+    "id": 335,
+    "groupId": 331,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_env0005_fixture_bath1_ex01"
+  },
+  {
+    "id": 336,
+    "groupId": 332,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_env0005_fixture_bath1_ex02"
+  },
+  {
+    "id": 337,
+    "groupId": 333,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_env0005_fixture_bath1_ex03"
+  },
+  {
+    "id": 338,
+    "groupId": 334,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_env0005_fixture_bath1_017"
+  },
+  {
+    "id": 339,
+    "groupId": 335,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_env0005_fixture_bath1_016"
+  },
+  {
+    "id": 340,
+    "groupId": 336,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_env0005_fixture_bath1_ex04"
+  },
+  {
+    "id": 341,
+    "groupId": 337,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0026_fixture_birdcage1_all"
+  },
+  {
+    "id": 342,
+    "groupId": 338,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0026_fixture_stuffedcat1medium_all"
+  },
+  {
+    "id": 343,
+    "groupId": 339,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0026_fixture_stuffedcat1medium_007"
+  },
+  {
+    "id": 344,
+    "groupId": 340,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0026_fixture_stuffedcat1medium_004"
+  },
+  {
+    "id": 345,
+    "groupId": 341,
+    "mysekaiCharacterTalkActionPointId": 203,
+    "assetbundleName": "tl_ext0027_fixture_fountain1_099_001"
+  },
+  {
+    "id": 346,
+    "groupId": 342,
+    "mysekaiCharacterTalkActionPointId": 203,
+    "assetbundleName": "tl_ext0027_fixture_fountain1_099_002"
+  },
+  {
+    "id": 347,
+    "groupId": 343,
+    "mysekaiCharacterTalkActionPointId": 133,
+    "assetbundleName": "tl_ext0027_fixture_fountain1_099_003"
+  },
+  {
+    "id": 348,
+    "groupId": 344,
+    "mysekaiCharacterTalkActionPointId": 203,
+    "assetbundleName": "tl_ext0027_fixture_fountain1_099_004"
+  },
+  {
+    "id": 349,
+    "groupId": 345,
+    "mysekaiCharacterTalkActionPointId": 133,
+    "assetbundleName": "tl_ext0027_fixture_fountain1_099_005"
+  },
+  {
+    "id": 350,
+    "groupId": 346,
+    "mysekaiCharacterTalkActionPointId": 133,
+    "assetbundleName": "tl_ext0027_fixture_fountain1_099_006"
+  },
+  {
+    "id": 351,
+    "groupId": 347,
+    "mysekaiCharacterTalkActionPointId": 133,
+    "assetbundleName": "tl_ext0027_fixture_fountain1_099_007"
+  },
+  {
+    "id": 352,
+    "groupId": 348,
+    "mysekaiCharacterTalkActionPointId": 133,
+    "assetbundleName": "tl_ext0027_fixture_fountain1_099_008"
+  },
+  {
+    "id": 353,
+    "groupId": 349,
+    "mysekaiCharacterTalkActionPointId": 203,
+    "assetbundleName": "tl_ext0027_fixture_fountain1_099_009"
+  },
+  {
+    "id": 354,
+    "groupId": 350,
+    "mysekaiCharacterTalkActionPointId": 133,
+    "assetbundleName": "tl_ext0027_fixture_fountain1_099_010"
+  },
+  {
+    "id": 355,
+    "groupId": 351,
+    "mysekaiCharacterTalkActionPointId": 133,
+    "assetbundleName": "tl_ext0027_fixture_fountain1_099_011"
+  },
+  {
+    "id": 356,
+    "groupId": 352,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0027_fixture_chair1_all"
+  },
+  {
+    "id": 357,
+    "groupId": 353,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0027_fixture_chair1_ex01"
+  },
+  {
+    "id": 358,
+    "groupId": 354,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0027_fixture_chair1_ex02"
+  },
+  {
+    "id": 359,
+    "groupId": 355,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0027_fixture_chair1_ex03"
+  },
+  {
+    "id": 360,
+    "groupId": 356,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0029_fixture_cafe1_ex01"
+  },
+  {
+    "id": 361,
+    "groupId": 357,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0029_fixture_cafe1_ex02"
+  },
+  {
+    "id": 362,
+    "groupId": 358,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0029_fixture_shop1_w_ex01"
+  },
+  {
+    "id": 363,
+    "groupId": 359,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0029_fixture_shop1_w_ex02"
+  },
+  {
+    "id": 364,
+    "groupId": 360,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0029_fixture_shop1_m_ex01"
+  },
+  {
+    "id": 365,
+    "groupId": 361,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_m_01"
+  },
+  {
+    "id": 366,
+    "groupId": 362,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_m_02"
+  },
+  {
+    "id": 367,
+    "groupId": 363,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_m_03"
+  },
+  {
+    "id": 368,
+    "groupId": 364,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_m_04"
+  },
+  {
+    "id": 369,
+    "groupId": 365,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_m_05"
+  },
+  {
+    "id": 370,
+    "groupId": 366,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_m_06"
+  },
+  {
+    "id": 371,
+    "groupId": 367,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_m_07"
+  },
+  {
+    "id": 372,
+    "groupId": 368,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_m_08"
+  },
+  {
+    "id": 373,
+    "groupId": 369,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_m_09"
+  },
+  {
+    "id": 374,
+    "groupId": 370,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_w_01"
+  },
+  {
+    "id": 375,
+    "groupId": 371,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_w_02"
+  },
+  {
+    "id": 376,
+    "groupId": 372,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_w_03"
+  },
+  {
+    "id": 377,
+    "groupId": 373,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_w_04"
+  },
+  {
+    "id": 378,
+    "groupId": 374,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_w_05"
+  },
+  {
+    "id": 379,
+    "groupId": 375,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_w_06"
+  },
+  {
+    "id": 380,
+    "groupId": 376,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_w_07"
+  },
+  {
+    "id": 381,
+    "groupId": 377,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_w_08"
+  },
+  {
+    "id": 382,
+    "groupId": 378,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_w_09"
+  },
+  {
+    "id": 383,
+    "groupId": 379,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_w_10"
+  },
+  {
+    "id": 384,
+    "groupId": 380,
+    "mysekaiCharacterTalkActionPointId": 3,
+    "assetbundleName": "tl_ext0030_fixture_bakerystall1_w_11"
   }
 ]

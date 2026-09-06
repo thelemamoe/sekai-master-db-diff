@@ -364,6 +364,78 @@
     "externalId": 14
   },
   {
+    "id": 72,
+    "mysekaiFixtureId": 914,
+    "mysekaiSystemFixtureType": "birthday",
+    "externalId": 15
+  },
+  {
+    "id": 73,
+    "mysekaiFixtureId": 919,
+    "mysekaiSystemFixtureType": "birthday",
+    "externalId": 16
+  },
+  {
+    "id": 74,
+    "mysekaiFixtureId": 924,
+    "mysekaiSystemFixtureType": "birthday",
+    "externalId": 17
+  },
+  {
+    "id": 75,
+    "mysekaiFixtureId": 929,
+    "mysekaiSystemFixtureType": "birthday",
+    "externalId": 18
+  },
+  {
+    "id": 76,
+    "mysekaiFixtureId": 934,
+    "mysekaiSystemFixtureType": "birthday",
+    "externalId": 19
+  },
+  {
+    "id": 77,
+    "mysekaiFixtureId": 939,
+    "mysekaiSystemFixtureType": "birthday",
+    "externalId": 20
+  },
+  {
+    "id": 78,
+    "mysekaiFixtureId": 944,
+    "mysekaiSystemFixtureType": "birthday",
+    "externalId": 21
+  },
+  {
+    "id": 79,
+    "mysekaiFixtureId": 949,
+    "mysekaiSystemFixtureType": "birthday",
+    "externalId": 22
+  },
+  {
+    "id": 80,
+    "mysekaiFixtureId": 954,
+    "mysekaiSystemFixtureType": "birthday",
+    "externalId": 23
+  },
+  {
+    "id": 81,
+    "mysekaiFixtureId": 959,
+    "mysekaiSystemFixtureType": "birthday",
+    "externalId": 24
+  },
+  {
+    "id": 82,
+    "mysekaiFixtureId": 964,
+    "mysekaiSystemFixtureType": "birthday",
+    "externalId": 25
+  },
+  {
+    "id": 83,
+    "mysekaiFixtureId": 969,
+    "mysekaiSystemFixtureType": "birthday",
+    "externalId": 26
+  },
+  {
     "id": 84,
     "mysekaiFixtureId": 1016,
     "mysekaiSystemFixtureType": "home"
@@ -391,6 +463,31 @@
   {
     "id": 89,
     "mysekaiFixtureId": 1146,
+    "mysekaiSystemFixtureType": "home"
+  },
+  {
+    "id": 90,
+    "mysekaiFixtureId": 1304,
+    "mysekaiSystemFixtureType": "home"
+  },
+  {
+    "id": 91,
+    "mysekaiFixtureId": 1440,
+    "mysekaiSystemFixtureType": "home"
+  },
+  {
+    "id": 92,
+    "mysekaiFixtureId": 1470,
+    "mysekaiSystemFixtureType": "home"
+  },
+  {
+    "id": 93,
+    "mysekaiFixtureId": 1474,
+    "mysekaiSystemFixtureType": "avatar_dress_up"
+  },
+  {
+    "id": 94,
+    "mysekaiFixtureId": 1636,
     "mysekaiSystemFixtureType": "home"
   }
 ]

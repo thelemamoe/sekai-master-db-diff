@@ -74,7 +74,7 @@
     "submitEndAt": 1766674799000,
     "aggregateAt": 1766674800000,
     "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
-    "backNumberAccentColorCode": "#9DE0E4"
+    "backNumberAccentColorCode": "#F8CDE7"
   },
   {
     "id": 8,
@@ -151,7 +151,7 @@
     "submitEndAt": 1771487999000,
     "aggregateAt": 1771488000000,
     "backgroundImageAssetbundleFileName": "bg_competition_contest_2",
-    "backNumberAccentColorCode": "#F8CDE7"
+    "backNumberAccentColorCode": "#BFDDFF"
   },
   {
     "id": 15,
@@ -184,7 +184,7 @@
     "submitEndAt": 1773068399000,
     "aggregateAt": 1773068400000,
     "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
-    "backNumberAccentColorCode": "#9DE0E4"
+    "backNumberAccentColorCode": "#FDDC7A"
   },
   {
     "id": 18,
@@ -196,5 +196,177 @@
     "aggregateAt": 1774450800000,
     "backgroundImageAssetbundleFileName": "bg_competition_contest_2",
     "backNumberAccentColorCode": "#ffaacc"
+  },
+  {
+    "id": 19,
+    "name": "フラワーフェスティバル",
+    "description": "26年フラワーフェスティバルのマイセカイ百景",
+    "submitStartAt": 1775116800000,
+    "reviewStartAt": 1775116800000,
+    "submitEndAt": 1775635199000,
+    "aggregateAt": 1775635200000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
+    "backNumberAccentColorCode": "#9DE0E4"
+  },
+  {
+    "id": 20,
+    "name": "みのりBIRTHDAYパーティー'26",
+    "description": "26年みのり誕生日と連携したマイセカイ百景",
+    "submitStartAt": 1776092400000,
+    "reviewStartAt": 1776092400000,
+    "submitEndAt": 1776697199000,
+    "aggregateAt": 1776697200000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_2",
+    "backNumberAccentColorCode": "#ffccaa"
+  },
+  {
+    "id": 21,
+    "name": "絵名BIRTHDAYパーティー'26",
+    "description": "26年絵名誕生日と連携したマイセカイ百景",
+    "submitStartAt": 1777474800000,
+    "reviewStartAt": 1777474800000,
+    "submitEndAt": 1778079599000,
+    "aggregateAt": 1778079600000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
+    "backNumberAccentColorCode": "#ccaa88"
+  },
+  {
+    "id": 22,
+    "name": "咲希BIRTHDAYパーティー'26",
+    "description": "26年咲希誕生日と連携したマイセカイ百景",
+    "submitStartAt": 1778252400000,
+    "reviewStartAt": 1778252400000,
+    "submitEndAt": 1778857199000,
+    "aggregateAt": 1778857200000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_2",
+    "backNumberAccentColorCode": "#ffdd44"
+  },
+  {
+    "id": 23,
+    "name": "司BIRTHDAYパーティー'26",
+    "description": "26年司誕生日と連携したマイセカイ百景",
+    "submitStartAt": 1778943600000,
+    "reviewStartAt": 1778943600000,
+    "submitEndAt": 1779548399000,
+    "aggregateAt": 1779548400000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
+    "backNumberAccentColorCode": "#ffbb00"
+  },
+  {
+    "id": 24,
+    "name": "冬弥BIRTHDAYパーティー'26",
+    "description": "26年冬弥誕生日と連携したマイセカイ百景",
+    "submitStartAt": 1779634800000,
+    "reviewStartAt": 1779634800000,
+    "submitEndAt": 1780239599000,
+    "aggregateAt": 1780239600000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_2",
+    "backNumberAccentColorCode": "#0077dd"
+  },
+  {
+    "id": 25,
+    "name": "ブロックアート",
+    "description": "26年ブロックアートのマイセカイ百家",
+    "submitStartAt": 1780732800000,
+    "reviewStartAt": 1780732800000,
+    "submitEndAt": 1781251199000,
+    "aggregateAt": 1781251200000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
+    "backNumberAccentColorCode": "#F8CDE7"
+  },
+  {
+    "id": 26,
+    "name": "類BIRTHDAYパーティー'26",
+    "description": "26年類誕生日と連携したマイセカイ百景",
+    "submitStartAt": 1782226800000,
+    "reviewStartAt": 1782226800000,
+    "submitEndAt": 1782831599000,
+    "aggregateAt": 1782831600000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_2",
+    "backNumberAccentColorCode": "#bb88ee"
+  },
+  {
+    "id": 27,
+    "name": "サマーバケーション",
+    "description": "26年サマーバケーションのマイセカイ百景",
+    "submitStartAt": 1783152000000,
+    "reviewStartAt": 1783152000000,
+    "submitEndAt": 1783670399000,
+    "aggregateAt": 1783670400000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
+    "backNumberAccentColorCode": "#BFDDFF",
+    "mysekaiHousingCompetitionReviewRankId": 1
+  },
+  {
+    "id": 28,
+    "name": "寧々BIRTHDAYパーティー'26",
+    "description": "26年寧々誕生日と連携したマイセカイ百景",
+    "submitStartAt": 1784473200000,
+    "reviewStartAt": 1784473200000,
+    "submitEndAt": 1785077999000,
+    "aggregateAt": 1785078000000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_2",
+    "backNumberAccentColorCode": "#33dd99",
+    "mysekaiHousingCompetitionReviewRankId": 1
+  },
+  {
+    "id": 29,
+    "name": "杏BIRTHDAYパーティー'26",
+    "description": "26年杏誕生日と連携したマイセカイ百景",
+    "submitStartAt": 1784991600000,
+    "reviewStartAt": 1784991600000,
+    "submitEndAt": 1785596399000,
+    "aggregateAt": 1785596400000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
+    "backNumberAccentColorCode": "#00bbdd",
+    "mysekaiHousingCompetitionReviewRankId": 1
+  },
+  {
+    "id": 30,
+    "name": "一歌BIRTHDAYパーティー'26",
+    "description": "26年一歌誕生日と連携したマイセカイ百景",
+    "submitStartAt": 1786374000000,
+    "reviewStartAt": 1786374000000,
+    "submitEndAt": 1786978799000,
+    "aggregateAt": 1786978800000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_2",
+    "backNumberAccentColorCode": "#33aaee",
+    "mysekaiHousingCompetitionReviewRankId": 1
+  },
+  {
+    "id": 31,
+    "name": "瑞希BIRTHDAYパーティー'26",
+    "description": "26年瑞希誕生日と連携したマイセカイ百景",
+    "submitStartAt": 1787756400000,
+    "reviewStartAt": 1787756400000,
+    "submitEndAt": 1788361199000,
+    "aggregateAt": 1788361200000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
+    "backNumberAccentColorCode": "#ddaacc",
+    "mysekaiHousingCompetitionReviewRankId": 1
+  },
+  {
+    "id": 32,
+    "name": "ミクANNIVERSARYパーティー'26",
+    "description": "26年ミク記念日と連携したマイセカイ百景",
+    "submitStartAt": 1788102000000,
+    "reviewStartAt": 1788102000000,
+    "submitEndAt": 1788706799000,
+    "aggregateAt": 1788706800000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_2",
+    "backNumberAccentColorCode": "#33ccbb",
+    "mysekaiHousingCompetitionReviewRankId": 1
+  },
+  {
+    "id": 33,
+    "name": "えむBIRTHDAYパーティー'26",
+    "description": "26年えむ誕生日と連携したマイセカイ百景",
+    "submitStartAt": 1788879600000,
+    "reviewStartAt": 1788879600000,
+    "submitEndAt": 1789484399000,
+    "aggregateAt": 1789484400000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
+    "backNumberAccentColorCode": "#ff66bb",
+    "mysekaiHousingCompetitionReviewRankId": 1
   }
 ]

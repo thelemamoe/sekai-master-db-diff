@@ -10528,6 +10528,222 @@
     "description": "2026年のミクの日ログインキャンペーンで獲得"
   },
   {
+    "id": 941,
+    "stampType": "illustration",
+    "seq": 11730,
+    "name": "[スタンプ]類：僕でよければ",
+    "assetbundleName": "stamp0941",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 16,
+    "gameCharacterUnitId": 16,
+    "archivePublishedAt": 1774850400000,
+    "description": "「残照のInside Direction\nアフターライブ」に参加"
+  },
+  {
+    "id": 942,
+    "stampType": "illustration",
+    "seq": 11740,
+    "name": "[スタンプ]杏：望むところ！",
+    "assetbundleName": "stamp0942",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 10,
+    "gameCharacterUnitId": 10,
+    "archivePublishedAt": 1775714400000,
+    "description": "「Show 'em what's up！\nアフターライブ」に参加"
+  },
+  {
+    "id": 943,
+    "stampType": "illustration",
+    "seq": 11750,
+    "name": "[スタンプ]ミク：一緒に届けられるね",
+    "assetbundleName": "stamp0943",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 21,
+    "archivePublishedAt": 1776510000000,
+    "description": "「約束のPasserelle」のエンディング読了で獲得"
+  },
+  {
+    "id": 944,
+    "stampType": "illustration",
+    "seq": 11760,
+    "name": "[スタンプ]穂波：変わらないな",
+    "assetbundleName": "stamp0944",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 3,
+    "gameCharacterUnitId": 3,
+    "archivePublishedAt": 1777528800000,
+    "description": "「あたたかな思い出を辿って\nアフターライブ」に参加"
+  },
+  {
+    "id": 945,
+    "stampType": "illustration",
+    "seq": 11770,
+    "name": "[スタンプ]こはね：会ってみよう",
+    "assetbundleName": "stamp0945",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 9,
+    "gameCharacterUnitId": 9,
+    "archivePublishedAt": 1778220000000,
+    "description": "「Stay solid, No fold\nアフターライブ」に参加"
+  },
+  {
+    "id": 946,
+    "stampType": "illustration",
+    "seq": 11780,
+    "name": "[スタンプ]リン：踊りたくなっちゃった！",
+    "assetbundleName": "stamp0946",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 22,
+    "gameCharacterUnitId": 22,
+    "archivePublishedAt": 1779015600000,
+    "description": "「Great Yell for Dreamers！」のエンディング読了で獲得"
+  },
+  {
+    "id": 947,
+    "stampType": "illustration",
+    "seq": 11790,
+    "name": "[スタンプ]レン：しっかり見てて！",
+    "assetbundleName": "stamp0947",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 23,
+    "gameCharacterUnitId": 23,
+    "archivePublishedAt": 1779015600000,
+    "description": "「Great Yell for Dreamers！」のエンディング読了で獲得"
+  },
+  {
+    "id": 948,
+    "stampType": "illustration",
+    "seq": 11820,
+    "name": "[スタンプ]瑞希：ありがと！",
+    "assetbundleName": "stamp0948",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 20,
+    "gameCharacterUnitId": 20,
+    "archivePublishedAt": 1780207200000,
+    "description": "「最果てへと飛ぶキミへ\nアフターライブ」に参加"
+  },
+  {
+    "id": 949,
+    "stampType": "illustration",
+    "seq": 11830,
+    "name": "[スタンプ]ルカ：きっと大丈夫よ",
+    "assetbundleName": "stamp0949",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 24,
+    "gameCharacterUnitId": 24,
+    "archivePublishedAt": 1780916400000,
+    "description": "「Into the New Light」のエンディング読了で獲得"
+  },
+  {
+    "id": 950,
+    "stampType": "illustration",
+    "seq": 11840,
+    "name": "[スタンプ]司：忘れないでくれ…！",
+    "assetbundleName": "stamp0950",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 13,
+    "gameCharacterUnitId": 13,
+    "archivePublishedAt": 1781935200000,
+    "description": "「Phantom maze monster\nアフターライブ」に参加"
+  },
+  {
+    "id": 951,
+    "stampType": "illustration",
+    "seq": 11850,
+    "name": "[スタンプ]みのり：皆さんの安全を守ります！",
+    "assetbundleName": "stamp0951",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 5,
+    "gameCharacterUnitId": 5,
+    "archivePublishedAt": 1782799200000,
+    "description": "「アイドル・花里みのり～夢の最前線～\nアフターライブ」に参加"
+  },
+  {
+    "id": 952,
+    "stampType": "illustration",
+    "seq": 11860,
+    "name": "[スタンプ]絵名：…綺麗だな",
+    "assetbundleName": "stamp0952",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 19,
+    "gameCharacterUnitId": 19,
+    "archivePublishedAt": 1783576800000,
+    "description": "「褪せない今を、彩って\nアフターライブ」に参加"
+  },
+  {
+    "id": 953,
+    "stampType": "illustration",
+    "seq": 11870,
+    "name": "[スタンプ]KAITO：最高の歌を",
+    "assetbundleName": "stamp0953",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 26,
+    "gameCharacterUnitId": 26,
+    "archivePublishedAt": 1784458800000,
+    "description": "「君の隣、君と見る明日」のエンディング読了で獲得"
+  },
+  {
+    "id": 954,
+    "stampType": "illustration",
+    "seq": 11930,
+    "name": "[スタンプ]一歌：…これでいいんだ",
+    "assetbundleName": "stamp0954",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 1,
+    "gameCharacterUnitId": 1,
+    "archivePublishedAt": 1785477600000,
+    "description": "「Echo of a Prayer\nアフターライブ」に参加"
+  },
+  {
+    "id": 955,
+    "stampType": "illustration",
+    "seq": 11940,
+    "name": "[スタンプ]遥：行ってくるね",
+    "assetbundleName": "stamp0955",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 6,
+    "gameCharacterUnitId": 6,
+    "archivePublishedAt": 1786255200000,
+    "description": "「Leap Beyond The Limits！\nアフターライブ」に参加"
+  },
+  {
+    "id": 956,
+    "stampType": "illustration",
+    "seq": 12260,
+    "name": "[スタンプ]MEIKO：あとはまかせて",
+    "assetbundleName": "stamp0956",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 25,
+    "gameCharacterUnitId": 25,
+    "archivePublishedAt": 1786964400000,
+    "description": "「Again And Again Ambition！」のエンディング読了で獲得"
+  },
+  {
+    "id": 957,
+    "stampType": "illustration",
+    "seq": 12550,
+    "name": "[スタンプ]ルカ：パーティースタート！",
+    "assetbundleName": "stamp0957",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 24,
+    "gameCharacterUnitId": 24,
+    "archivePublishedAt": 1787983200000,
+    "description": "「Mix&Make Party Time!!\nアフターライブ」に参加"
+  },
+  {
+    "id": 958,
+    "stampType": "illustration",
+    "seq": 12560,
+    "name": "[スタンプ]彰人：どうなってんだよ…！",
+    "assetbundleName": "stamp0958",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 11,
+    "gameCharacterUnitId": 11,
+    "archivePublishedAt": 1788674400000,
+    "description": "「After the Fire\nアフターライブ」に参加"
+  },
+  {
     "id": 101021,
     "stampType": "illustration",
     "seq": 7130,
@@ -10622,6 +10838,18 @@
     "characterId2": 13,
     "archivePublishedAt": 1695999600000,
     "description": "一歌と司のキズナランク66で獲得"
+  },
+  {
+    "id": 101141,
+    "stampType": "illustration",
+    "seq": 11800,
+    "name": "[スタンプ]一歌とえむ：一歌ちゃんの歌聴かせて♪",
+    "assetbundleName": "stamp101141",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 1,
+    "characterId2": 14,
+    "archivePublishedAt": 1780194600000,
+    "description": "一歌とえむのキズナランク66で獲得"
   },
   {
     "id": 101151,
@@ -10996,6 +11224,18 @@
     "description": "穂波とこはねのキズナランク66で獲得"
   },
   {
+    "id": 103111,
+    "stampType": "illustration",
+    "seq": 11890,
+    "name": "[スタンプ]穂波と彰人：お手伝いしましょうか？",
+    "assetbundleName": "stamp103111",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 3,
+    "characterId2": 11,
+    "archivePublishedAt": 1785465000000,
+    "description": "穂波と彰人のキズナランク66で獲得"
+  },
+  {
     "id": 103131,
     "stampType": "illustration",
     "seq": 7430,
@@ -11030,6 +11270,18 @@
     "characterId2": 15,
     "archivePublishedAt": 1745980200000,
     "description": "穂波と寧々のキズナランク66で獲得"
+  },
+  {
+    "id": 103161,
+    "stampType": "illustration",
+    "seq": 11900,
+    "name": "[スタンプ]穂波と類：今度はどんな演出ですか？",
+    "assetbundleName": "stamp103161",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 3,
+    "characterId2": 16,
+    "archivePublishedAt": 1785465000000,
+    "description": "穂波と類のキズナランク66で獲得"
   },
   {
     "id": 103171,
@@ -11128,6 +11380,18 @@
     "description": "穂波とMEIKOのキズナランク66で獲得"
   },
   {
+    "id": 103261,
+    "stampType": "illustration",
+    "seq": 11880,
+    "name": "[スタンプ]穂波とKAITO：しばお、元気…？",
+    "assetbundleName": "stamp103261",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 3,
+    "characterId2": 26,
+    "archivePublishedAt": 1785465000000,
+    "description": "穂波とKAITOのキズナランク66で獲得"
+  },
+  {
     "id": 104051,
     "stampType": "illustration",
     "seq": 7510,
@@ -11210,6 +11474,18 @@
     "characterId2": 13,
     "archivePublishedAt": 1695999600000,
     "description": "志歩と司のキズナランク66で獲得"
+  },
+  {
+    "id": 104141,
+    "stampType": "illustration",
+    "seq": 11810,
+    "name": "[スタンプ]志歩とえむ：ありがとうのぎゅーっ！",
+    "assetbundleName": "stamp104141",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 4,
+    "characterId2": 14,
+    "archivePublishedAt": 1780194600000,
+    "description": "志歩とえむのキズナランク66で獲得"
   },
   {
     "id": 104151,
@@ -11344,6 +11620,18 @@
     "description": "みのりと杏のキズナランク66で獲得"
   },
   {
+    "id": 105111,
+    "stampType": "illustration",
+    "seq": 11910,
+    "name": "[スタンプ]みのりと彰人：東雲くん、ファイトー！",
+    "assetbundleName": "stamp105111",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 5,
+    "characterId2": 11,
+    "archivePublishedAt": 1785465000000,
+    "description": "みのりと彰人のキズナランク66で獲得"
+  },
+  {
     "id": 105131,
     "stampType": "illustration",
     "seq": 7660,
@@ -11354,6 +11642,30 @@
     "characterId2": 13,
     "archivePublishedAt": 1695999600000,
     "description": "みのりと司のキズナランク66で獲得"
+  },
+  {
+    "id": 105151,
+    "stampType": "illustration",
+    "seq": 11700,
+    "name": "[スタンプ]みのりと寧々：寧々ちゃん頼りになるなあ",
+    "assetbundleName": "stamp105151",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 5,
+    "characterId2": 15,
+    "archivePublishedAt": 1774837800000,
+    "description": "みのりと寧々のキズナランク66で獲得"
+  },
+  {
+    "id": 105161,
+    "stampType": "illustration",
+    "seq": 11920,
+    "name": "[スタンプ]みのりと類：その前向きさは才能だね",
+    "assetbundleName": "stamp105161",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 5,
+    "characterId2": 16,
+    "archivePublishedAt": 1785465000000,
+    "description": "みのりと類のキズナランク66で獲得"
   },
   {
     "id": 105171,
@@ -11654,6 +11966,18 @@
     "characterId2": 17,
     "archivePublishedAt": 1738290600000,
     "description": "愛莉と奏のキズナランク66で獲得"
+  },
+  {
+    "id": 107181,
+    "stampType": "illustration",
+    "seq": 11710,
+    "name": "[スタンプ]愛莉とまふゆ：一緒に思い出作りましょ！",
+    "assetbundleName": "stamp107181",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 7,
+    "characterId2": 18,
+    "archivePublishedAt": 1774837800000,
+    "description": "愛莉とまふゆのキズナランク66で獲得"
   },
   {
     "id": 107191,
@@ -12458,6 +12782,18 @@
     "characterId2": 16,
     "archivePublishedAt": 1695999600000,
     "description": "司と類のキズナランク66で獲得"
+  },
+  {
+    "id": 113181,
+    "stampType": "illustration",
+    "seq": 11720,
+    "name": "[スタンプ]司とまふゆ：いつもすごく元気ですね",
+    "assetbundleName": "stamp113181",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 13,
+    "characterId2": 18,
+    "archivePublishedAt": 1774837800000,
+    "description": "司とまふゆのキズナランク66で獲得"
   },
   {
     "id": 113201,

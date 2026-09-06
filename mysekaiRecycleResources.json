@@ -354,6 +354,18 @@
     "resourceBoxId": 66
   },
   {
+    "id": 67,
+    "resourceType": "mysekai_material",
+    "resourceId": 67,
+    "resourceBoxId": 67
+  },
+  {
+    "id": 68,
+    "resourceType": "mysekai_material",
+    "resourceId": 68,
+    "resourceBoxId": 68
+  },
+  {
     "id": 69,
     "resourceType": "mysekai_material",
     "resourceId": 69,
@@ -364,6 +376,12 @@
     "resourceType": "mysekai_material",
     "resourceId": 70,
     "resourceBoxId": 70
+  },
+  {
+    "id": 71,
+    "resourceType": "mysekai_material",
+    "resourceId": 71,
+    "resourceBoxId": 71
   },
   {
     "id": 72,
@@ -390,10 +408,46 @@
     "resourceBoxId": 75
   },
   {
+    "id": 76,
+    "resourceType": "mysekai_material",
+    "resourceId": 76,
+    "resourceBoxId": 76
+  },
+  {
     "id": 77,
     "resourceType": "mysekai_material",
     "resourceId": 77,
     "resourceBoxId": 77
+  },
+  {
+    "id": 78,
+    "resourceType": "mysekai_material",
+    "resourceId": 78,
+    "resourceBoxId": 78
+  },
+  {
+    "id": 79,
+    "resourceType": "mysekai_material",
+    "resourceId": 79,
+    "resourceBoxId": 79
+  },
+  {
+    "id": 80,
+    "resourceType": "mysekai_material",
+    "resourceId": 80,
+    "resourceBoxId": 80
+  },
+  {
+    "id": 81,
+    "resourceType": "mysekai_material",
+    "resourceId": 81,
+    "resourceBoxId": 81
+  },
+  {
+    "id": 82,
+    "resourceType": "mysekai_material",
+    "resourceId": 82,
+    "resourceBoxId": 82
   },
   {
     "id": 83,
@@ -406,6 +460,24 @@
     "resourceType": "mysekai_material",
     "resourceId": 84,
     "resourceBoxId": 84
+  },
+  {
+    "id": 85,
+    "resourceType": "mysekai_material",
+    "resourceId": 85,
+    "resourceBoxId": 85
+  },
+  {
+    "id": 86,
+    "resourceType": "mysekai_material",
+    "resourceId": 86,
+    "resourceBoxId": 86
+  },
+  {
+    "id": 87,
+    "resourceType": "mysekai_material",
+    "resourceId": 87,
+    "resourceBoxId": 87
   },
   {
     "id": 88,
@@ -448,6 +520,18 @@
     "resourceType": "mysekai_material",
     "resourceId": 94,
     "resourceBoxId": 94
+  },
+  {
+    "id": 95,
+    "resourceType": "mysekai_material",
+    "resourceId": 95,
+    "resourceBoxId": 95
+  },
+  {
+    "id": 96,
+    "resourceType": "mysekai_material",
+    "resourceId": 96,
+    "resourceBoxId": 96
   },
   {
     "id": 101,

@@ -18,6 +18,12 @@
     "cue": "bgm_mysekai_snow"
   },
   {
+    "id": 4,
+    "mysekaiPhenomenaId": 12,
+    "assetbundleName": "bgm_mysekai_soap",
+    "cue": "bgm_mysekai_soap"
+  },
+  {
     "id": 5,
     "mysekaiPhenomenaId": 13,
     "assetbundleName": "bgm_mysekai_universe",
@@ -34,6 +40,12 @@
     "mysekaiPhenomenaId": 15,
     "assetbundleName": "bgm_mysekai_cloud",
     "cue": "bgm_mysekai_cloud"
+  },
+  {
+    "id": 8,
+    "mysekaiPhenomenaId": 16,
+    "assetbundleName": "bgm_mysekai_underwater",
+    "cue": "bgm_mysekai_underwater"
   },
   {
     "id": 9,

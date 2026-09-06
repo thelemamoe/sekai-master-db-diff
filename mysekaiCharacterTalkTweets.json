@@ -42999,7 +42999,7 @@
   },
   {
     "id": 16641,
-    "motionName": "mov_cw_cute_tilthead002",
+    "motionName": "mov_cw_happy_tilthead001",
     "expressionEyeName": "smile",
     "expressionMouthName": "smile01",
     "text": "くちぱっちから、\nショーをしてるって……"
@@ -43008,7 +43008,7 @@
     "id": 16642,
     "motionName": "mov_cw_happy_surprise001",
     "expressionEyeName": "surprise",
-    "expressionMouthName": "normal02",
+    "expressionMouthName": "hawawa",
     "text": "えーっ！\nたまごっち星って……"
   },
   {
@@ -43791,8 +43791,8 @@
   {
     "id": 16772,
     "motionName": "mov_cw_happy_nod001",
-    "expressionEyeName": "smile",
-    "expressionMouthName": "smile02",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
     "text": "あたしこれ知ってるよ！"
   },
   {
@@ -44671,7 +44671,7 @@
   {
     "id": 16918,
     "motionName": "mov_cw_cute_tilthead002",
-    "expressionEyeName": "sparkling",
+    "expressionEyeName": "normal",
     "expressionMouthName": "smile01",
     "text": "お馬さんの像だ！\nこれ横に階段が……"
   },
@@ -44691,8 +44691,8 @@
   },
   {
     "id": 16921,
-    "motionName": "mov_cw_cute_tiltheadr004",
-    "expressionEyeName": "normal_angry",
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
     "expressionMouthName": "smile01",
     "text": "このびよ～んって\n細長い木、おもしろいね！"
   },
@@ -46932,7 +46932,7 @@
   {
     "id": 17240,
     "motionName": "mov_cw_happy_nod001",
-    "expressionEyeName": "smile",
+    "expressionEyeName": "normal",
     "expressionMouthName": "smile01",
     "text": "このお風呂、\n木のいい匂いがするねっ☆"
   },
@@ -47373,8 +47373,8 @@
   },
   {
     "id": 17303,
-    "motionName": "mov_cw_happy_fun001",
-    "expressionEyeName": "smile",
+    "motionName": "mov_cw_cute_tiltheadr004",
+    "expressionEyeName": "normal",
     "expressionMouthName": "smile01",
     "text": "プレゼントが\nいっぱいのってるね！"
   },
@@ -47723,7 +47723,7 @@
   },
   {
     "id": 17353,
-    "motionName": "mov_cw_cute_nod001",
+    "motionName": "mov_cw_cute_tilthead001",
     "expressionEyeName": "normal",
     "expressionMouthName": "smile01",
     "text": "この子って、\nおしゃべりで……"
@@ -49301,5 +49301,3244 @@
     "expressionEyeName": "normal",
     "expressionMouthName": "normal01",
     "text": "やりたいことはあるけど、\n両立できないかもって……"
+  },
+  {
+    "id": 17579,
+    "motionName": "mov_cm_normal_tilthead002l",
+    "expressionEyeName": "hohoemi",
+    "expressionMouthName": "smile03",
+    "text": "ここなら、もっと\nいろいろな演出が……"
+  },
+  {
+    "id": 17580,
+    "motionName": "mov_cw_cute_surprise001",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "normal04",
+    "text": "わ、わたし専用のイス！？"
+  },
+  {
+    "id": 17581,
+    "motionName": "mov_cw_cool_02joy001",
+    "expressionEyeName": "normal_angry",
+    "expressionMouthName": "smile02",
+    "text": "Make some noise！"
+  },
+  {
+    "id": 17582,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "シャボン玉のおかげかは\nわからないけど……"
+  },
+  {
+    "id": 17583,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "わ……すごいな。\nこういうの……"
+  },
+  {
+    "id": 17584,
+    "motionName": "mov_cw_silent_01joy002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ……\nオシャレだね"
+  },
+  {
+    "id": 17585,
+    "motionName": "mov_cw_cute_sky001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "見て見て、シャボン玉\nすっごくきれい～！！"
+  },
+  {
+    "id": 17586,
+    "motionName": "mov_cw_cute_01joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "わ～！\nすっごくかわいい！"
+  },
+  {
+    "id": 17587,
+    "motionName": "mov_cw_cute_tiltheadr004",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "normal02",
+    "text": "アタシ、こういう\nふわふわした感じの……"
+  },
+  {
+    "id": 17588,
+    "motionName": "mov_cw_cute_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "いい香りがしそうだね！\nなんだかアタシも……"
+  },
+  {
+    "id": 17589,
+    "motionName": "mov_cw_adult_nod003r",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "シャボン玉が\nふわふわ浮いてて可愛いね"
+  },
+  {
+    "id": 17590,
+    "motionName": "mov_cw_adult_02joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "わ……。\nすごく綺麗……！"
+  },
+  {
+    "id": 17591,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "綺麗に整理されてるね"
+  },
+  {
+    "id": 17592,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "シャボン玉がこんなに……"
+  },
+  {
+    "id": 17593,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "すごいファンシー……。\nけど、咲希とか穂波は……"
+  },
+  {
+    "id": 17594,
+    "motionName": "mov_cw_cool_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ、\nいいデザインだね"
+  },
+  {
+    "id": 17595,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "いい香りがしそうな\n石鹸だね"
+  },
+  {
+    "id": 17596,
+    "motionName": "mov_cw_cute_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "あ、見て見て！\nシャボン玉にセカイの……"
+  },
+  {
+    "id": 17597,
+    "motionName": "mov_cw_cute_hawawa001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "す、すごい！\n泡がもこもこしてて……"
+  },
+  {
+    "id": 17598,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "きれいなカーテンだね！\n遥ちゃんとか……"
+  },
+  {
+    "id": 17599,
+    "motionName": "mov_cw_cute_01joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "干したての\nタオルの匂いがする！"
+  },
+  {
+    "id": 17600,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "わ……\n可愛いシャボン玉……"
+  },
+  {
+    "id": 17601,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "可愛いお風呂だね。\n泡をすくって吹いたり……"
+  },
+  {
+    "id": 17602,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "綺麗にまとめてるね。\nふふ、タオルも……"
+  },
+  {
+    "id": 17603,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "練習終わりに体を洗うと、\nすごくさっぱりするよね"
+  },
+  {
+    "id": 17604,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "シャボン玉が\nたくさん浮いてるわ……"
+  },
+  {
+    "id": 17605,
+    "motionName": "mov_cw_normal_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "かわいいお風呂ね！"
+  },
+  {
+    "id": 17606,
+    "motionName": "mov_cw_cute_tiltheadr003",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile02",
+    "text": "あら、いいデザインの\nシャワーカーテンじゃない"
+  },
+  {
+    "id": 17607,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "お気に入りの香りを選んで\nお風呂に入るのが……"
+  },
+  {
+    "id": 17608,
+    "motionName": "mov_cw_adult_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "シャボン玉に陽の光が\nきらきら反射して……"
+  },
+  {
+    "id": 17609,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "すごく\nロマンチックなお風呂ね"
+  },
+  {
+    "id": 17610,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "素敵な棚ね。\n置いてある丸いのは……"
+  },
+  {
+    "id": 17611,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "あら、可愛い石鹸ね"
+  },
+  {
+    "id": 17612,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "すごいな、\nこんな素敵な景色まで……"
+  },
+  {
+    "id": 17613,
+    "motionName": "mov_cw_cute_01joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "わあ……\n空の中にいるみたいで……"
+  },
+  {
+    "id": 17614,
+    "motionName": "mov_cw_cute_tiltheadr004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "そういえば、\n上手に手を洗うため……"
+  },
+  {
+    "id": 17615,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ねえ、子供の頃、\nシャボン玉同士を……"
+  },
+  {
+    "id": 17616,
+    "motionName": "mov_cw_normal_01joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "うわ、\nすっごいキラキラ……！"
+  },
+  {
+    "id": 17617,
+    "motionName": "mov_cw_cute_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "入浴剤、\nいろいろあるんだね"
+  },
+  {
+    "id": 17618,
+    "motionName": "mov_cm_normal_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "なんだこれ……。\nシャボン玉か？"
+  },
+  {
+    "id": 17619,
+    "motionName": "mov_cm_smart_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "なんつーか……\n派手な風呂だな"
+  },
+  {
+    "id": 17620,
+    "motionName": "mov_cm_cool_tilthead002l",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ……石鹸にも\nこだわってんのか"
+  },
+  {
+    "id": 17621,
+    "motionName": "mov_cm_smart_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "シャボン玉がたくさん\n飛んでいるが……"
+  },
+  {
+    "id": 17622,
+    "motionName": "mov_cm_normal_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "これは、もしや……\n泡を雲に見立てて……"
+  },
+  {
+    "id": 17623,
+    "motionName": "mov_cm_smart_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "この瓶の中身は……\n入浴剤か"
+  },
+  {
+    "id": 17624,
+    "motionName": "mov_cm_happy_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "おお……なんとも\n幻想的な風景だな"
+  },
+  {
+    "id": 17625,
+    "motionName": "mov_cm_happy_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "おお、星に白い泡……\nいや、雲。さながら……"
+  },
+  {
+    "id": 17626,
+    "motionName": "mov_cm_normal_nod003r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "かわいらしい\nデザインだな"
+  },
+  {
+    "id": 17627,
+    "motionName": "mov_cw_happy_01joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ねえねえ、おっきな\nシャボン玉作ったら……"
+  },
+  {
+    "id": 17628,
+    "motionName": "mov_cw_cute_fun001",
+    "emoticonName": "fx_emote_016_single",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "あっわあっわ\nふっわふっわ……"
+  },
+  {
+    "id": 17629,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "……かくれんぼするなら、\nこの裏に隠れるのが……"
+  },
+  {
+    "id": 17630,
+    "motionName": "mov_cw_cute_02joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "わあ、かわいい～！\nこの丸いの……"
+  },
+  {
+    "id": 17631,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "normal01",
+    "text": "え……このシャボン玉も\n天気なの？"
+  },
+  {
+    "id": 17632,
+    "motionName": "mov_cw_cute_tiltheadr004",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "normal02",
+    "text": "す、すごい……。\n可愛いけど……"
+  },
+  {
+    "id": 17633,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ……センスいいね。\nこういうの、わたしも……"
+  },
+  {
+    "id": 17634,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "こういう石鹸、\n小さかった頃によく……"
+  },
+  {
+    "id": 17635,
+    "motionName": "mov_cm_adult_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "不思議な光景で\nあるとともに、興味を……"
+  },
+  {
+    "id": 17636,
+    "motionName": "mov_cm_normal_nod002l",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "この弾力のありそうな、\nきめ細かい泡……"
+  },
+  {
+    "id": 17637,
+    "motionName": "mov_cm_normal_tilthead002l",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ふむ……。石鹸の泡を\n使った演出もいくつか……"
+  },
+  {
+    "id": 17638,
+    "motionName": "mov_cw_silent_tiltheadr006",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "この飛んでるの、\nシャボン玉？"
+  },
+  {
+    "id": 17639,
+    "motionName": "mov_cw_adult_tiltheadl002",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "normal01",
+    "text": "わ、すごい泡だね……"
+  },
+  {
+    "id": 17640,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "いろんな\n入浴剤があるんだね"
+  },
+  {
+    "id": 17641,
+    "motionName": "mov_cw_silent_nod006",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "石鹸とかボディソープに、\nこだわりはないかな"
+  },
+  {
+    "id": 17642,
+    "motionName": "mov_cw_silent_tiltheadr007",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "このシャボン玉、\nそんなに風が……"
+  },
+  {
+    "id": 17643,
+    "motionName": "mov_cw_silent_nod006",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "泡のお風呂は\nリラックス効果が……"
+  },
+  {
+    "id": 17644,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "これ、\nシャワーカーテンなんだ"
+  },
+  {
+    "id": 17645,
+    "motionName": "mov_cw_silent_01joy007",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "……バスグッズが\nそろってるね"
+  },
+  {
+    "id": 17646,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "なにこれ、あちこち\nシャボン玉だらけ……"
+  },
+  {
+    "id": 17647,
+    "motionName": "mov_cw_cool_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "なんで星が入ってるんだろ\nって思ったけど……"
+  },
+  {
+    "id": 17648,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "バスグッズって、\nかわいいのが多いんだよね"
+  },
+  {
+    "id": 17649,
+    "motionName": "mov_cw_cute_tiltheadr004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ。\n良さそうな石鹸だね"
+  },
+  {
+    "id": 17650,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "今飛んでるシャボン玉、\n意外と……"
+  },
+  {
+    "id": 17651,
+    "motionName": "mov_cw_cute_01joy001",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile02",
+    "text": "うわ〜！　もこもこの\n泡のお風呂じゃん！"
+  },
+  {
+    "id": 17652,
+    "motionName": "mov_cw_normal_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "こういう\nシャワーカーテン……"
+  },
+  {
+    "id": 17653,
+    "motionName": "mov_cw_cute_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ボディソープとか\nこだわる派？"
+  },
+  {
+    "id": 17654,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "シャボン玉が\n飛んでくるなんて……"
+  },
+  {
+    "id": 17655,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "可愛いお風呂だね。\nリンが見たら……"
+  },
+  {
+    "id": 17656,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "いい香りの石鹸だね"
+  },
+  {
+    "id": 17657,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "シャボン玉が\n飛んでいるなんて……"
+  },
+  {
+    "id": 17658,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "なんだか、浴槽の中に空が\n広がっているみたいね"
+  },
+  {
+    "id": 17659,
+    "motionName": "mov_cw_silent_01joy010",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "可愛い色のシェルフね"
+  },
+  {
+    "id": 17660,
+    "motionName": "mov_cw_cute_notice001",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile01",
+    "text": "わっ、シャボン玉が\nたくさん飛んでる！"
+  },
+  {
+    "id": 17661,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "わ、\nあわあわのお風呂だ……！"
+  },
+  {
+    "id": 17662,
+    "motionName": "mov_cw_cute_nod001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "このカーテン、揺れると\n光が反射してきれいだね"
+  },
+  {
+    "id": 17663,
+    "motionName": "mov_cw_cute_fun001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile02",
+    "text": "ふわふわのタオルって、\nとっても気持ちいいよね"
+  },
+  {
+    "id": 17664,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "このお天気の時は、\nセカイ全体が……"
+  },
+  {
+    "id": 17665,
+    "motionName": "mov_cw_happy_01joy001",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile02",
+    "text": "えーっ！\nこのお湯、どうして……"
+  },
+  {
+    "id": 17666,
+    "motionName": "mov_cw_cute_nod001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "このタオル、\nフワフワで気持ちいいね！"
+  },
+  {
+    "id": 17667,
+    "motionName": "mov_cw_cute_01joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "この石鹸、いい香り～♪"
+  },
+  {
+    "id": 17668,
+    "motionName": "mov_cw_cool_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "シャボン玉が\n飛ぶ天気なんて……"
+  },
+  {
+    "id": 17669,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "すごい量の泡だね"
+  },
+  {
+    "id": 17670,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "こういう色合いの家具、\n私達のセカイでは……"
+  },
+  {
+    "id": 17671,
+    "motionName": "mov_cm_happy_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "シャボン玉見てたら……"
+  },
+  {
+    "id": 17672,
+    "motionName": "mov_cm_happy_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "お風呂で泡遊びするの、\n楽しそうだね！"
+  },
+  {
+    "id": 17673,
+    "motionName": "mov_cm_normal_nod004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ご飯食べる時、\nメイコに……"
+  },
+  {
+    "id": 17674,
+    "motionName": "mov_cw_adult_tilthead001",
+    "expressionEyeName": "hohoemi",
+    "expressionMouthName": "smile01",
+    "text": "シャボン玉がたくさん\n浮かんでいて綺麗ね"
+  },
+  {
+    "id": 17675,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "疲れて帰ってくると、\nお風呂に入るのも……"
+  },
+  {
+    "id": 17676,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "パステルカラーで、\n可愛いシェルフね"
+  },
+  {
+    "id": 17677,
+    "motionName": "mov_cw_cute_tilthead002",
+    "expressionEyeName": "smile_sad",
+    "expressionMouthName": "smile01",
+    "text": "一緒にぷかぷか浮けたら、\n絶対もっと……"
+  },
+  {
+    "id": 17678,
+    "motionName": "mov_cw_happy_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ～！　この泡、\nシャワーを……"
+  },
+  {
+    "id": 17679,
+    "motionName": "mov_cw_happy_surprise001",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "surprise",
+    "text": "えーっ！\nこのきれいな色の……"
+  },
+  {
+    "id": 17680,
+    "motionName": "mov_cm_happy_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ミク達が見たら、\nあのシャボン玉に……"
+  },
+  {
+    "id": 17681,
+    "motionName": "mov_cm_adult_nod001r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "大きな星が\n浮かんでいるね"
+  },
+  {
+    "id": 17682,
+    "motionName": "mov_cm_cool_nod001r",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "ふわふわのタオルだね。\nなんだか……"
+  },
+  {
+    "id": 17683,
+    "motionName": "mov_cw_silent_nod006",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "……シャボン玉が\nたくさん飛んでる"
+  },
+  {
+    "id": 17684,
+    "motionName": "mov_cw_silent_nod004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "このお風呂、\n泡でいっぱい……"
+  },
+  {
+    "id": 17685,
+    "motionName": "mov_cw_silent_01joy002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "これ全部、お風呂に\n入る時に使うものなの？"
+  },
+  {
+    "id": 17686,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "normal02",
+    "text": "……私専用のイス？"
+  },
+  {
+    "id": 17687,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "一歌から聞いたかも\nしれないけど……"
+  },
+  {
+    "id": 17688,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "前に、\n全然知らないセカイに……"
+  },
+  {
+    "id": 17689,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ねえ、聞いた？\nこはね達がセカイを……"
+  },
+  {
+    "id": 17690,
+    "motionName": "mov_cw_happy_01joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ねえねえ、\nもうえむちゃんから……"
+  },
+  {
+    "id": 17691,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "……この前、他のセカイの\nわたしに会ったの"
+  },
+  {
+    "id": 17692,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "この前、ちょっと\nびっくりすることが……"
+  },
+  {
+    "id": 17693,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "……よかった。\n今日も元気そうだね"
+  },
+  {
+    "id": 17694,
+    "motionName": "mov_cw_silent_01joy002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "この前ね、\n着ぐるみさんっていう……"
+  },
+  {
+    "id": 17695,
+    "motionName": "mov_cw_silent_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "……あなたは、音楽を\n作ることに興味ある？"
+  },
+  {
+    "id": 17696,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "この前、一歌ちゃん達と\n一緒に子供の頃の……"
+  },
+  {
+    "id": 17697,
+    "motionName": "mov_cw_normal_surprise001",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "normal04",
+    "text": "えー！！　\nこの王様みたいなイス……"
+  },
+  {
+    "id": 17698,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "この前、アメリカの\n音楽事務所を……"
+  },
+  {
+    "id": 17699,
+    "motionName": "mov_cm_happy_surprise001",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "normal04",
+    "text": "な、なにぃーーー！\nオレ専用のイス、だと！？"
+  },
+  {
+    "id": 17700,
+    "motionName": "mov_cm_adult_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "これが、\n俺のためのイスか"
+  },
+  {
+    "id": 17701,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "これって、\n鳥籠……だよね？"
+  },
+  {
+    "id": 17702,
+    "motionName": "mov_cw_silent_01joy002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "わ、いろんな色の\n百合が咲いてる"
+  },
+  {
+    "id": 17703,
+    "motionName": "mov_cw_normal_01joy001",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile02",
+    "text": "えー！　なにこの鳥籠！\nもしかして……"
+  },
+  {
+    "id": 17704,
+    "motionName": "mov_cw_cute_nod001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "いいね、暖炉！\n暖炉があるおうちって……"
+  },
+  {
+    "id": 17705,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "このネコちゃん、\nお座りしてて可愛いね♪"
+  },
+  {
+    "id": 17706,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal_sad",
+    "expressionMouthName": "smile01",
+    "text": "この鳥籠のオブジェ、\n中に入れるんだね"
+  },
+  {
+    "id": 17707,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "とっても\n綺麗な百合だね"
+  },
+  {
+    "id": 17708,
+    "motionName": "mov_cw_cool_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "……なんか、\nすごい物があるんだけど"
+  },
+  {
+    "id": 17709,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "暖炉か……。\n日本の家では……"
+  },
+  {
+    "id": 17710,
+    "motionName": "mov_cw_silent_nod006",
+    "expressionEyeName": "normal_sad",
+    "expressionMouthName": "normal01",
+    "text": "……この子、ちょっと\n触ってみていい？"
+  },
+  {
+    "id": 17711,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "ねえねえ、この鳥籠……\nでいいんだよね？"
+  },
+  {
+    "id": 17712,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "綺麗な百合だね。それに、\n花瓶もオシャレ……！"
+  },
+  {
+    "id": 17713,
+    "motionName": "mov_cw_silent_01joy010",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "素敵なオブジェだね。\nMVのセットに使えそう……"
+  },
+  {
+    "id": 17714,
+    "motionName": "mov_cw_cool_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "暖炉って、\nちょっと憧れるな"
+  },
+  {
+    "id": 17715,
+    "motionName": "mov_cw_cute_tiltheadr004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "これって鳥籠でしょ"
+  },
+  {
+    "id": 17716,
+    "motionName": "mov_cw_adult_02joy001",
+    "expressionEyeName": "normal_sad",
+    "expressionMouthName": "smile02",
+    "text": "あら、かわいい！\nなによこの子……"
+  },
+  {
+    "id": 17717,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "これ、鳥籠の\nオブジェなのよね？"
+  },
+  {
+    "id": 17718,
+    "motionName": "mov_cw_adult_02joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile02",
+    "text": "まあ、\n可愛い猫のぬいぐるみね！"
+  },
+  {
+    "id": 17719,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "これ、自由に\n中に入れるって聞いたよ"
+  },
+  {
+    "id": 17720,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "可愛いぬいぐるみだね。\nきちんとお座りしてて……"
+  },
+  {
+    "id": 17721,
+    "motionName": "mov_cw_silent_tiltheadr007",
+    "expressionEyeName": "normal_sad",
+    "expressionMouthName": "smile01",
+    "text": "ちょっと前にさ、\nうっかり学校の宿題……"
+  },
+  {
+    "id": 17722,
+    "motionName": "mov_cw_cool_02joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile02",
+    "text": "いいね、暖炉！\n寒い日とか……"
+  },
+  {
+    "id": 17723,
+    "motionName": "mov_cm_smart_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "なんかすげえもんが\n置いてあるな"
+  },
+  {
+    "id": 17724,
+    "motionName": "mov_cm_cool_tilthead002r",
+    "expressionEyeName": "close_normal",
+    "expressionMouthName": "normal01",
+    "text": "暖炉とエアコンだと、\nどっちが……"
+  },
+  {
+    "id": 17725,
+    "motionName": "mov_cm_adult_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "この鳥籠は\nフォトスポットか"
+  },
+  {
+    "id": 17726,
+    "motionName": "mov_cm_normal_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "……このぬいぐるみ、\n少し頭が大きいな"
+  },
+  {
+    "id": 17727,
+    "motionName": "mov_cm_happy_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ほほう、鳥籠とは……。\n面白いものがあるな！"
+  },
+  {
+    "id": 17728,
+    "motionName": "mov_cm_normal_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "暖炉といえば、\n大きな犬と一緒に……"
+  },
+  {
+    "id": 17729,
+    "motionName": "mov_cw_happy_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ねえねえ！\nこれってもしかして……"
+  },
+  {
+    "id": 17730,
+    "motionName": "mov_cw_cute_01joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "暖炉、いいよねーっ！\n別荘にあって……"
+  },
+  {
+    "id": 17731,
+    "motionName": "mov_cw_happy_01joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile02",
+    "text": "猫さん、こんにちは☆"
+  },
+  {
+    "id": 17732,
+    "motionName": "mov_cw_silent_01joy002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "こういう意味深な\nオブジェ見ると……"
+  },
+  {
+    "id": 17733,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "可愛いぬいぐるみだね。\nわたし達がいる……"
+  },
+  {
+    "id": 17734,
+    "motionName": "mov_cm_adult_tilthead002l",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "おや、\nこんなところに鳥籠が……"
+  },
+  {
+    "id": 17735,
+    "motionName": "mov_cm_adult_nod001l",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "おや、\n綺麗に生けてあるね"
+  },
+  {
+    "id": 17736,
+    "motionName": "mov_cw_silent_nod006",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "すごい、大きいね……"
+  },
+  {
+    "id": 17737,
+    "motionName": "mov_cw_silent_01joy002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "薪が燃えてる音って、\nなんかいいよね"
+  },
+  {
+    "id": 17738,
+    "motionName": "mov_cw_silent_tiltheadr005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "……大きい鳥籠だね"
+  },
+  {
+    "id": 17739,
+    "motionName": "mov_cw_silent_tilthead003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "この花も、\nあなたが育てたの？"
+  },
+  {
+    "id": 17740,
+    "motionName": "mov_cw_cute_tiltheadr004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile02",
+    "text": "え、なにこれ可愛い！"
+  },
+  {
+    "id": 17741,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ、\nオシャレな暖炉だね"
+  },
+  {
+    "id": 17742,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ……！\nボクも、こういう……"
+  },
+  {
+    "id": 17743,
+    "motionName": "mov_cw_cute_surprise001",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile02",
+    "text": "えっ、この子\nすっごくカワイイ！"
+  },
+  {
+    "id": 17744,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "大きい籠……。\nこういうオブジェ……"
+  },
+  {
+    "id": 17745,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "可愛い猫だね。ちゃんと\n手入れされてる……"
+  },
+  {
+    "id": 17746,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "この鳥籠、\nフォトスポットなのね"
+  },
+  {
+    "id": 17747,
+    "motionName": "mov_cw_adult_tiltheadr002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "火を見つめていると\n落ち着く……"
+  },
+  {
+    "id": 17748,
+    "motionName": "mov_cw_adult_02joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "わ、素敵な鳥籠……！"
+  },
+  {
+    "id": 17749,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "立派な百合の花だね。\nなんだか……"
+  },
+  {
+    "id": 17750,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "えっ？　この鳥籠、\nフォトスポットなの？"
+  },
+  {
+    "id": 17751,
+    "motionName": "mov_cw_happy_fun001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile02",
+    "text": "暖炉の火、\nゆらゆらしてて綺麗だね"
+  },
+  {
+    "id": 17752,
+    "motionName": "mov_cw_cool_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "こんなに大きな鳥籠、\n何に使うの？"
+  },
+  {
+    "id": 17753,
+    "motionName": "mov_cw_normal_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "立派な花だね。\nこれも君が育てたの？"
+  },
+  {
+    "id": 17754,
+    "motionName": "mov_cm_cool_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "この大きい鳥籠、\n何に使うんだ？"
+  },
+  {
+    "id": 17755,
+    "motionName": "mov_cm_normal_idle003",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "暖炉の火が燃える音って、\nベースと重ねたら……"
+  },
+  {
+    "id": 17756,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "この鳥籠、\nフォトスポットなのね"
+  },
+  {
+    "id": 17757,
+    "motionName": "mov_cw_adult_nod003r",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "とっても上品な香りね。\nなんだか、心が落ち着くわ"
+  },
+  {
+    "id": 17758,
+    "motionName": "mov_cw_happy_01joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "uniq_wnsmiku",
+    "text": "チュンチュンチュ～ン♪"
+  },
+  {
+    "id": 17759,
+    "motionName": "mov_cw_happy_notice001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile02",
+    "text": "わあ、かわいい\nリボンつけてる！"
+  },
+  {
+    "id": 17760,
+    "motionName": "mov_cm_smart_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ、\n素敵なオブジェだね"
+  },
+  {
+    "id": 17761,
+    "motionName": "mov_cm_smart_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "この花瓶、とても精巧に\n作られているね"
+  },
+  {
+    "id": 17762,
+    "motionName": "mov_cw_silent_tilthead003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "……すごく、大きい……"
+  },
+  {
+    "id": 17763,
+    "motionName": "mov_cw_silent_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "…………"
+  },
+  {
+    "id": 17764,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "君は、セカイが\n生まれる瞬間って……"
+  },
+  {
+    "id": 17765,
+    "motionName": "mov_cw_cute_tiltheadr004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "実はこの前、\nプロのダンサーさんを……"
+  },
+  {
+    "id": 17766,
+    "motionName": "mov_cw_cool_talk001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ねえねえ、聞いて聞いて！\nちょっと前にさ……"
+  },
+  {
+    "id": 17767,
+    "motionName": "mov_cm_happy_01joy001r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile02",
+    "text": "聞いてくれ！　実は、\nセカイを持つ者同士で……"
+  },
+  {
+    "id": 17768,
+    "motionName": "mov_cw_happy_01joy001",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile02",
+    "text": "ねえねえ！　わたしね、\n他のセカイの……"
+  },
+  {
+    "id": 17769,
+    "motionName": "mov_cm_adult_01joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "やっほー！\n杏から聞いたかも……"
+  },
+  {
+    "id": 17770,
+    "motionName": "mov_cw_normal_sky002",
+    "expressionEyeName": "hohoemi",
+    "expressionMouthName": "smile01",
+    "text": "……元気に\nしてるかなあ"
+  },
+  {
+    "id": 17771,
+    "motionName": "mov_cw_adult_01joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile03",
+    "text": "支えてくれる人が\nいるのって、すごく……"
+  },
+  {
+    "id": 17772,
+    "motionName": "mov_cw_adult_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "実はこの前、セカイが\n生まれる瞬間を見たのよ"
+  },
+  {
+    "id": 17773,
+    "motionName": "mov_u109_sing001",
+    "emoticonName": "fx_emote_016_single",
+    "expressionEyeName": "close_normal",
+    "expressionMouthName": "smile01",
+    "text": "♪——————……"
+  },
+  {
+    "id": 17774,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "この前……\nあなたみたいに……"
+  },
+  {
+    "id": 17775,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "もう穂波から\n聞いたかしら？"
+  },
+  {
+    "id": 17776,
+    "motionName": "mov_cm_adult_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ、僕のための\nイスとは……"
+  },
+  {
+    "id": 17777,
+    "motionName": "mov_cm_normal_angry002",
+    "expressionEyeName": "normal_angry",
+    "expressionMouthName": "normal02",
+    "text": "——ぱ！　ぺ！　ぴ！　ぷ！\nぺ！　ぽ！　ぱ！　ぽ！"
+  },
+  {
+    "id": 17778,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "小さい頃、テレビで\nこういう……"
+  },
+  {
+    "id": 17779,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ゼリーとかプリンって、\n一番上にさくらんぼが……"
+  },
+  {
+    "id": 17780,
+    "motionName": "mov_cw_adult_surprise001",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "normal01",
+    "text": "すごい、わたあめが\n木になってる……！"
+  },
+  {
+    "id": 17781,
+    "motionName": "mov_cw_happy_01joy001",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile02",
+    "text": "えーっ！\nわたあめが生えてる！"
+  },
+  {
+    "id": 17782,
+    "motionName": "mov_cw_cute_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "マカロンって、\nオシャレなお菓子代表！"
+  },
+  {
+    "id": 17783,
+    "motionName": "mov_cw_adult_nod005",
+    "expressionEyeName": "normal_sad",
+    "expressionMouthName": "smile01",
+    "text": "チョコレートって、\nいろんなものに……"
+  },
+  {
+    "id": 17784,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "わ、大きなゼリー……！"
+  },
+  {
+    "id": 17785,
+    "motionName": "mov_cw_cool_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "何これ、飴……？"
+  },
+  {
+    "id": 17786,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "かわいい\nキャンディだね"
+  },
+  {
+    "id": 17787,
+    "motionName": "mov_cw_normal_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "大きな\nチョコファウンテンだね"
+  },
+  {
+    "id": 17788,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "……え？　甘いものが\nどうしても……"
+  },
+  {
+    "id": 17789,
+    "motionName": "mov_cw_cool_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "これ、\nわたあめの木なんだね"
+  },
+  {
+    "id": 17790,
+    "motionName": "mov_cw_silent_tilthead003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "……チョコに合う\n変わり種？"
+  },
+  {
+    "id": 17791,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "このゼリー、なかなか\n弾力があるわね"
+  },
+  {
+    "id": 17792,
+    "motionName": "mov_cw_adult_02joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "可愛いクッションだわ。\nまるで本物の……"
+  },
+  {
+    "id": 17793,
+    "motionName": "mov_cw_adult_02joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "わ、\nこのライト、飴の形だ"
+  },
+  {
+    "id": 17794,
+    "motionName": "mov_cw_normal_01joy001",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile02",
+    "text": "えっ、なにこの木！\nわたあめみたい！"
+  },
+  {
+    "id": 17795,
+    "motionName": "mov_cm_cool_nod001r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "へえ、マカロンの\nクッションね……"
+  },
+  {
+    "id": 17796,
+    "motionName": "mov_cm_normal_nod002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "なるほど、チョコレート\nファウンテンか"
+  },
+  {
+    "id": 17797,
+    "motionName": "mov_cm_adult_nod001r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "本物のゼリー\nそっくりだな"
+  },
+  {
+    "id": 17798,
+    "motionName": "mov_cm_normal_nod002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "わたあめのような木だな"
+  },
+  {
+    "id": 17799,
+    "motionName": "mov_cm_normal_nod001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "おお！　これは\nチョコレート……"
+  },
+  {
+    "id": 17800,
+    "motionName": "mov_cm_normal_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "随分と大きなゼリーだな"
+  },
+  {
+    "id": 17801,
+    "motionName": "mov_cm_happy_tilthead001",
+    "expressionEyeName": "normal_sad",
+    "expressionMouthName": "smile01",
+    "text": "クッションだと\nわかってはいるんだが……"
+  },
+  {
+    "id": 17802,
+    "motionName": "mov_cw_happy_01joy001",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile02",
+    "text": "わー！\nおっきいキャンディだ～！"
+  },
+  {
+    "id": 17803,
+    "motionName": "mov_cw_cute_notice001",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "normal01",
+    "text": "わ、わたあめの木……。\nこのセカイ……"
+  },
+  {
+    "id": 17804,
+    "motionName": "mov_cm_smart_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "ふむ……。この量の\nチョコレートを……"
+  },
+  {
+    "id": 17805,
+    "motionName": "mov_cm_cool_tilthead002l",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "まるで本物の\nゼリーのようだけれど……"
+  },
+  {
+    "id": 17806,
+    "motionName": "mov_cw_adult_tiltheadr002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "すごく大きな飴が\nあるって思ったら……"
+  },
+  {
+    "id": 17807,
+    "motionName": "mov_cw_silent_tiltheadr007",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "これ……チョコレート\nファウンテン？"
+  },
+  {
+    "id": 17808,
+    "motionName": "mov_cw_silent_tilthead003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "お皿のところ、\n椅子になってるんだね"
+  },
+  {
+    "id": 17809,
+    "motionName": "mov_cw_silent_01joy008",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "……このマカロン、\nクッションなんだ"
+  },
+  {
+    "id": 17810,
+    "motionName": "mov_cw_cute_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "もしこの飴が\n本物だったら……"
+  },
+  {
+    "id": 17811,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "わたあめの木？が\n生えてる……！"
+  },
+  {
+    "id": 17812,
+    "motionName": "mov_cw_normal_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "このライト、\nかわいいよね"
+  },
+  {
+    "id": 17813,
+    "motionName": "mov_cw_cool_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "この前、一歌に\n園芸の本を……"
+  },
+  {
+    "id": 17814,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "あら、可愛らしい\nキャンディのライトね"
+  },
+  {
+    "id": 17815,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "穂波に教えて\nもらったんだけど……"
+  },
+  {
+    "id": 17816,
+    "motionName": "mov_cw_cute_tiltheadr004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "わたあめの……木？\nふふ……"
+  },
+  {
+    "id": 17817,
+    "motionName": "mov_cw_cute_nod001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "わあ、\nかわいいライトだね！"
+  },
+  {
+    "id": 17818,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "カラフルで\n随分と大きい飴だね"
+  },
+  {
+    "id": 17819,
+    "motionName": "mov_cm_happy_angry001",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile02",
+    "text": "ゼリーの椅子！？すげー！"
+  },
+  {
+    "id": 17820,
+    "motionName": "mov_cm_happy_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "このクッション、本物の\nマカロンみたいで……"
+  },
+  {
+    "id": 17821,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "わたあめって、\nそのまま食べても……"
+  },
+  {
+    "id": 17822,
+    "motionName": "mov_cw_cute_01joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "わあ！\nふかふかのクッション！"
+  },
+  {
+    "id": 17823,
+    "motionName": "mov_cm_cool_nod001r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ。飴のオブジェだと\n思ったけど……"
+  },
+  {
+    "id": 17824,
+    "motionName": "mov_cw_silent_01joy002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "……ゼリー、\nもっと小さいのは……"
+  },
+  {
+    "id": 17825,
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "チョコフォンデュって、\n王道はやっぱり……"
+  },
+  {
+    "id": 17826,
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "チョコファウンテンって\nいいよね！"
+  },
+  {
+    "id": 17827,
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "近くで見ると、本当に\nたくさんチョコが……"
+  },
+  {
+    "id": 17828,
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "えへへ。\n楽しいね、寧々ちゃん！"
+  },
+  {
+    "id": 17829,
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile02",
+    "text": "お～！\nチョコ、ついたついた！"
+  },
+  {
+    "id": 17830,
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "……チョコつけるの、\n楽しいな"
+  },
+  {
+    "id": 17831,
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "チョコレートの噴水、\nすごいな……"
+  },
+  {
+    "id": 17832,
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile01",
+    "text": "わ、すごい。チョコが\nどんどんフルーツに……"
+  },
+  {
+    "id": 17833,
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile02",
+    "text": "チョコチョコ～♪\nちょこっとじゃなくて……"
+  },
+  {
+    "id": 17834,
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "チョコフォンデュって、\n自分で食材を選んで……"
+  },
+  {
+    "id": 17835,
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "normal01",
+    "text": "おおー！　どんどん\nチョコがついてく！"
+  },
+  {
+    "id": 17836,
+    "motionName": "mov_cw_silent_01joy002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ブライダルフェスタに\n行ったことが……"
+  },
+  {
+    "id": 17837,
+    "motionName": "mov_cw_normal_nod003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "ウェディングケーキって、\n切る時だけじゃなくて……"
+  },
+  {
+    "id": 17838,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ウェディングケーキって\n大きいんだね"
+  },
+  {
+    "id": 17839,
+    "motionName": "mov_cw_silent_01joy010",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "新郎新婦がケーキを\n切り分けるのには……"
+  },
+  {
+    "id": 17840,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "このケーキを見てると、\nブライダル衣装の……"
+  },
+  {
+    "id": 17841,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "このケーキ、\nリボンの飾りが……"
+  },
+  {
+    "id": 17842,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "そういえば私、結婚式の\n写真のモデル……"
+  },
+  {
+    "id": 17843,
+    "motionName": "mov_cm_cool_tilthead001",
+    "expressionEyeName": "normal_sad",
+    "expressionMouthName": "normal01",
+    "text": "なんでこんなとこに、\nウェディングケーキが……"
+  },
+  {
+    "id": 17844,
+    "motionName": "mov_cm_adult_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ある人が言っていたんだ。\n結婚式は……"
+  },
+  {
+    "id": 17845,
+    "motionName": "mov_cw_happy_01joy001",
+    "expressionEyeName": "normal_angry",
+    "expressionMouthName": "smile02",
+    "text": "その結婚、\nちょっと待ったー！"
+  },
+  {
+    "id": 17846,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ブライダルフェスタを\n手伝った時に……"
+  },
+  {
+    "id": 17847,
+    "motionName": "mov_cm_normal_tilthead002l",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "このウェディングケーキ、\n随分大きいね"
+  },
+  {
+    "id": 17848,
+    "motionName": "mov_cw_silent_nod006",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ウェディングケーキを\nゲストに……"
+  },
+  {
+    "id": 17849,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "これ、ウェディング\nケーキだよね？"
+  },
+  {
+    "id": 17850,
+    "motionName": "mov_cw_happy_01joy001",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile02",
+    "text": "わ、\nウェディングケーキだ！"
+  },
+  {
+    "id": 17851,
+    "motionName": "mov_cw_cute_forward001",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile02",
+    "text": "聞いて聞いて！\nこの前、１週間の……"
+  },
+  {
+    "id": 17852,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "この前、ニーゴのみんなと\n日帰り旅行したんだ"
+  },
+  {
+    "id": 17853,
+    "motionName": "mov_cw_cute_notice001",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "normal01",
+    "text": "このイス、\nわたし専用なの？"
+  },
+  {
+    "id": 17854,
+    "motionName": "mov_cw_cool_notice001",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "surprise",
+    "text": "えっ、私専用のイス！？"
+  },
+  {
+    "id": 17855,
+    "motionName": "mov_cw_cute_tiltheadr004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "前にね、神高のバレー部の\n先輩達と……"
+  },
+  {
+    "id": 17856,
+    "motionName": "mov_cm_normal_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "実は少し前に、\nちょっとした事情で……"
+  },
+  {
+    "id": 17857,
+    "motionName": "mov_cm_adult_01joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "セカイを\n持っている者同士で……"
+  },
+  {
+    "id": 17858,
+    "motionName": "mov_cw_happy_01joy001",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile02",
+    "text": "ねえ、聞いて聞いて！\nボク、友達と一緒に……"
+  },
+  {
+    "id": 17859,
+    "motionName": "mov_cm_cool_nod001r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "少し前に、他のセカイの\n僕に会ったんだけど……"
+  },
+  {
+    "id": 17860,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "……水中から見た\n水面って、あんなに……"
+  },
+  {
+    "id": 17861,
+    "motionName": "mov_cw_cool_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "このベッド、開いた貝殻の\nイメージなのかな"
+  },
+  {
+    "id": 17862,
+    "motionName": "mov_cw_silent_01joy002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "これ、クラゲの置物かと\n思ってたけど……"
+  },
+  {
+    "id": 17863,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile01",
+    "text": "わ……。アタシ、\n泳ぐのそんなに……"
+  },
+  {
+    "id": 17864,
+    "motionName": "mov_cw_cute_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile02",
+    "text": "わあ、かわいい……！\nこんなドレッサーで……"
+  },
+  {
+    "id": 17865,
+    "motionName": "mov_cw_cute_01joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile02",
+    "text": "絵本に出てくる\n人魚姫のベッドみたい！"
+  },
+  {
+    "id": 17866,
+    "motionName": "mov_cw_adult_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "あ、クラゲが泳いでるよ。\n向こうにいるのは……"
+  },
+  {
+    "id": 17867,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "このヘッドボード、\n貝殻の形をしてるんだ"
+  },
+  {
+    "id": 17868,
+    "motionName": "mov_cw_adult_01joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "わあ！　人魚姫の絵本に\n出てくる珊瑚みたいで……"
+  },
+  {
+    "id": 17869,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "水の中っぽいのに\n全然濡れないし……"
+  },
+  {
+    "id": 17870,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "こういうの、\n世界観があっていいね"
+  },
+  {
+    "id": 17871,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "このフロアランプ、\n綺麗だね"
+  },
+  {
+    "id": 17872,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "水の中でも普通に\nおしゃべりできる……"
+  },
+  {
+    "id": 17873,
+    "motionName": "mov_cw_cute_tiltheadr004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile03",
+    "text": "このベッド、遥ちゃんが\n使ったら……"
+  },
+  {
+    "id": 17874,
+    "motionName": "mov_cw_cute_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "クラゲって、\nじっと見てると……"
+  },
+  {
+    "id": 17875,
+    "motionName": "mov_cw_silent_fun002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "…………"
+  },
+  {
+    "id": 17876,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "このベッド、\n貝殻モチーフなんだ"
+  },
+  {
+    "id": 17877,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "前に、水族館で珊瑚を\n見たことがあるんだ"
+  },
+  {
+    "id": 17878,
+    "motionName": "mov_cw_cool_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "あそこの魚の群れ、\nランニングに……"
+  },
+  {
+    "id": 17879,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "こういう貝殻のベッド、\n小さい頃に絵本で……"
+  },
+  {
+    "id": 17880,
+    "motionName": "mov_cw_adult_nod004r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "あら、\n素敵な珊瑚の飾りね！"
+  },
+  {
+    "id": 17881,
+    "motionName": "mov_cw_adult_nod001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "お魚さん、\nすごく気持ちよさそうね"
+  },
+  {
+    "id": 17882,
+    "motionName": "mov_cw_adult_02joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "あら……。\n珊瑚にアクセサリーが……"
+  },
+  {
+    "id": 17883,
+    "motionName": "mov_cw_adult_nod003r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "このベッド、\n貝殻の形をしているのね"
+  },
+  {
+    "id": 17884,
+    "motionName": "mov_cw_cute_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "水の中みたいだし、\n魚もいっぱい……"
+  },
+  {
+    "id": 17885,
+    "motionName": "mov_cw_cute_tiltheadr004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "これ、\nあなたが作ったの？"
+  },
+  {
+    "id": 17886,
+    "motionName": "mov_cw_cute_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "貝殻のベッド……！\nなんだか……"
+  },
+  {
+    "id": 17887,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "すごいね、ここ。\n魚も泳いでるし……"
+  },
+  {
+    "id": 17888,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "このドレッサー、\nオシャレでいいね"
+  },
+  {
+    "id": 17889,
+    "motionName": "mov_cw_normal_nod002",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "かわいいベッドじゃん！\nこういうのが好きなの？"
+  },
+  {
+    "id": 17890,
+    "motionName": "mov_cm_normal_tilthead005l",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ……\n水の中っぽいのに……"
+  },
+  {
+    "id": 17891,
+    "motionName": "mov_cm_cool_tilthead001",
+    "expressionEyeName": "normal_sad",
+    "expressionMouthName": "smile01",
+    "text": "また随分とデカくて\n派手なベッドだな……"
+  },
+  {
+    "id": 17892,
+    "motionName": "mov_cm_smart_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ、\nこれフロアランプか"
+  },
+  {
+    "id": 17893,
+    "motionName": "mov_cm_normal_sky001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "…………"
+  },
+  {
+    "id": 17894,
+    "motionName": "mov_cm_normal_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "貝殻を模したベッドか、\n綺麗なデザインだ"
+  },
+  {
+    "id": 17895,
+    "motionName": "mov_cm_adult_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "母さんが持っていた\nアクセサリーの影響か……"
+  },
+  {
+    "id": 17896,
+    "motionName": "mov_cm_cool_tilthead002r",
+    "expressionEyeName": "close_normal",
+    "expressionMouthName": "normal01",
+    "text": "ふむ……海に沈んだかと\n思われた町の住民は……"
+  },
+  {
+    "id": 17897,
+    "motionName": "mov_cm_happy_nod001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "おおっ！　迫力のある、\nいいベッドだな！"
+  },
+  {
+    "id": 17898,
+    "motionName": "mov_cm_happy_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "珊瑚のオブジェか。\nかなり出来がいいな！"
+  },
+  {
+    "id": 17899,
+    "motionName": "mov_cw_happy_01joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "わー！\nお魚さんが泳いでるね！"
+  },
+  {
+    "id": 17900,
+    "motionName": "mov_cw_happy_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "かわいい\n貝殻のベッドだね♪"
+  },
+  {
+    "id": 17901,
+    "motionName": "mov_cw_happy_notice001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile02",
+    "text": "わあ、クラゲさんが\nほわわ～って光ってる！"
+  },
+  {
+    "id": 17902,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "ここって、\n水の中……なんだよね？"
+  },
+  {
+    "id": 17903,
+    "motionName": "mov_cw_silent_01joy010",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ショーで見た\n人魚姫の部屋に……"
+  },
+  {
+    "id": 17904,
+    "motionName": "mov_cw_silent_notice001",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile01",
+    "text": "わ……\n人魚姫のベッドみたい"
+  },
+  {
+    "id": 17905,
+    "motionName": "mov_cm_adult_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "セカイというのは\n本当に素晴らしいね！"
+  },
+  {
+    "id": 17906,
+    "motionName": "mov_cm_smart_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "このベッドは\n貝殻を模しているのかな"
+  },
+  {
+    "id": 17907,
+    "motionName": "mov_cm_cool_tilthead002l",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "……おや。\nこの珊瑚、よく見ると……"
+  },
+  {
+    "id": 17908,
+    "motionName": "mov_cw_silent_01joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "水底って、暗くて冷たい\nイメージがあったけど……"
+  },
+  {
+    "id": 17909,
+    "motionName": "mov_cw_silent_01joy006",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "なんていうか……\n豪華なデザインの……"
+  },
+  {
+    "id": 17910,
+    "motionName": "mov_cw_silent_nod003",
+    "expressionEyeName": "normal_sad",
+    "expressionMouthName": "smile01",
+    "text": "クラゲって、\n眺めてる分には……"
+  },
+  {
+    "id": 17911,
+    "motionName": "mov_cw_silent_nod006",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "……魚が、\nたくさん泳いでるね……"
+  },
+  {
+    "id": 17912,
+    "motionName": "mov_cw_silent_nod004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "瑞希や絵名は、\nこういうデザイン……"
+  },
+  {
+    "id": 17913,
+    "motionName": "mov_cw_silent_nod006",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "珊瑚は植物じゃなくて、\n動物に分類されるんだって"
+  },
+  {
+    "id": 17914,
+    "motionName": "mov_cw_cute_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "水底の光とか影って、\n描くの難しいんだよね"
+  },
+  {
+    "id": 17915,
+    "motionName": "mov_cw_cool_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "こういう\n貝殻のデザインって……"
+  },
+  {
+    "id": 17916,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ、\nクラゲ形のランプか……"
+  },
+  {
+    "id": 17917,
+    "motionName": "mov_cw_happy_notice001",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "smile02",
+    "text": "おおー！　魚がいっぱい！"
+  },
+  {
+    "id": 17918,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "このドレッサー、\n貝殻がモチーフなんだね"
+  },
+  {
+    "id": 17919,
+    "motionName": "mov_cw_happy_01joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "わ、カワイイ！\n貝殻のベッドだ！"
+  },
+  {
+    "id": 17920,
+    "motionName": "mov_cw_cool_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "私達がいるセカイに、\nこういう天気が……"
+  },
+  {
+    "id": 17921,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "かわいいベッドだね。\nこのクッションは……"
+  },
+  {
+    "id": 17922,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ゆらゆら水面が揺れて……\n漂うクラゲの姿も優雅ね"
+  },
+  {
+    "id": 17923,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "あら、素敵な\nデザインのベッドね"
+  },
+  {
+    "id": 17924,
+    "motionName": "mov_cw_cute_01joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "水面の光って、\n下から見てもこんなに……"
+  },
+  {
+    "id": 17925,
+    "motionName": "mov_cw_cute_tiltheadr004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "これって貝殻のベッド？"
+  },
+  {
+    "id": 17926,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "お魚さんが\nいっぱいだね♪"
+  },
+  {
+    "id": 17927,
+    "motionName": "mov_cw_cute_01joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile02",
+    "text": "わあ、\nオシャレなベッドだね！"
+  },
+  {
+    "id": 17928,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "……あ、いいところに。\n上で泳いでる……"
+  },
+  {
+    "id": 17929,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "面白いデザインの\nベッドだね"
+  },
+  {
+    "id": 17930,
+    "motionName": "mov_cm_normal_lookaway001",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile02",
+    "text": "すげー！\nここって水の中？"
+  },
+  {
+    "id": 17931,
+    "motionName": "mov_cm_cool_tilthead002l",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "貝殻のところに\n刺さってるのって……"
+  },
+  {
+    "id": 17932,
+    "motionName": "mov_cw_silent_01joy010",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "上から光が差し込んで、\n景色がキラキラして……"
+  },
+  {
+    "id": 17933,
+    "motionName": "mov_cw_adult_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "このベッドを見ると、\nマドレーヌを思い出すわ"
+  },
+  {
+    "id": 17934,
+    "motionName": "mov_cw_cute_nod001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "水の中から見るお空って、\nすっごく……"
+  },
+  {
+    "id": 17935,
+    "motionName": "mov_cw_cute_01joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile02",
+    "text": "わあっ！\nおっきい貝殻のベッドだ！"
+  },
+  {
+    "id": 17936,
+    "motionName": "mov_cm_cool_nod001r",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "とても綺麗な景色だね。\nいろんな魚も……"
+  },
+  {
+    "id": 17937,
+    "motionName": "mov_cm_normal_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "この貝殻のヘッドボード、\nティアラや王冠が……"
+  },
+  {
+    "id": 17938,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "水面、すごく綺麗だね"
+  },
+  {
+    "id": 17939,
+    "motionName": "mov_cw_silent_tiltheadr005",
+    "expressionEyeName": "normal_sad",
+    "expressionMouthName": "normal01",
+    "text": "これって、貝殻？\n……挟まれたら痛そうだね"
+  },
+  {
+    "id": 17940,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へぇ、\nお土産屋さんがあるんだ"
+  },
+  {
+    "id": 17941,
+    "motionName": "mov_cw_cute_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "なんかすっごく\n『和』って感じ！"
+  },
+  {
+    "id": 17942,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ここって、\n甘味処だよね"
+  },
+  {
+    "id": 17943,
+    "motionName": "mov_cw_normal_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "お姉ちゃんが修学旅行で\n京都に行った時……"
+  },
+  {
+    "id": 17944,
+    "motionName": "mov_cw_cute_tiltheadr004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "ここは、\n和菓子のお店？"
+  },
+  {
+    "id": 17945,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "和菓子って、\n洋菓子よりも……"
+  },
+  {
+    "id": 17946,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "地方のロケに行った時は\n友達にお土産を……"
+  },
+  {
+    "id": 17947,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "あら、とっても素敵な\n扇子があるわね"
+  },
+  {
+    "id": 17948,
+    "motionName": "mov_cw_silent_01joy004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "お土産屋さんがあるんだ。\n和傘に扇子……"
+  },
+  {
+    "id": 17949,
+    "motionName": "mov_cw_silent_fun002",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "いい感じの甘味処だね。\nお団子とか……"
+  },
+  {
+    "id": 17950,
+    "motionName": "mov_cm_cool_tilthead002r",
+    "expressionEyeName": "close_normal",
+    "expressionMouthName": "normal01",
+    "text": "あー……こういう店って\nなんて言うんだっけか……"
+  },
+  {
+    "id": 17951,
+    "motionName": "mov_cm_smart_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "この店にも木刀は\n置いてあるのだろうか？"
+  },
+  {
+    "id": 17952,
+    "motionName": "mov_cm_happy_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "この土産屋を見ていると、\n修学旅行で行った……"
+  },
+  {
+    "id": 17953,
+    "motionName": "mov_cw_happy_nod001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "甘味処はお姉ちゃんと\nたまに行くよ！"
+  },
+  {
+    "id": 17954,
+    "motionName": "mov_cw_silent_01joy010",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "こういう甘味処って、\n雰囲気あっていいよね"
+  },
+  {
+    "id": 17955,
+    "motionName": "mov_cm_smart_tilthead002l",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "修学旅行で\n京都に行った時……"
+  },
+  {
+    "id": 17956,
+    "motionName": "mov_cw_silent_nod006",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "この傘、いいな……。\n大きいから……"
+  },
+  {
+    "id": 17957,
+    "motionName": "mov_cw_silent_tilthead003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "……こういうお土産屋、\n修学旅行で……"
+  },
+  {
+    "id": 17958,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "こういうお店って、\nつい入りたくなっちゃうな"
+  },
+  {
+    "id": 17959,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "こういう\nお店のスイーツって……"
+  },
+  {
+    "id": 17960,
+    "motionName": "mov_cw_cool_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ、甘味処か……"
+  },
+  {
+    "id": 17961,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "ここに並んでいる扇子、\nとても綺麗ね"
+  },
+  {
+    "id": 17962,
+    "motionName": "mov_cw_cute_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "お土産といえば……\nみのりちゃん達が……"
+  },
+  {
+    "id": 17963,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ここって、和菓子が\n食べられるんだよね"
+  },
+  {
+    "id": 17964,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ここって、お団子とか\n食べられるお店だよね？"
+  },
+  {
+    "id": 17965,
+    "motionName": "mov_cm_cool_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ここって……和風カフェ？"
+  },
+  {
+    "id": 17966,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "和を感じる\nお土産屋さんね"
+  },
+  {
+    "id": 17967,
+    "motionName": "mov_cw_happy_01joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "あ！　こういうお店、\nミク知ってるよ！"
+  },
+  {
+    "id": 17968,
+    "motionName": "mov_cm_cool_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "……傘回しが\nできるかって？"
+  },
+  {
+    "id": 17969,
+    "motionName": "mov_cw_silent_tilthead003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "この傘、みんなが\n使ってるやつと違う……？"
+  },
+  {
+    "id": 17970,
+    "motionName": "mov_cw_silent_01joy002",
+    "expressionEyeName": "close_normal",
+    "expressionMouthName": "normal01",
+    "text": "…………"
+  },
+  {
+    "id": 17971,
+    "motionName": "mov_cw_cool_notice001",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "surprise",
+    "text": "え、私しか\n座っちゃいけないイス？"
+  },
+  {
+    "id": 17972,
+    "motionName": "mov_cw_silent_nod004",
+    "expressionEyeName": "normal_sad",
+    "expressionMouthName": "smile01",
+    "text": "進むべき方向を\n決めるのって……"
+  },
+  {
+    "id": 17973,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "フランスパンに、\nシナモンロール……"
+  },
+  {
+    "id": 17974,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "そういえば……\nチョコミントの色って……"
+  },
+  {
+    "id": 17975,
+    "motionName": "mov_cw_cute_fun001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "かわいいアクセって、\nそれだけで……"
+  },
+  {
+    "id": 17976,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "アイスって、\n味だけじゃなくて……"
+  },
+  {
+    "id": 17977,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "野菜も果物も、\n瑞々しい感じがするね"
+  },
+  {
+    "id": 17978,
+    "motionName": "mov_cw_adult_02joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "わあ、\n可愛いアクセサリー……！"
+  },
+  {
+    "id": 17979,
+    "motionName": "mov_cw_normal_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ここの野菜、\nどれも新鮮だね"
+  },
+  {
+    "id": 17980,
+    "motionName": "mov_cw_silent_01joy010",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "焼きたてのパンって、\nいい香りがするよね"
+  },
+  {
+    "id": 17981,
+    "motionName": "mov_cw_cute_01joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "わあ、すっごく\n大きなカボチャだ！"
+  },
+  {
+    "id": 17982,
+    "motionName": "mov_cw_cute_tiltheadr004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "こんなふうに\nアクセサリーが……"
+  },
+  {
+    "id": 17983,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "そういえば、この間の\nロケで知ったんだけど……"
+  },
+  {
+    "id": 17984,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "こういう\nアイスワゴンって……"
+  },
+  {
+    "id": 17985,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "あら、美味しそうな\nパンが並んでるのね！"
+  },
+  {
+    "id": 17986,
+    "motionName": "mov_cw_normal_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "アイスと一緒に\n写真を撮るなら……"
+  },
+  {
+    "id": 17987,
+    "motionName": "mov_cw_adult_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "このネックレス、大きな\n宝石がとっても素敵ね"
+  },
+  {
+    "id": 17988,
+    "motionName": "mov_cw_adult_02joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile02",
+    "text": "いろんなパンが\n並んでるわね"
+  },
+  {
+    "id": 17989,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "この食パン、\nきれいなきつね色だね"
+  },
+  {
+    "id": 17990,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "アイスをすくうのに\n使う道具、たしか……"
+  },
+  {
+    "id": 17991,
+    "motionName": "mov_cw_cute_tiltheadr004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "わ、いろいろ\nアクセサリー置いてるね"
+  },
+  {
+    "id": 17992,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "好きなアイスの味？"
+  },
+  {
+    "id": 17993,
+    "motionName": "mov_cm_cool_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "野菜ね……。食うなら\n肉のほうがいいな"
+  },
+  {
+    "id": 17994,
+    "motionName": "mov_cm_smart_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ、アクセサリーの\n店もあんのか"
+  },
+  {
+    "id": 17995,
+    "motionName": "mov_cm_adult_nod001r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "とても立派な\nカボチャがあるな"
+  },
+  {
+    "id": 17996,
+    "motionName": "mov_cm_smart_01joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ここは、パンの店か"
+  },
+  {
+    "id": 17997,
+    "motionName": "mov_cm_happy_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "苦手な野菜でも、残さず\n食べるようにしているぞ"
+  },
+  {
+    "id": 17998,
+    "motionName": "mov_cm_cool_nod001r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "こんなに\nオシャレではないが……"
+  },
+  {
+    "id": 17999,
+    "motionName": "mov_cw_happy_01joy001",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile02",
+    "text": "アクセサリーが\nいっぱいだー☆"
+  },
+  {
+    "id": 18000,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "お気に入りの\nトッピングってある？"
+  },
+  {
+    "id": 18001,
+    "motionName": "mov_cw_silent_01joy002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "野菜か……すごい好きって\nわけじゃないけど……"
+  },
+  {
+    "id": 18002,
+    "motionName": "mov_cw_silent_nod005",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "昔、近所のファミレスの\nレジ横に……"
+  },
+  {
+    "id": 18003,
+    "motionName": "mov_cm_smart_tilthead002l",
+    "expressionEyeName": "sad",
+    "expressionMouthName": "smile01",
+    "text": "前にこういうパン屋で、\n野菜が……"
+  },
+  {
+    "id": 18004,
+    "motionName": "mov_cm_adult_nod001l",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "こういうアイスクリーム\nワゴンを見ると……"
+  },
+  {
+    "id": 18005,
+    "motionName": "mov_cw_silent_01joy002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "そういえば、最近\nロールキャベツを……"
+  },
+  {
+    "id": 18006,
+    "motionName": "mov_cw_silent_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "たくさんパンがあるね"
+  },
+  {
+    "id": 18007,
+    "motionName": "mov_cw_silent_nod006",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "こういうお店、\n瑞希と絵名は好きだよね"
+  },
+  {
+    "id": 18008,
+    "motionName": "mov_cw_silent_01joy010",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "パンは食べやすいよね"
+  },
+  {
+    "id": 18009,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ、いろんな\n種類の野菜があるじゃん"
+  },
+  {
+    "id": 18010,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile02",
+    "text": "へえ、かわいい\nアクセサリーで……"
+  },
+  {
+    "id": 18011,
+    "motionName": "mov_cw_normal_01joy001",
+    "expressionEyeName": "sparkling",
+    "expressionMouthName": "smile02",
+    "text": "うわー！　ここって、\nアクセサリーショップ？"
+  },
+  {
+    "id": 18012,
+    "motionName": "mov_cw_happy_01joy001",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "smile01",
+    "text": "お、アイスだ！\nアイス食べるときって……"
+  },
+  {
+    "id": 18013,
+    "motionName": "mov_cw_cute_tiltheadl004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "これってリンゴだよね？"
+  },
+  {
+    "id": 18014,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "可愛い\nデザインのワゴンだね"
+  },
+  {
+    "id": 18015,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "素敵なアクセサリーね。\nここにあるのは……"
+  },
+  {
+    "id": 18016,
+    "motionName": "mov_cw_silent_fun002",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "…………ふふっ。\nごめんなさい"
+  },
+  {
+    "id": 18017,
+    "motionName": "mov_cw_cute_01joy001",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile01",
+    "text": "わあ、\nいろんなパンがあるね"
+  },
+  {
+    "id": 18018,
+    "motionName": "mov_cw_cute_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "マイクって、\nコーンにのせた……"
+  },
+  {
+    "id": 18019,
+    "motionName": "mov_cw_cute_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "そういえば、\nイチゴは野菜なんだって！"
+  },
+  {
+    "id": 18020,
+    "motionName": "mov_cw_cute_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "わあ、可愛い\nアクセサリーが……"
+  },
+  {
+    "id": 18021,
+    "motionName": "mov_cw_cool_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ、どれもツヤがあって\nみずみずしいね"
+  },
+  {
+    "id": 18022,
+    "motionName": "mov_cw_normal_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "オシャレなワゴンだね"
+  },
+  {
+    "id": 18023,
+    "motionName": "mov_cm_cool_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ねえねえ、ニホンパンって\n見たことある？"
+  },
+  {
+    "id": 18024,
+    "motionName": "mov_cm_happy_tilthead001",
+    "expressionEyeName": "normal_sad",
+    "expressionMouthName": "smile01",
+    "text": "チョコにバニラ、\nストロベリー……"
+  },
+  {
+    "id": 18025,
+    "motionName": "mov_cw_adult_nod002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "こういう露店って、\n思わぬ出会いが……"
+  },
+  {
+    "id": 18026,
+    "motionName": "mov_cw_cool_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "アイスを綺麗に\n丸くすくうのって……"
+  },
+  {
+    "id": 18027,
+    "motionName": "mov_cw_happy_01joy001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile02",
+    "text": "わあ、お野菜が\nたっくさんあるね～☆"
+  },
+  {
+    "id": 18028,
+    "motionName": "mov_cw_happy_talk002",
+    "expressionEyeName": "smile",
+    "expressionMouthName": "smile02",
+    "text": "ふかふかなのは～♪\n焼きたてパン～♪"
+  },
+  {
+    "id": 18029,
+    "motionName": "mov_cm_normal_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "へえ、綺麗な\nアクセサリーが……"
+  },
+  {
+    "id": 18030,
+    "motionName": "mov_cm_happy_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "…………"
+  },
+  {
+    "id": 18031,
+    "motionName": "mov_cw_silent_tilthead002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "いろんなパンがあるね"
+  },
+  {
+    "id": 18032,
+    "motionName": "mov_cw_silent_fun002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "アイス……。\n時々、瑞希達が……"
+  },
+  {
+    "id": 18033,
+    "motionName": "mov_cw_cool_notice001",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "normal02",
+    "text": "ボ、ボク専用のイス？"
+  },
+  {
+    "id": 18034,
+    "motionName": "mov_cw_silent_nod006",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "……このイス、\n素敵だね。"
+  },
+  {
+    "id": 18035,
+    "motionName": "mov_cw_cool_tilthead002",
+    "expressionEyeName": "close_normal",
+    "expressionMouthName": "normal01",
+    "text": "ん～……これを食べ物で\n表現するなら……え？"
+  },
+  {
+    "id": 18036,
+    "motionName": "mov_cm_cool_tilthead002r",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "……なあ、お前、\n筋トレはしてるか？"
+  },
+  {
+    "id": 18037,
+    "motionName": "mov_cw_adult_tiltheadr003",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "あ、ねえ、今日も\n何か作ったりしてるの？"
+  },
+  {
+    "id": 18038,
+    "motionName": "mov_cw_cute_tiltheadr004",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "ねえ、\n漫画って読むほう？"
+  },
+  {
+    "id": 18039,
+    "motionName": "mov_cw_adult_tiltheadr002",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "あら、こんにちは。\n今、新しいメニューを……"
+  },
+  {
+    "id": 18040,
+    "motionName": "mov_cw_silent_01joy010",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "このあいだ、\n色んなセカイの子達が……"
+  },
+  {
+    "id": 18041,
+    "motionName": "mov_cw_happy_nod001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "smile01",
+    "text": "ねえねえ、これあたしの\nためのイスなんだよね！"
+  },
+  {
+    "id": 18042,
+    "motionName": "mov_cm_happy_tilthead001",
+    "expressionEyeName": "normal",
+    "expressionMouthName": "normal01",
+    "text": "ん？　元気がないように\n見えるって？"
   }
 ]

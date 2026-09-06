@@ -55,6 +55,11 @@
     "mysekaiCharacterTalkConditionId": 11
   },
   {
+    "id": 12,
+    "groupId": 12,
+    "mysekaiCharacterTalkConditionId": 12
+  },
+  {
     "id": 13,
     "groupId": 13,
     "mysekaiCharacterTalkConditionId": 13
@@ -68,6 +73,11 @@
     "id": 15,
     "groupId": 15,
     "mysekaiCharacterTalkConditionId": 15
+  },
+  {
+    "id": 16,
+    "groupId": 16,
+    "mysekaiCharacterTalkConditionId": 16
   },
   {
     "id": 17,
@@ -403,6 +413,91 @@
     "id": 1042,
     "groupId": 1042,
     "mysekaiCharacterTalkConditionId": 1042
+  },
+  {
+    "id": 1043,
+    "groupId": 1043,
+    "mysekaiCharacterTalkConditionId": 1043
+  },
+  {
+    "id": 1044,
+    "groupId": 1044,
+    "mysekaiCharacterTalkConditionId": 1044
+  },
+  {
+    "id": 1045,
+    "groupId": 1045,
+    "mysekaiCharacterTalkConditionId": 1045
+  },
+  {
+    "id": 1046,
+    "groupId": 1046,
+    "mysekaiCharacterTalkConditionId": 1046
+  },
+  {
+    "id": 1047,
+    "groupId": 1047,
+    "mysekaiCharacterTalkConditionId": 1047
+  },
+  {
+    "id": 1048,
+    "groupId": 1048,
+    "mysekaiCharacterTalkConditionId": 1048
+  },
+  {
+    "id": 1049,
+    "groupId": 1049,
+    "mysekaiCharacterTalkConditionId": 1049
+  },
+  {
+    "id": 1050,
+    "groupId": 1050,
+    "mysekaiCharacterTalkConditionId": 1050
+  },
+  {
+    "id": 1051,
+    "groupId": 1051,
+    "mysekaiCharacterTalkConditionId": 1051
+  },
+  {
+    "id": 1052,
+    "groupId": 1052,
+    "mysekaiCharacterTalkConditionId": 1052
+  },
+  {
+    "id": 1053,
+    "groupId": 1053,
+    "mysekaiCharacterTalkConditionId": 1053
+  },
+  {
+    "id": 1054,
+    "groupId": 1054,
+    "mysekaiCharacterTalkConditionId": 1054
+  },
+  {
+    "id": 1055,
+    "groupId": 1055,
+    "mysekaiCharacterTalkConditionId": 1055
+  },
+  {
+    "id": 1056,
+    "groupId": 1056,
+    "mysekaiCharacterTalkConditionId": 1056
+  },
+  {
+    "id": 1057,
+    "groupId": 1057,
+    "mysekaiCharacterTalkConditionId": 1057
+  },
+  {
+    "id": 1058,
+    "groupId": 1058,
+    "mysekaiCharacterTalkConditionId": 1058
+  },
+  {
+    "id": 1059,
+    "groupId": 1059,
+    "mysekaiCharacterTalkConditionId": 1059
   },
   {
     "id": 100001,
@@ -4045,6 +4140,306 @@
     "mysekaiCharacterTalkConditionId": 100913
   },
   {
+    "id": 100914,
+    "groupId": 100914,
+    "mysekaiCharacterTalkConditionId": 100914
+  },
+  {
+    "id": 100915,
+    "groupId": 100915,
+    "mysekaiCharacterTalkConditionId": 100915
+  },
+  {
+    "id": 100916,
+    "groupId": 100916,
+    "mysekaiCharacterTalkConditionId": 100916
+  },
+  {
+    "id": 100917,
+    "groupId": 100917,
+    "mysekaiCharacterTalkConditionId": 100917
+  },
+  {
+    "id": 100918,
+    "groupId": 100918,
+    "mysekaiCharacterTalkConditionId": 100918
+  },
+  {
+    "id": 100919,
+    "groupId": 100919,
+    "mysekaiCharacterTalkConditionId": 100919
+  },
+  {
+    "id": 100920,
+    "groupId": 100920,
+    "mysekaiCharacterTalkConditionId": 100920
+  },
+  {
+    "id": 100921,
+    "groupId": 100921,
+    "mysekaiCharacterTalkConditionId": 100921
+  },
+  {
+    "id": 100922,
+    "groupId": 100922,
+    "mysekaiCharacterTalkConditionId": 100922
+  },
+  {
+    "id": 100923,
+    "groupId": 100923,
+    "mysekaiCharacterTalkConditionId": 100923
+  },
+  {
+    "id": 100924,
+    "groupId": 100924,
+    "mysekaiCharacterTalkConditionId": 100924
+  },
+  {
+    "id": 100925,
+    "groupId": 100925,
+    "mysekaiCharacterTalkConditionId": 100925
+  },
+  {
+    "id": 100926,
+    "groupId": 100926,
+    "mysekaiCharacterTalkConditionId": 100926
+  },
+  {
+    "id": 100927,
+    "groupId": 100927,
+    "mysekaiCharacterTalkConditionId": 100927
+  },
+  {
+    "id": 100928,
+    "groupId": 100928,
+    "mysekaiCharacterTalkConditionId": 100928
+  },
+  {
+    "id": 100929,
+    "groupId": 100929,
+    "mysekaiCharacterTalkConditionId": 100929
+  },
+  {
+    "id": 100930,
+    "groupId": 100930,
+    "mysekaiCharacterTalkConditionId": 100930
+  },
+  {
+    "id": 100931,
+    "groupId": 100931,
+    "mysekaiCharacterTalkConditionId": 100931
+  },
+  {
+    "id": 100932,
+    "groupId": 100932,
+    "mysekaiCharacterTalkConditionId": 100932
+  },
+  {
+    "id": 100933,
+    "groupId": 100933,
+    "mysekaiCharacterTalkConditionId": 100933
+  },
+  {
+    "id": 100934,
+    "groupId": 100934,
+    "mysekaiCharacterTalkConditionId": 100934
+  },
+  {
+    "id": 100935,
+    "groupId": 100935,
+    "mysekaiCharacterTalkConditionId": 100935
+  },
+  {
+    "id": 100936,
+    "groupId": 100936,
+    "mysekaiCharacterTalkConditionId": 100936
+  },
+  {
+    "id": 100937,
+    "groupId": 100937,
+    "mysekaiCharacterTalkConditionId": 100937
+  },
+  {
+    "id": 100938,
+    "groupId": 100938,
+    "mysekaiCharacterTalkConditionId": 100938
+  },
+  {
+    "id": 100939,
+    "groupId": 100939,
+    "mysekaiCharacterTalkConditionId": 100939
+  },
+  {
+    "id": 100940,
+    "groupId": 100940,
+    "mysekaiCharacterTalkConditionId": 100940
+  },
+  {
+    "id": 100941,
+    "groupId": 100941,
+    "mysekaiCharacterTalkConditionId": 100941
+  },
+  {
+    "id": 100942,
+    "groupId": 100942,
+    "mysekaiCharacterTalkConditionId": 100942
+  },
+  {
+    "id": 100943,
+    "groupId": 100943,
+    "mysekaiCharacterTalkConditionId": 100943
+  },
+  {
+    "id": 100944,
+    "groupId": 100944,
+    "mysekaiCharacterTalkConditionId": 100944
+  },
+  {
+    "id": 100945,
+    "groupId": 100945,
+    "mysekaiCharacterTalkConditionId": 100945
+  },
+  {
+    "id": 100946,
+    "groupId": 100946,
+    "mysekaiCharacterTalkConditionId": 100946
+  },
+  {
+    "id": 100947,
+    "groupId": 100947,
+    "mysekaiCharacterTalkConditionId": 100947
+  },
+  {
+    "id": 100948,
+    "groupId": 100948,
+    "mysekaiCharacterTalkConditionId": 100948
+  },
+  {
+    "id": 100949,
+    "groupId": 100949,
+    "mysekaiCharacterTalkConditionId": 100949
+  },
+  {
+    "id": 100950,
+    "groupId": 100950,
+    "mysekaiCharacterTalkConditionId": 100950
+  },
+  {
+    "id": 100951,
+    "groupId": 100951,
+    "mysekaiCharacterTalkConditionId": 100951
+  },
+  {
+    "id": 100952,
+    "groupId": 100952,
+    "mysekaiCharacterTalkConditionId": 100952
+  },
+  {
+    "id": 100953,
+    "groupId": 100953,
+    "mysekaiCharacterTalkConditionId": 100953
+  },
+  {
+    "id": 100954,
+    "groupId": 100954,
+    "mysekaiCharacterTalkConditionId": 100954
+  },
+  {
+    "id": 100955,
+    "groupId": 100955,
+    "mysekaiCharacterTalkConditionId": 100955
+  },
+  {
+    "id": 100956,
+    "groupId": 100956,
+    "mysekaiCharacterTalkConditionId": 100956
+  },
+  {
+    "id": 100957,
+    "groupId": 100957,
+    "mysekaiCharacterTalkConditionId": 100957
+  },
+  {
+    "id": 100958,
+    "groupId": 100958,
+    "mysekaiCharacterTalkConditionId": 100958
+  },
+  {
+    "id": 100959,
+    "groupId": 100959,
+    "mysekaiCharacterTalkConditionId": 100959
+  },
+  {
+    "id": 100960,
+    "groupId": 100960,
+    "mysekaiCharacterTalkConditionId": 100960
+  },
+  {
+    "id": 100961,
+    "groupId": 100961,
+    "mysekaiCharacterTalkConditionId": 100961
+  },
+  {
+    "id": 100962,
+    "groupId": 100962,
+    "mysekaiCharacterTalkConditionId": 100962
+  },
+  {
+    "id": 100963,
+    "groupId": 100963,
+    "mysekaiCharacterTalkConditionId": 100963
+  },
+  {
+    "id": 100964,
+    "groupId": 100964,
+    "mysekaiCharacterTalkConditionId": 100964
+  },
+  {
+    "id": 100965,
+    "groupId": 100965,
+    "mysekaiCharacterTalkConditionId": 100965
+  },
+  {
+    "id": 100966,
+    "groupId": 100966,
+    "mysekaiCharacterTalkConditionId": 100966
+  },
+  {
+    "id": 100967,
+    "groupId": 100967,
+    "mysekaiCharacterTalkConditionId": 100967
+  },
+  {
+    "id": 100968,
+    "groupId": 100968,
+    "mysekaiCharacterTalkConditionId": 100968
+  },
+  {
+    "id": 100969,
+    "groupId": 100969,
+    "mysekaiCharacterTalkConditionId": 100969
+  },
+  {
+    "id": 100970,
+    "groupId": 100970,
+    "mysekaiCharacterTalkConditionId": 100970
+  },
+  {
+    "id": 100971,
+    "groupId": 100971,
+    "mysekaiCharacterTalkConditionId": 100971
+  },
+  {
+    "id": 100972,
+    "groupId": 100972,
+    "mysekaiCharacterTalkConditionId": 100972
+  },
+  {
+    "id": 100973,
+    "groupId": 100973,
+    "mysekaiCharacterTalkConditionId": 100973
+  },
+  {
     "id": 100979,
     "groupId": 100979,
     "mysekaiCharacterTalkConditionId": 100979
@@ -4518,6 +4913,296 @@
     "id": 101155,
     "groupId": 101155,
     "mysekaiCharacterTalkConditionId": 101155
+  },
+  {
+    "id": 101304,
+    "groupId": 101304,
+    "mysekaiCharacterTalkConditionId": 101304
+  },
+  {
+    "id": 101305,
+    "groupId": 101305,
+    "mysekaiCharacterTalkConditionId": 101305
+  },
+  {
+    "id": 101306,
+    "groupId": 101306,
+    "mysekaiCharacterTalkConditionId": 101306
+  },
+  {
+    "id": 101307,
+    "groupId": 101307,
+    "mysekaiCharacterTalkConditionId": 101307
+  },
+  {
+    "id": 101308,
+    "groupId": 101308,
+    "mysekaiCharacterTalkConditionId": 101308
+  },
+  {
+    "id": 101309,
+    "groupId": 101309,
+    "mysekaiCharacterTalkConditionId": 101309
+  },
+  {
+    "id": 101310,
+    "groupId": 101310,
+    "mysekaiCharacterTalkConditionId": 101310
+  },
+  {
+    "id": 101311,
+    "groupId": 101311,
+    "mysekaiCharacterTalkConditionId": 101311
+  },
+  {
+    "id": 101312,
+    "groupId": 101312,
+    "mysekaiCharacterTalkConditionId": 101312
+  },
+  {
+    "id": 101313,
+    "groupId": 101313,
+    "mysekaiCharacterTalkConditionId": 101313
+  },
+  {
+    "id": 101314,
+    "groupId": 101314,
+    "mysekaiCharacterTalkConditionId": 101314
+  },
+  {
+    "id": 101336,
+    "groupId": 101336,
+    "mysekaiCharacterTalkConditionId": 101336
+  },
+  {
+    "id": 101337,
+    "groupId": 101337,
+    "mysekaiCharacterTalkConditionId": 101337
+  },
+  {
+    "id": 101338,
+    "groupId": 101338,
+    "mysekaiCharacterTalkConditionId": 101338
+  },
+  {
+    "id": 101339,
+    "groupId": 101339,
+    "mysekaiCharacterTalkConditionId": 101339
+  },
+  {
+    "id": 101340,
+    "groupId": 101340,
+    "mysekaiCharacterTalkConditionId": 101340
+  },
+  {
+    "id": 101341,
+    "groupId": 101341,
+    "mysekaiCharacterTalkConditionId": 101341
+  },
+  {
+    "id": 101342,
+    "groupId": 101342,
+    "mysekaiCharacterTalkConditionId": 101342
+  },
+  {
+    "id": 101343,
+    "groupId": 101343,
+    "mysekaiCharacterTalkConditionId": 101343
+  },
+  {
+    "id": 101344,
+    "groupId": 101344,
+    "mysekaiCharacterTalkConditionId": 101344
+  },
+  {
+    "id": 101345,
+    "groupId": 101345,
+    "mysekaiCharacterTalkConditionId": 101345
+  },
+  {
+    "id": 101346,
+    "groupId": 101346,
+    "mysekaiCharacterTalkConditionId": 101346
+  },
+  {
+    "id": 101347,
+    "groupId": 101347,
+    "mysekaiCharacterTalkConditionId": 101347
+  },
+  {
+    "id": 101440,
+    "groupId": 101440,
+    "mysekaiCharacterTalkConditionId": 101440
+  },
+  {
+    "id": 101441,
+    "groupId": 101441,
+    "mysekaiCharacterTalkConditionId": 101441
+  },
+  {
+    "id": 101442,
+    "groupId": 101442,
+    "mysekaiCharacterTalkConditionId": 101442
+  },
+  {
+    "id": 101443,
+    "groupId": 101443,
+    "mysekaiCharacterTalkConditionId": 101443
+  },
+  {
+    "id": 101444,
+    "groupId": 101444,
+    "mysekaiCharacterTalkConditionId": 101444
+  },
+  {
+    "id": 101445,
+    "groupId": 101445,
+    "mysekaiCharacterTalkConditionId": 101445
+  },
+  {
+    "id": 101446,
+    "groupId": 101446,
+    "mysekaiCharacterTalkConditionId": 101446
+  },
+  {
+    "id": 101447,
+    "groupId": 101447,
+    "mysekaiCharacterTalkConditionId": 101447
+  },
+  {
+    "id": 101448,
+    "groupId": 101448,
+    "mysekaiCharacterTalkConditionId": 101448
+  },
+  {
+    "id": 101449,
+    "groupId": 101449,
+    "mysekaiCharacterTalkConditionId": 101449
+  },
+  {
+    "id": 101450,
+    "groupId": 101450,
+    "mysekaiCharacterTalkConditionId": 101450
+  },
+  {
+    "id": 101470,
+    "groupId": 101470,
+    "mysekaiCharacterTalkConditionId": 101470
+  },
+  {
+    "id": 101471,
+    "groupId": 101471,
+    "mysekaiCharacterTalkConditionId": 101471
+  },
+  {
+    "id": 101472,
+    "groupId": 101472,
+    "mysekaiCharacterTalkConditionId": 101472
+  },
+  {
+    "id": 101473,
+    "groupId": 101473,
+    "mysekaiCharacterTalkConditionId": 101473
+  },
+  {
+    "id": 101474,
+    "groupId": 101474,
+    "mysekaiCharacterTalkConditionId": 101474
+  },
+  {
+    "id": 101475,
+    "groupId": 101475,
+    "mysekaiCharacterTalkConditionId": 101475
+  },
+  {
+    "id": 101476,
+    "groupId": 101476,
+    "mysekaiCharacterTalkConditionId": 101476
+  },
+  {
+    "id": 101477,
+    "groupId": 101477,
+    "mysekaiCharacterTalkConditionId": 101477
+  },
+  {
+    "id": 101478,
+    "groupId": 101478,
+    "mysekaiCharacterTalkConditionId": 101478
+  },
+  {
+    "id": 101479,
+    "groupId": 101479,
+    "mysekaiCharacterTalkConditionId": 101479
+  },
+  {
+    "id": 101480,
+    "groupId": 101480,
+    "mysekaiCharacterTalkConditionId": 101480
+  },
+  {
+    "id": 101632,
+    "groupId": 101632,
+    "mysekaiCharacterTalkConditionId": 101632
+  },
+  {
+    "id": 101633,
+    "groupId": 101633,
+    "mysekaiCharacterTalkConditionId": 101633
+  },
+  {
+    "id": 101634,
+    "groupId": 101634,
+    "mysekaiCharacterTalkConditionId": 101634
+  },
+  {
+    "id": 101635,
+    "groupId": 101635,
+    "mysekaiCharacterTalkConditionId": 101635
+  },
+  {
+    "id": 101636,
+    "groupId": 101636,
+    "mysekaiCharacterTalkConditionId": 101636
+  },
+  {
+    "id": 101637,
+    "groupId": 101637,
+    "mysekaiCharacterTalkConditionId": 101637
+  },
+  {
+    "id": 101638,
+    "groupId": 101638,
+    "mysekaiCharacterTalkConditionId": 101638
+  },
+  {
+    "id": 101639,
+    "groupId": 101639,
+    "mysekaiCharacterTalkConditionId": 101639
+  },
+  {
+    "id": 101640,
+    "groupId": 101640,
+    "mysekaiCharacterTalkConditionId": 101640
+  },
+  {
+    "id": 101641,
+    "groupId": 101641,
+    "mysekaiCharacterTalkConditionId": 101641
+  },
+  {
+    "id": 101642,
+    "groupId": 101642,
+    "mysekaiCharacterTalkConditionId": 101642
+  },
+  {
+    "id": 101643,
+    "groupId": 101643,
+    "mysekaiCharacterTalkConditionId": 101643
+  },
+  {
+    "id": 101644,
+    "groupId": 101644,
+    "mysekaiCharacterTalkConditionId": 101644
   },
   {
     "id": 900002,

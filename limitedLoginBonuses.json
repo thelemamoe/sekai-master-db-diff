@@ -4612,5 +4612,272 @@
         "resourceBoxId": 227
       }
     ]
+  },
+  {
+    "id": 213,
+    "seq": 159,
+    "name": "[5.5周年記念]ログインキャンペーン",
+    "startAt": 1774839600000,
+    "endAt": 1775933999000,
+    "assetbundleName": "5-5th_anniversary",
+    "closeAt": 1775415600000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 372,
+        "limitedLoginBonusId": 213,
+        "day": 1,
+        "resourceBoxId": 228
+      },
+      {
+        "id": 373,
+        "limitedLoginBonusId": 213,
+        "day": 2,
+        "resourceBoxId": 229
+      },
+      {
+        "id": 374,
+        "limitedLoginBonusId": 213,
+        "day": 3,
+        "resourceBoxId": 229
+      },
+      {
+        "id": 375,
+        "limitedLoginBonusId": 213,
+        "day": 4,
+        "resourceBoxId": 229
+      },
+      {
+        "id": 376,
+        "limitedLoginBonusId": 213,
+        "day": 5,
+        "resourceBoxId": 229
+      },
+      {
+        "id": 377,
+        "limitedLoginBonusId": 213,
+        "day": 6,
+        "resourceBoxId": 229
+      },
+      {
+        "id": 378,
+        "limitedLoginBonusId": 213,
+        "day": 7,
+        "resourceBoxId": 229
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "seq": 160,
+    "name": "[復刻][プロセカ×あんさんぶるスターズ！！]コラボ記念ログインキャンペーン",
+    "startAt": 1776049200000,
+    "endAt": 1777301999000,
+    "assetbundleName": "ensemble_collab_2026",
+    "closeAt": 1777301999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 379,
+        "limitedLoginBonusId": 214,
+        "day": 1,
+        "resourceBoxId": 156
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "seq": 161,
+    "name": "GWログインキャンペーン",
+    "startAt": 1777431600000,
+    "endAt": 1778698799000,
+    "assetbundleName": "gw_2026",
+    "closeAt": 1778094000000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 380,
+        "limitedLoginBonusId": 215,
+        "day": 1,
+        "resourceBoxId": 230
+      },
+      {
+        "id": 381,
+        "limitedLoginBonusId": 215,
+        "day": 2,
+        "resourceBoxId": 231
+      },
+      {
+        "id": 382,
+        "limitedLoginBonusId": 215,
+        "day": 3,
+        "resourceBoxId": 232
+      },
+      {
+        "id": 383,
+        "limitedLoginBonusId": 215,
+        "day": 4,
+        "resourceBoxId": 233
+      },
+      {
+        "id": 384,
+        "limitedLoginBonusId": 215,
+        "day": 5,
+        "resourceBoxId": 234
+      },
+      {
+        "id": 385,
+        "limitedLoginBonusId": 215,
+        "day": 6,
+        "resourceBoxId": 235
+      },
+      {
+        "id": 386,
+        "limitedLoginBonusId": 215,
+        "day": 7,
+        "resourceBoxId": 236
+      },
+      {
+        "id": 387,
+        "limitedLoginBonusId": 215,
+        "day": 8,
+        "resourceBoxId": 237
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "seq": 162,
+    "name": "[コネクトライブ Parallel Paaaarty!!!!]カウントダウンログインキャンペーン",
+    "startAt": 1778166000000,
+    "endAt": 1778252399000,
+    "assetbundleName": "countdown_connectlive_007_joint_sp_01",
+    "closeAt": 1778252399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 388,
+        "limitedLoginBonusId": 216,
+        "day": 1,
+        "resourceBoxId": 238
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "seq": 163,
+    "name": "[コネクトライブ Parallel Paaaarty!!!!]カウントダウンログインキャンペーン",
+    "startAt": 1778252400000,
+    "endAt": 1778338799000,
+    "assetbundleName": "countdown_connectlive_007_joint_sp_02",
+    "closeAt": 1778338799000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 389,
+        "limitedLoginBonusId": 217,
+        "day": 1,
+        "resourceBoxId": 238
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "seq": 164,
+    "name": "[コネクトライブ Parallel Paaaarty!!!!]カウントダウンログインキャンペーン",
+    "startAt": 1778338800000,
+    "endAt": 1778425199000,
+    "assetbundleName": "countdown_connectlive_007_joint_sp_03",
+    "closeAt": 1778425199000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 390,
+        "limitedLoginBonusId": 218,
+        "day": 1,
+        "resourceBoxId": 238
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "seq": 165,
+    "name": "[DEEMO×Cytusシリーズ]タイアップ記念ログインキャンペーン",
+    "startAt": 1782021600000,
+    "endAt": 1783090799000,
+    "assetbundleName": "dc_tieup_2026",
+    "closeAt": 1782586800000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 391,
+        "limitedLoginBonusId": 219,
+        "day": 1,
+        "resourceBoxId": 239
+      },
+      {
+        "id": 392,
+        "limitedLoginBonusId": 219,
+        "day": 2,
+        "resourceBoxId": 240
+      },
+      {
+        "id": 393,
+        "limitedLoginBonusId": 219,
+        "day": 3,
+        "resourceBoxId": 241
+      },
+      {
+        "id": 394,
+        "limitedLoginBonusId": 219,
+        "day": 4,
+        "resourceBoxId": 242
+      },
+      {
+        "id": 395,
+        "limitedLoginBonusId": 219,
+        "day": 5,
+        "resourceBoxId": 243
+      },
+      {
+        "id": 396,
+        "limitedLoginBonusId": 219,
+        "day": 6,
+        "resourceBoxId": 244
+      },
+      {
+        "id": 397,
+        "limitedLoginBonusId": 219,
+        "day": 7,
+        "resourceBoxId": 245
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "seq": 166,
+    "name": "[マジカルミライ2026]ログインキャンペーン",
+    "startAt": 1787886000000,
+    "endAt": 1788101999000,
+    "assetbundleName": "magicalmirai_2026",
+    "closeAt": 1788101999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 398,
+        "limitedLoginBonusId": 220,
+        "day": 1,
+        "resourceBoxId": 246
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "seq": 167,
+    "name": "[The Music Style]開催記念ログインキャンペーン",
+    "startAt": 1788404400000,
+    "endAt": 1789311599000,
+    "assetbundleName": "the_music_style_collab_2026",
+    "closeAt": 1789311599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 399,
+        "limitedLoginBonusId": 221,
+        "day": 1,
+        "resourceBoxId": 247
+      }
+    ]
   }
 ]

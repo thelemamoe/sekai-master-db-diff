@@ -817,5 +817,278 @@
     "gameCharacterId": 29,
     "name": "[リミテッドスタイル vol.3] ルカのぬいぐるみの設計図",
     "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 117
+  },
+  {
+    "id": 118,
+    "groupId": 16,
+    "gameCharacterId": 3,
+    "name": "[リミテッドスタイル vol.3] 穂波のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 118
+  },
+  {
+    "id": 119,
+    "groupId": 16,
+    "gameCharacterId": 8,
+    "name": "[リミテッドスタイル vol.3] 雫のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 119
+  },
+  {
+    "id": 120,
+    "groupId": 16,
+    "gameCharacterId": 10,
+    "name": "[リミテッドスタイル vol.3] 杏のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 120
+  },
+  {
+    "id": 121,
+    "groupId": 16,
+    "gameCharacterId": 13,
+    "name": "[リミテッドスタイル vol.3] 司のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 121
+  },
+  {
+    "id": 122,
+    "groupId": 16,
+    "gameCharacterId": 19,
+    "name": "[リミテッドスタイル vol.3] 絵名のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 122
+  },
+  {
+    "id": 123,
+    "groupId": 16,
+    "gameCharacterId": 31,
+    "name": "[リミテッドスタイル vol.3] KAITOのぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 123
+  },
+  {
+    "id": 124,
+    "groupId": 17,
+    "gameCharacterId": 4,
+    "name": "[リミテッドスタイル vol.3] 志歩のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 124
+  },
+  {
+    "id": 125,
+    "groupId": 17,
+    "gameCharacterId": 5,
+    "name": "[リミテッドスタイル vol.3] みのりのぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 125
+  },
+  {
+    "id": 126,
+    "groupId": 17,
+    "gameCharacterId": 12,
+    "name": "[リミテッドスタイル vol.3] 冬弥のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 126
+  },
+  {
+    "id": 127,
+    "groupId": 17,
+    "gameCharacterId": 14,
+    "name": "[リミテッドスタイル vol.3] えむのぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 127
+  },
+  {
+    "id": 128,
+    "groupId": 17,
+    "gameCharacterId": 17,
+    "name": "[リミテッドスタイル vol.3] 奏のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 128
+  },
+  {
+    "id": 129,
+    "groupId": 17,
+    "gameCharacterId": 27,
+    "name": "[リミテッドスタイル vol.3] リンのぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 129
+  },
+  {
+    "id": 130,
+    "groupId": 17,
+    "gameCharacterId": 28,
+    "name": "[リミテッドスタイル vol.3] レンのぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 130
+  },
+  {
+    "id": 131,
+    "groupId": 18,
+    "gameCharacterId": 1,
+    "name": "[リミテッドスタイル vol.4] 一歌のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 131
+  },
+  {
+    "id": 132,
+    "groupId": 18,
+    "gameCharacterId": 6,
+    "name": "[リミテッドスタイル vol.4] 遥のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 132
+  },
+  {
+    "id": 133,
+    "groupId": 18,
+    "gameCharacterId": 11,
+    "name": "[リミテッドスタイル vol.4] 彰人のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 133
+  },
+  {
+    "id": 134,
+    "groupId": 18,
+    "gameCharacterId": 15,
+    "name": "[リミテッドスタイル vol.4] 寧々のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 134
+  },
+  {
+    "id": 135,
+    "groupId": 18,
+    "gameCharacterId": 19,
+    "name": "[リミテッドスタイル vol.4] 絵名のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 135
+  },
+  {
+    "id": 136,
+    "groupId": 18,
+    "gameCharacterId": 29,
+    "name": "[リミテッドスタイル vol.4] ルカのぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 136
+  },
+  {
+    "id": 137,
+    "groupId": 19,
+    "gameCharacterId": 3,
+    "name": "[リミテッドスタイル vol.4] 穂波のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 137
+  },
+  {
+    "id": 138,
+    "groupId": 19,
+    "gameCharacterId": 7,
+    "name": "[リミテッドスタイル vol.4] 愛莉のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 138
+  },
+  {
+    "id": 139,
+    "groupId": 19,
+    "gameCharacterId": 9,
+    "name": "[リミテッドスタイル vol.4] こはねのぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 139
+  },
+  {
+    "id": 140,
+    "groupId": 19,
+    "gameCharacterId": 16,
+    "name": "[リミテッドスタイル vol.4] 類のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 140
+  },
+  {
+    "id": 141,
+    "groupId": 19,
+    "gameCharacterId": 18,
+    "name": "[リミテッドスタイル vol.4] まふゆのぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 141
+  },
+  {
+    "id": 142,
+    "groupId": 19,
+    "gameCharacterId": 28,
+    "name": "[リミテッドスタイル vol.4] レンのぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 142
+  },
+  {
+    "id": 143,
+    "groupId": 19,
+    "gameCharacterId": 30,
+    "name": "[リミテッドスタイル vol.4] MEIKOのぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 143
+  },
+  {
+    "id": 144,
+    "groupId": 20,
+    "gameCharacterId": 2,
+    "name": "[リミテッドスタイル vol.4] 咲希のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 144
+  },
+  {
+    "id": 145,
+    "groupId": 20,
+    "gameCharacterId": 5,
+    "name": "[リミテッドスタイル vol.4] みのりのぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 145
+  },
+  {
+    "id": 146,
+    "groupId": 20,
+    "gameCharacterId": 12,
+    "name": "[リミテッドスタイル vol.4] 冬弥のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 146
+  },
+  {
+    "id": 147,
+    "groupId": 20,
+    "gameCharacterId": 14,
+    "name": "[リミテッドスタイル vol.4] えむのぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 147
+  },
+  {
+    "id": 148,
+    "groupId": 20,
+    "gameCharacterId": 20,
+    "name": "[リミテッドスタイル vol.4] 瑞希のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 148
+  },
+  {
+    "id": 149,
+    "groupId": 20,
+    "gameCharacterId": 21,
+    "name": "[リミテッドスタイル vol.4] ミクのぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 149
+  },
+  {
+    "id": 150,
+    "groupId": 21,
+    "gameCharacterId": 4,
+    "name": "[リミテッドスタイル vol.4] 志歩のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 150
+  },
+  {
+    "id": 151,
+    "groupId": 21,
+    "gameCharacterId": 8,
+    "name": "[リミテッドスタイル vol.4] 雫のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 151
+  },
+  {
+    "id": 152,
+    "groupId": 21,
+    "gameCharacterId": 10,
+    "name": "[リミテッドスタイル vol.4] 杏のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 152
+  },
+  {
+    "id": 153,
+    "groupId": 21,
+    "gameCharacterId": 13,
+    "name": "[リミテッドスタイル vol.4] 司のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 153
+  },
+  {
+    "id": 154,
+    "groupId": 21,
+    "gameCharacterId": 17,
+    "name": "[リミテッドスタイル vol.4] 奏のぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 154
+  },
+  {
+    "id": 155,
+    "groupId": 21,
+    "gameCharacterId": 27,
+    "name": "[リミテッドスタイル vol.4] リンのぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 155
+  },
+  {
+    "id": 156,
+    "groupId": 21,
+    "gameCharacterId": 31,
+    "name": "[リミテッドスタイル vol.4] KAITOのぬいぐるみの設計図",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 156
   }
 ]

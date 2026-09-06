@@ -8150,5 +8150,733 @@
     "bonusRate": 0.0,
     "leaderBonusRate": 0.0,
     "isDisplayCardStory": true
+  },
+  {
+    "id": 1021,
+    "cardId": 1361,
+    "eventId": 200,
+    "bonusRate": 45.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": false
+  },
+  {
+    "id": 1022,
+    "cardId": 1362,
+    "eventId": 200,
+    "bonusRate": 45.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": false
+  },
+  {
+    "id": 1023,
+    "cardId": 1363,
+    "eventId": 200,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1024,
+    "cardId": 1364,
+    "eventId": 200,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1025,
+    "cardId": 1365,
+    "eventId": 200,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1026,
+    "cardId": 1366,
+    "eventId": 200,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1027,
+    "cardId": 1367,
+    "eventId": 200,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1028,
+    "cardId": 1368,
+    "eventId": 201,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1029,
+    "cardId": 1369,
+    "eventId": 201,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1030,
+    "cardId": 1370,
+    "eventId": 201,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1031,
+    "cardId": 1371,
+    "eventId": 201,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1032,
+    "cardId": 1372,
+    "eventId": 201,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1033,
+    "cardId": 1374,
+    "eventId": 202,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1034,
+    "cardId": 1375,
+    "eventId": 202,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1035,
+    "cardId": 1376,
+    "eventId": 202,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1036,
+    "cardId": 1377,
+    "eventId": 202,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1037,
+    "cardId": 1378,
+    "eventId": 202,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1038,
+    "cardId": 1380,
+    "eventId": 203,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1039,
+    "cardId": 1381,
+    "eventId": 203,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1040,
+    "cardId": 1382,
+    "eventId": 203,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1041,
+    "cardId": 1383,
+    "eventId": 203,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1042,
+    "cardId": 1384,
+    "eventId": 203,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1043,
+    "cardId": 1386,
+    "eventId": 204,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1044,
+    "cardId": 1387,
+    "eventId": 204,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1045,
+    "cardId": 1388,
+    "eventId": 204,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1046,
+    "cardId": 1389,
+    "eventId": 204,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1047,
+    "cardId": 1390,
+    "eventId": 204,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1048,
+    "cardId": 1392,
+    "eventId": 205,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1049,
+    "cardId": 1393,
+    "eventId": 205,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1050,
+    "cardId": 1394,
+    "eventId": 205,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1051,
+    "cardId": 1395,
+    "eventId": 205,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1052,
+    "cardId": 1396,
+    "eventId": 205,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1053,
+    "cardId": 1397,
+    "eventId": 205,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1054,
+    "cardId": 1399,
+    "eventId": 206,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1055,
+    "cardId": 1400,
+    "eventId": 206,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1056,
+    "cardId": 1401,
+    "eventId": 206,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1057,
+    "cardId": 1402,
+    "eventId": 206,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1058,
+    "cardId": 1403,
+    "eventId": 206,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1059,
+    "cardId": 1404,
+    "eventId": 207,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1060,
+    "cardId": 1405,
+    "eventId": 207,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1061,
+    "cardId": 1406,
+    "eventId": 207,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1062,
+    "cardId": 1407,
+    "eventId": 207,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1063,
+    "cardId": 1408,
+    "eventId": 207,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1064,
+    "cardId": 1410,
+    "eventId": 208,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1065,
+    "cardId": 1411,
+    "eventId": 208,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1066,
+    "cardId": 1412,
+    "eventId": 208,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1067,
+    "cardId": 1413,
+    "eventId": 208,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1068,
+    "cardId": 1414,
+    "eventId": 208,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1069,
+    "cardId": 1415,
+    "eventId": 209,
+    "bonusRate": 45.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": false
+  },
+  {
+    "id": 1070,
+    "cardId": 1416,
+    "eventId": 209,
+    "bonusRate": 70.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": false
+  },
+  {
+    "id": 1071,
+    "cardId": 1417,
+    "eventId": 209,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1072,
+    "cardId": 1418,
+    "eventId": 209,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1073,
+    "cardId": 1419,
+    "eventId": 209,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1074,
+    "cardId": 1420,
+    "eventId": 209,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1075,
+    "cardId": 1421,
+    "eventId": 209,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1076,
+    "cardId": 1422,
+    "eventId": 210,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1077,
+    "cardId": 1423,
+    "eventId": 210,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1078,
+    "cardId": 1424,
+    "eventId": 210,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1079,
+    "cardId": 1425,
+    "eventId": 210,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1080,
+    "cardId": 1426,
+    "eventId": 210,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1081,
+    "cardId": 1428,
+    "eventId": 211,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1082,
+    "cardId": 1429,
+    "eventId": 211,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1083,
+    "cardId": 1430,
+    "eventId": 211,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1084,
+    "cardId": 1431,
+    "eventId": 211,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1085,
+    "cardId": 1432,
+    "eventId": 211,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1086,
+    "cardId": 1434,
+    "eventId": 212,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1087,
+    "cardId": 1435,
+    "eventId": 212,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1088,
+    "cardId": 1436,
+    "eventId": 212,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1089,
+    "cardId": 1437,
+    "eventId": 212,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1090,
+    "cardId": 1438,
+    "eventId": 212,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1091,
+    "cardId": 1440,
+    "eventId": 213,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1092,
+    "cardId": 1441,
+    "eventId": 213,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1093,
+    "cardId": 1442,
+    "eventId": 213,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1094,
+    "cardId": 1443,
+    "eventId": 213,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1095,
+    "cardId": 1444,
+    "eventId": 213,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1096,
+    "cardId": 1445,
+    "eventId": 214,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1097,
+    "cardId": 1446,
+    "eventId": 214,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1098,
+    "cardId": 1447,
+    "eventId": 214,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1099,
+    "cardId": 1448,
+    "eventId": 214,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1100,
+    "cardId": 1449,
+    "eventId": 214,
+    "bonusRate": 30.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1101,
+    "cardId": 1452,
+    "eventId": 215,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1102,
+    "cardId": 1453,
+    "eventId": 215,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1103,
+    "cardId": 1454,
+    "eventId": 215,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1104,
+    "cardId": 1455,
+    "eventId": 215,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1105,
+    "cardId": 1456,
+    "eventId": 215,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1106,
+    "cardId": 1457,
+    "eventId": 215,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1107,
+    "cardId": 1465,
+    "eventId": 216,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1108,
+    "cardId": 1466,
+    "eventId": 216,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1109,
+    "cardId": 1467,
+    "eventId": 216,
+    "bonusRate": 20.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1110,
+    "cardId": 1468,
+    "eventId": 216,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
+  },
+  {
+    "id": 1111,
+    "cardId": 1469,
+    "eventId": 216,
+    "bonusRate": 0.0,
+    "leaderBonusRate": 0.0,
+    "isDisplayCardStory": true
   }
 ]

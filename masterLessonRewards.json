@@ -16950,5 +16950,2165 @@
     "seq": 1,
     "resourceBoxId": 2119,
     "cardRarity": 1
+  },
+  {
+    "id": 2120,
+    "cardId": 1361,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2120,
+    "cardRarity": 1
+  },
+  {
+    "id": 2121,
+    "cardId": 1361,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2121,
+    "cardRarity": 1
+  },
+  {
+    "id": 2122,
+    "cardId": 1361,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2122,
+    "cardRarity": 1
+  },
+  {
+    "id": 2123,
+    "cardId": 1361,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2123,
+    "cardRarity": 1
+  },
+  {
+    "id": 2124,
+    "cardId": 1362,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2124,
+    "cardRarity": 1
+  },
+  {
+    "id": 2125,
+    "cardId": 1362,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2125,
+    "cardRarity": 1
+  },
+  {
+    "id": 2126,
+    "cardId": 1362,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2126,
+    "cardRarity": 1
+  },
+  {
+    "id": 2127,
+    "cardId": 1362,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2127,
+    "cardRarity": 1
+  },
+  {
+    "id": 2128,
+    "cardId": 1363,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2128,
+    "cardRarity": 1
+  },
+  {
+    "id": 2129,
+    "cardId": 1363,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2129,
+    "cardRarity": 1
+  },
+  {
+    "id": 2130,
+    "cardId": 1363,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2130,
+    "cardRarity": 1
+  },
+  {
+    "id": 2131,
+    "cardId": 1363,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2131,
+    "cardRarity": 1
+  },
+  {
+    "id": 2132,
+    "cardId": 1364,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2132,
+    "cardRarity": 1
+  },
+  {
+    "id": 2133,
+    "cardId": 1364,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2133,
+    "cardRarity": 1
+  },
+  {
+    "id": 2134,
+    "cardId": 1364,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2134,
+    "cardRarity": 1
+  },
+  {
+    "id": 2135,
+    "cardId": 1364,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2135,
+    "cardRarity": 1
+  },
+  {
+    "id": 2136,
+    "cardId": 1365,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2136,
+    "cardRarity": 1
+  },
+  {
+    "id": 2137,
+    "cardId": 1365,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2137,
+    "cardRarity": 1
+  },
+  {
+    "id": 2138,
+    "cardId": 1365,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2138,
+    "cardRarity": 1
+  },
+  {
+    "id": 2139,
+    "cardId": 1365,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2139,
+    "cardRarity": 1
+  },
+  {
+    "id": 2140,
+    "cardId": 1368,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2140,
+    "cardRarity": 1
+  },
+  {
+    "id": 2141,
+    "cardId": 1368,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2141,
+    "cardRarity": 1
+  },
+  {
+    "id": 2142,
+    "cardId": 1368,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2142,
+    "cardRarity": 1
+  },
+  {
+    "id": 2143,
+    "cardId": 1369,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2143,
+    "cardRarity": 1
+  },
+  {
+    "id": 2144,
+    "cardId": 1369,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2144,
+    "cardRarity": 1
+  },
+  {
+    "id": 2145,
+    "cardId": 1369,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2145,
+    "cardRarity": 1
+  },
+  {
+    "id": 2146,
+    "cardId": 1370,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2146,
+    "cardRarity": 1
+  },
+  {
+    "id": 2147,
+    "cardId": 1370,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2147,
+    "cardRarity": 1
+  },
+  {
+    "id": 2148,
+    "cardId": 1370,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2148,
+    "cardRarity": 1
+  },
+  {
+    "id": 2149,
+    "cardId": 1374,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2149,
+    "cardRarity": 1
+  },
+  {
+    "id": 2150,
+    "cardId": 1374,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2150,
+    "cardRarity": 1
+  },
+  {
+    "id": 2151,
+    "cardId": 1374,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2151,
+    "cardRarity": 1
+  },
+  {
+    "id": 2152,
+    "cardId": 1374,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2152,
+    "cardRarity": 1
+  },
+  {
+    "id": 2153,
+    "cardId": 1375,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2153,
+    "cardRarity": 1
+  },
+  {
+    "id": 2154,
+    "cardId": 1375,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2154,
+    "cardRarity": 1
+  },
+  {
+    "id": 2155,
+    "cardId": 1375,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2155,
+    "cardRarity": 1
+  },
+  {
+    "id": 2156,
+    "cardId": 1375,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2156,
+    "cardRarity": 1
+  },
+  {
+    "id": 2157,
+    "cardId": 1376,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2157,
+    "cardRarity": 1
+  },
+  {
+    "id": 2158,
+    "cardId": 1376,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2158,
+    "cardRarity": 1
+  },
+  {
+    "id": 2159,
+    "cardId": 1376,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2159,
+    "cardRarity": 1
+  },
+  {
+    "id": 2160,
+    "cardId": 1376,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2160,
+    "cardRarity": 1
+  },
+  {
+    "id": 2161,
+    "cardId": 1377,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2161,
+    "cardRarity": 1
+  },
+  {
+    "id": 2162,
+    "cardId": 1377,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2162,
+    "cardRarity": 1
+  },
+  {
+    "id": 2163,
+    "cardId": 1377,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2163,
+    "cardRarity": 1
+  },
+  {
+    "id": 2164,
+    "cardId": 1377,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2164,
+    "cardRarity": 1
+  },
+  {
+    "id": 2165,
+    "cardId": 1378,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2165,
+    "cardRarity": 1
+  },
+  {
+    "id": 2166,
+    "cardId": 1378,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2166,
+    "cardRarity": 1
+  },
+  {
+    "id": 2167,
+    "cardId": 1378,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2167,
+    "cardRarity": 1
+  },
+  {
+    "id": 2168,
+    "cardId": 1378,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2168,
+    "cardRarity": 1
+  },
+  {
+    "id": 2169,
+    "cardId": 1380,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2169,
+    "cardRarity": 1
+  },
+  {
+    "id": 2170,
+    "cardId": 1380,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2170,
+    "cardRarity": 1
+  },
+  {
+    "id": 2171,
+    "cardId": 1380,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2171,
+    "cardRarity": 1
+  },
+  {
+    "id": 2172,
+    "cardId": 1380,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2172,
+    "cardRarity": 1
+  },
+  {
+    "id": 2173,
+    "cardId": 1381,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2173,
+    "cardRarity": 1
+  },
+  {
+    "id": 2174,
+    "cardId": 1381,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2174,
+    "cardRarity": 1
+  },
+  {
+    "id": 2175,
+    "cardId": 1381,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2175,
+    "cardRarity": 1
+  },
+  {
+    "id": 2176,
+    "cardId": 1381,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2176,
+    "cardRarity": 1
+  },
+  {
+    "id": 2177,
+    "cardId": 1382,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2177,
+    "cardRarity": 1
+  },
+  {
+    "id": 2178,
+    "cardId": 1382,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2178,
+    "cardRarity": 1
+  },
+  {
+    "id": 2179,
+    "cardId": 1382,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2179,
+    "cardRarity": 1
+  },
+  {
+    "id": 2180,
+    "cardId": 1382,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2180,
+    "cardRarity": 1
+  },
+  {
+    "id": 2181,
+    "cardId": 1386,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2181,
+    "cardRarity": 1
+  },
+  {
+    "id": 2182,
+    "cardId": 1386,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2182,
+    "cardRarity": 1
+  },
+  {
+    "id": 2183,
+    "cardId": 1386,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2183,
+    "cardRarity": 1
+  },
+  {
+    "id": 2184,
+    "cardId": 1387,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2184,
+    "cardRarity": 1
+  },
+  {
+    "id": 2185,
+    "cardId": 1387,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2185,
+    "cardRarity": 1
+  },
+  {
+    "id": 2186,
+    "cardId": 1387,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2186,
+    "cardRarity": 1
+  },
+  {
+    "id": 2187,
+    "cardId": 1388,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2187,
+    "cardRarity": 1
+  },
+  {
+    "id": 2188,
+    "cardId": 1388,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2188,
+    "cardRarity": 1
+  },
+  {
+    "id": 2189,
+    "cardId": 1388,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2189,
+    "cardRarity": 1
+  },
+  {
+    "id": 2190,
+    "cardId": 1392,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2190,
+    "cardRarity": 1
+  },
+  {
+    "id": 2191,
+    "cardId": 1392,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2191,
+    "cardRarity": 1
+  },
+  {
+    "id": 2192,
+    "cardId": 1392,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2192,
+    "cardRarity": 1
+  },
+  {
+    "id": 2193,
+    "cardId": 1392,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2193,
+    "cardRarity": 1
+  },
+  {
+    "id": 2194,
+    "cardId": 1393,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2194,
+    "cardRarity": 1
+  },
+  {
+    "id": 2195,
+    "cardId": 1393,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2195,
+    "cardRarity": 1
+  },
+  {
+    "id": 2196,
+    "cardId": 1393,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2196,
+    "cardRarity": 1
+  },
+  {
+    "id": 2197,
+    "cardId": 1393,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2197,
+    "cardRarity": 1
+  },
+  {
+    "id": 2198,
+    "cardId": 1394,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2198,
+    "cardRarity": 1
+  },
+  {
+    "id": 2199,
+    "cardId": 1394,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2199,
+    "cardRarity": 1
+  },
+  {
+    "id": 2200,
+    "cardId": 1394,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2200,
+    "cardRarity": 1
+  },
+  {
+    "id": 2201,
+    "cardId": 1394,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2201,
+    "cardRarity": 1
+  },
+  {
+    "id": 2202,
+    "cardId": 1395,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2202,
+    "cardRarity": 1
+  },
+  {
+    "id": 2203,
+    "cardId": 1395,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2203,
+    "cardRarity": 1
+  },
+  {
+    "id": 2204,
+    "cardId": 1395,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2204,
+    "cardRarity": 1
+  },
+  {
+    "id": 2205,
+    "cardId": 1395,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2205,
+    "cardRarity": 1
+  },
+  {
+    "id": 2206,
+    "cardId": 1396,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2206,
+    "cardRarity": 1
+  },
+  {
+    "id": 2207,
+    "cardId": 1396,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2207,
+    "cardRarity": 1
+  },
+  {
+    "id": 2208,
+    "cardId": 1396,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2208,
+    "cardRarity": 1
+  },
+  {
+    "id": 2209,
+    "cardId": 1396,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2209,
+    "cardRarity": 1
+  },
+  {
+    "id": 2210,
+    "cardId": 1397,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2210,
+    "cardRarity": 1
+  },
+  {
+    "id": 2211,
+    "cardId": 1397,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2211,
+    "cardRarity": 1
+  },
+  {
+    "id": 2212,
+    "cardId": 1397,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2212,
+    "cardRarity": 1
+  },
+  {
+    "id": 2213,
+    "cardId": 1397,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2213,
+    "cardRarity": 1
+  },
+  {
+    "id": 2214,
+    "cardId": 1399,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2214,
+    "cardRarity": 1
+  },
+  {
+    "id": 2215,
+    "cardId": 1399,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2215,
+    "cardRarity": 1
+  },
+  {
+    "id": 2216,
+    "cardId": 1399,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2216,
+    "cardRarity": 1
+  },
+  {
+    "id": 2217,
+    "cardId": 1399,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2217,
+    "cardRarity": 1
+  },
+  {
+    "id": 2218,
+    "cardId": 1400,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2218,
+    "cardRarity": 1
+  },
+  {
+    "id": 2219,
+    "cardId": 1400,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2219,
+    "cardRarity": 1
+  },
+  {
+    "id": 2220,
+    "cardId": 1400,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2220,
+    "cardRarity": 1
+  },
+  {
+    "id": 2221,
+    "cardId": 1400,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2221,
+    "cardRarity": 1
+  },
+  {
+    "id": 2222,
+    "cardId": 1401,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2222,
+    "cardRarity": 1
+  },
+  {
+    "id": 2223,
+    "cardId": 1401,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2223,
+    "cardRarity": 1
+  },
+  {
+    "id": 2224,
+    "cardId": 1401,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2224,
+    "cardRarity": 1
+  },
+  {
+    "id": 2225,
+    "cardId": 1401,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2225,
+    "cardRarity": 1
+  },
+  {
+    "id": 2226,
+    "cardId": 1404,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2226,
+    "cardRarity": 1
+  },
+  {
+    "id": 2227,
+    "cardId": 1404,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2227,
+    "cardRarity": 1
+  },
+  {
+    "id": 2228,
+    "cardId": 1404,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2228,
+    "cardRarity": 1
+  },
+  {
+    "id": 2229,
+    "cardId": 1404,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2229,
+    "cardRarity": 1
+  },
+  {
+    "id": 2230,
+    "cardId": 1405,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2230,
+    "cardRarity": 1
+  },
+  {
+    "id": 2231,
+    "cardId": 1405,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2231,
+    "cardRarity": 1
+  },
+  {
+    "id": 2232,
+    "cardId": 1405,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2232,
+    "cardRarity": 1
+  },
+  {
+    "id": 2233,
+    "cardId": 1405,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2233,
+    "cardRarity": 1
+  },
+  {
+    "id": 2234,
+    "cardId": 1406,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2234,
+    "cardRarity": 1
+  },
+  {
+    "id": 2235,
+    "cardId": 1406,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2235,
+    "cardRarity": 1
+  },
+  {
+    "id": 2236,
+    "cardId": 1406,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2236,
+    "cardRarity": 1
+  },
+  {
+    "id": 2237,
+    "cardId": 1406,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2237,
+    "cardRarity": 1
+  },
+  {
+    "id": 2238,
+    "cardId": 1407,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2238,
+    "cardRarity": 1
+  },
+  {
+    "id": 2239,
+    "cardId": 1407,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2239,
+    "cardRarity": 1
+  },
+  {
+    "id": 2240,
+    "cardId": 1407,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2240,
+    "cardRarity": 1
+  },
+  {
+    "id": 2241,
+    "cardId": 1407,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2241,
+    "cardRarity": 1
+  },
+  {
+    "id": 2242,
+    "cardId": 1408,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2242,
+    "cardRarity": 1
+  },
+  {
+    "id": 2243,
+    "cardId": 1408,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2243,
+    "cardRarity": 1
+  },
+  {
+    "id": 2244,
+    "cardId": 1408,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2244,
+    "cardRarity": 1
+  },
+  {
+    "id": 2245,
+    "cardId": 1408,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2245,
+    "cardRarity": 1
+  },
+  {
+    "id": 2246,
+    "cardId": 1410,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2246,
+    "cardRarity": 1
+  },
+  {
+    "id": 2247,
+    "cardId": 1410,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2247,
+    "cardRarity": 1
+  },
+  {
+    "id": 2248,
+    "cardId": 1410,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2248,
+    "cardRarity": 1
+  },
+  {
+    "id": 2249,
+    "cardId": 1411,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2249,
+    "cardRarity": 1
+  },
+  {
+    "id": 2250,
+    "cardId": 1411,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2250,
+    "cardRarity": 1
+  },
+  {
+    "id": 2251,
+    "cardId": 1411,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2251,
+    "cardRarity": 1
+  },
+  {
+    "id": 2252,
+    "cardId": 1412,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2252,
+    "cardRarity": 1
+  },
+  {
+    "id": 2253,
+    "cardId": 1412,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2253,
+    "cardRarity": 1
+  },
+  {
+    "id": 2254,
+    "cardId": 1412,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2254,
+    "cardRarity": 1
+  },
+  {
+    "id": 2255,
+    "cardId": 1415,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2255,
+    "cardRarity": 1
+  },
+  {
+    "id": 2256,
+    "cardId": 1415,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2256,
+    "cardRarity": 1
+  },
+  {
+    "id": 2257,
+    "cardId": 1415,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2257,
+    "cardRarity": 1
+  },
+  {
+    "id": 2258,
+    "cardId": 1415,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2258,
+    "cardRarity": 1
+  },
+  {
+    "id": 2259,
+    "cardId": 1416,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2259,
+    "cardRarity": 1
+  },
+  {
+    "id": 2260,
+    "cardId": 1416,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2260,
+    "cardRarity": 1
+  },
+  {
+    "id": 2261,
+    "cardId": 1416,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2261,
+    "cardRarity": 1
+  },
+  {
+    "id": 2262,
+    "cardId": 1416,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2262,
+    "cardRarity": 1
+  },
+  {
+    "id": 2263,
+    "cardId": 1417,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2263,
+    "cardRarity": 1
+  },
+  {
+    "id": 2264,
+    "cardId": 1417,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2264,
+    "cardRarity": 1
+  },
+  {
+    "id": 2265,
+    "cardId": 1417,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2265,
+    "cardRarity": 1
+  },
+  {
+    "id": 2266,
+    "cardId": 1417,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2266,
+    "cardRarity": 1
+  },
+  {
+    "id": 2267,
+    "cardId": 1418,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2267,
+    "cardRarity": 1
+  },
+  {
+    "id": 2268,
+    "cardId": 1418,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2268,
+    "cardRarity": 1
+  },
+  {
+    "id": 2269,
+    "cardId": 1418,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2269,
+    "cardRarity": 1
+  },
+  {
+    "id": 2270,
+    "cardId": 1418,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2270,
+    "cardRarity": 1
+  },
+  {
+    "id": 2271,
+    "cardId": 1419,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2271,
+    "cardRarity": 1
+  },
+  {
+    "id": 2272,
+    "cardId": 1419,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2272,
+    "cardRarity": 1
+  },
+  {
+    "id": 2273,
+    "cardId": 1419,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2273,
+    "cardRarity": 1
+  },
+  {
+    "id": 2274,
+    "cardId": 1419,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2274,
+    "cardRarity": 1
+  },
+  {
+    "id": 2275,
+    "cardId": 1422,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2275,
+    "cardRarity": 1
+  },
+  {
+    "id": 2276,
+    "cardId": 1422,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2276,
+    "cardRarity": 1
+  },
+  {
+    "id": 2277,
+    "cardId": 1422,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2277,
+    "cardRarity": 1
+  },
+  {
+    "id": 2278,
+    "cardId": 1423,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2278,
+    "cardRarity": 1
+  },
+  {
+    "id": 2279,
+    "cardId": 1423,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2279,
+    "cardRarity": 1
+  },
+  {
+    "id": 2280,
+    "cardId": 1423,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2280,
+    "cardRarity": 1
+  },
+  {
+    "id": 2281,
+    "cardId": 1424,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2281,
+    "cardRarity": 1
+  },
+  {
+    "id": 2282,
+    "cardId": 1424,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2282,
+    "cardRarity": 1
+  },
+  {
+    "id": 2283,
+    "cardId": 1424,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2283,
+    "cardRarity": 1
+  },
+  {
+    "id": 2284,
+    "cardId": 1428,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2284,
+    "cardRarity": 1
+  },
+  {
+    "id": 2285,
+    "cardId": 1428,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2285,
+    "cardRarity": 1
+  },
+  {
+    "id": 2286,
+    "cardId": 1428,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2286,
+    "cardRarity": 1
+  },
+  {
+    "id": 2287,
+    "cardId": 1428,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2287,
+    "cardRarity": 1
+  },
+  {
+    "id": 2288,
+    "cardId": 1429,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2288,
+    "cardRarity": 1
+  },
+  {
+    "id": 2289,
+    "cardId": 1429,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2289,
+    "cardRarity": 1
+  },
+  {
+    "id": 2290,
+    "cardId": 1429,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2290,
+    "cardRarity": 1
+  },
+  {
+    "id": 2291,
+    "cardId": 1429,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2291,
+    "cardRarity": 1
+  },
+  {
+    "id": 2292,
+    "cardId": 1430,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2292,
+    "cardRarity": 1
+  },
+  {
+    "id": 2293,
+    "cardId": 1430,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2293,
+    "cardRarity": 1
+  },
+  {
+    "id": 2294,
+    "cardId": 1430,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2294,
+    "cardRarity": 1
+  },
+  {
+    "id": 2295,
+    "cardId": 1430,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2295,
+    "cardRarity": 1
+  },
+  {
+    "id": 2296,
+    "cardId": 1431,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2296,
+    "cardRarity": 1
+  },
+  {
+    "id": 2297,
+    "cardId": 1431,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2297,
+    "cardRarity": 1
+  },
+  {
+    "id": 2298,
+    "cardId": 1431,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2298,
+    "cardRarity": 1
+  },
+  {
+    "id": 2299,
+    "cardId": 1431,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2299,
+    "cardRarity": 1
+  },
+  {
+    "id": 2300,
+    "cardId": 1432,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2300,
+    "cardRarity": 1
+  },
+  {
+    "id": 2301,
+    "cardId": 1432,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2301,
+    "cardRarity": 1
+  },
+  {
+    "id": 2302,
+    "cardId": 1432,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2302,
+    "cardRarity": 1
+  },
+  {
+    "id": 2303,
+    "cardId": 1432,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2303,
+    "cardRarity": 1
+  },
+  {
+    "id": 2304,
+    "cardId": 1434,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2304,
+    "cardRarity": 1
+  },
+  {
+    "id": 2305,
+    "cardId": 1434,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2305,
+    "cardRarity": 1
+  },
+  {
+    "id": 2306,
+    "cardId": 1434,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2306,
+    "cardRarity": 1
+  },
+  {
+    "id": 2307,
+    "cardId": 1434,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2307,
+    "cardRarity": 1
+  },
+  {
+    "id": 2308,
+    "cardId": 1435,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2308,
+    "cardRarity": 1
+  },
+  {
+    "id": 2309,
+    "cardId": 1435,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2309,
+    "cardRarity": 1
+  },
+  {
+    "id": 2310,
+    "cardId": 1435,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2310,
+    "cardRarity": 1
+  },
+  {
+    "id": 2311,
+    "cardId": 1435,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2311,
+    "cardRarity": 1
+  },
+  {
+    "id": 2312,
+    "cardId": 1436,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2312,
+    "cardRarity": 1
+  },
+  {
+    "id": 2313,
+    "cardId": 1436,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2313,
+    "cardRarity": 1
+  },
+  {
+    "id": 2314,
+    "cardId": 1436,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2314,
+    "cardRarity": 1
+  },
+  {
+    "id": 2315,
+    "cardId": 1436,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2315,
+    "cardRarity": 1
+  },
+  {
+    "id": 2316,
+    "cardId": 1440,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2316,
+    "cardRarity": 1
+  },
+  {
+    "id": 2317,
+    "cardId": 1440,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2317,
+    "cardRarity": 1
+  },
+  {
+    "id": 2318,
+    "cardId": 1440,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2318,
+    "cardRarity": 1
+  },
+  {
+    "id": 2319,
+    "cardId": 1441,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2319,
+    "cardRarity": 1
+  },
+  {
+    "id": 2320,
+    "cardId": 1441,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2320,
+    "cardRarity": 1
+  },
+  {
+    "id": 2321,
+    "cardId": 1441,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2321,
+    "cardRarity": 1
+  },
+  {
+    "id": 2322,
+    "cardId": 1442,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2322,
+    "cardRarity": 1
+  },
+  {
+    "id": 2323,
+    "cardId": 1442,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2323,
+    "cardRarity": 1
+  },
+  {
+    "id": 2324,
+    "cardId": 1442,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2324,
+    "cardRarity": 1
+  },
+  {
+    "id": 2325,
+    "cardId": 1445,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2325,
+    "cardRarity": 1
+  },
+  {
+    "id": 2326,
+    "cardId": 1445,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2326,
+    "cardRarity": 1
+  },
+  {
+    "id": 2327,
+    "cardId": 1445,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2327,
+    "cardRarity": 1
+  },
+  {
+    "id": 2328,
+    "cardId": 1445,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2328,
+    "cardRarity": 1
+  },
+  {
+    "id": 2329,
+    "cardId": 1446,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2329,
+    "cardRarity": 1
+  },
+  {
+    "id": 2330,
+    "cardId": 1446,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2330,
+    "cardRarity": 1
+  },
+  {
+    "id": 2331,
+    "cardId": 1446,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2331,
+    "cardRarity": 1
+  },
+  {
+    "id": 2332,
+    "cardId": 1446,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2332,
+    "cardRarity": 1
+  },
+  {
+    "id": 2333,
+    "cardId": 1447,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2333,
+    "cardRarity": 1
+  },
+  {
+    "id": 2334,
+    "cardId": 1447,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2334,
+    "cardRarity": 1
+  },
+  {
+    "id": 2335,
+    "cardId": 1447,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2335,
+    "cardRarity": 1
+  },
+  {
+    "id": 2336,
+    "cardId": 1447,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2336,
+    "cardRarity": 1
+  },
+  {
+    "id": 2337,
+    "cardId": 1448,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2337,
+    "cardRarity": 1
+  },
+  {
+    "id": 2338,
+    "cardId": 1448,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2338,
+    "cardRarity": 1
+  },
+  {
+    "id": 2339,
+    "cardId": 1448,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2339,
+    "cardRarity": 1
+  },
+  {
+    "id": 2340,
+    "cardId": 1448,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2340,
+    "cardRarity": 1
+  },
+  {
+    "id": 2341,
+    "cardId": 1449,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2341,
+    "cardRarity": 1
+  },
+  {
+    "id": 2342,
+    "cardId": 1449,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2342,
+    "cardRarity": 1
+  },
+  {
+    "id": 2343,
+    "cardId": 1449,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2343,
+    "cardRarity": 1
+  },
+  {
+    "id": 2344,
+    "cardId": 1449,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2344,
+    "cardRarity": 1
+  },
+  {
+    "id": 2345,
+    "cardId": 1452,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2345,
+    "cardRarity": 1
+  },
+  {
+    "id": 2346,
+    "cardId": 1452,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2346,
+    "cardRarity": 1
+  },
+  {
+    "id": 2347,
+    "cardId": 1452,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2347,
+    "cardRarity": 1
+  },
+  {
+    "id": 2348,
+    "cardId": 1452,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2348,
+    "cardRarity": 1
+  },
+  {
+    "id": 2349,
+    "cardId": 1453,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2349,
+    "cardRarity": 1
+  },
+  {
+    "id": 2350,
+    "cardId": 1453,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2350,
+    "cardRarity": 1
+  },
+  {
+    "id": 2351,
+    "cardId": 1453,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2351,
+    "cardRarity": 1
+  },
+  {
+    "id": 2352,
+    "cardId": 1453,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2352,
+    "cardRarity": 1
+  },
+  {
+    "id": 2353,
+    "cardId": 1454,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2353,
+    "cardRarity": 1
+  },
+  {
+    "id": 2354,
+    "cardId": 1454,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2354,
+    "cardRarity": 1
+  },
+  {
+    "id": 2355,
+    "cardId": 1454,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2355,
+    "cardRarity": 1
+  },
+  {
+    "id": 2356,
+    "cardId": 1454,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2356,
+    "cardRarity": 1
+  },
+  {
+    "id": 2357,
+    "cardId": 1458,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2357,
+    "cardRarity": 1
+  },
+  {
+    "id": 2358,
+    "cardId": 1458,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2358,
+    "cardRarity": 1
+  },
+  {
+    "id": 2359,
+    "cardId": 1458,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2359,
+    "cardRarity": 1
+  },
+  {
+    "id": 2360,
+    "cardId": 1458,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2360,
+    "cardRarity": 1
+  },
+  {
+    "id": 2361,
+    "cardId": 1459,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2361,
+    "cardRarity": 1
+  },
+  {
+    "id": 2362,
+    "cardId": 1459,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2362,
+    "cardRarity": 1
+  },
+  {
+    "id": 2363,
+    "cardId": 1459,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2363,
+    "cardRarity": 1
+  },
+  {
+    "id": 2364,
+    "cardId": 1459,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2364,
+    "cardRarity": 1
+  },
+  {
+    "id": 2365,
+    "cardId": 1460,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2365,
+    "cardRarity": 1
+  },
+  {
+    "id": 2366,
+    "cardId": 1460,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2366,
+    "cardRarity": 1
+  },
+  {
+    "id": 2367,
+    "cardId": 1460,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2367,
+    "cardRarity": 1
+  },
+  {
+    "id": 2368,
+    "cardId": 1460,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2368,
+    "cardRarity": 1
+  },
+  {
+    "id": 2369,
+    "cardId": 1461,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2369,
+    "cardRarity": 1
+  },
+  {
+    "id": 2370,
+    "cardId": 1461,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2370,
+    "cardRarity": 1
+  },
+  {
+    "id": 2371,
+    "cardId": 1461,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2371,
+    "cardRarity": 1
+  },
+  {
+    "id": 2372,
+    "cardId": 1461,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2372,
+    "cardRarity": 1
+  },
+  {
+    "id": 2373,
+    "cardId": 1462,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2373,
+    "cardRarity": 1
+  },
+  {
+    "id": 2374,
+    "cardId": 1462,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2374,
+    "cardRarity": 1
+  },
+  {
+    "id": 2375,
+    "cardId": 1462,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2375,
+    "cardRarity": 1
+  },
+  {
+    "id": 2376,
+    "cardId": 1462,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2376,
+    "cardRarity": 1
+  },
+  {
+    "id": 2377,
+    "cardId": 1463,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2377,
+    "cardRarity": 1
+  },
+  {
+    "id": 2378,
+    "cardId": 1463,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2378,
+    "cardRarity": 1
+  },
+  {
+    "id": 2379,
+    "cardId": 1463,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2379,
+    "cardRarity": 1
+  },
+  {
+    "id": 2380,
+    "cardId": 1463,
+    "masterRank": 2,
+    "seq": 1,
+    "resourceBoxId": 2380,
+    "cardRarity": 1
+  },
+  {
+    "id": 2381,
+    "cardId": 1465,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2381,
+    "cardRarity": 1
+  },
+  {
+    "id": 2382,
+    "cardId": 1465,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2382,
+    "cardRarity": 1
+  },
+  {
+    "id": 2383,
+    "cardId": 1465,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2383,
+    "cardRarity": 1
+  },
+  {
+    "id": 2384,
+    "cardId": 1466,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2384,
+    "cardRarity": 1
+  },
+  {
+    "id": 2385,
+    "cardId": 1466,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2385,
+    "cardRarity": 1
+  },
+  {
+    "id": 2386,
+    "cardId": 1466,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2386,
+    "cardRarity": 1
+  },
+  {
+    "id": 2387,
+    "cardId": 1467,
+    "masterRank": 1,
+    "seq": 1,
+    "resourceBoxId": 2387,
+    "cardRarity": 1
+  },
+  {
+    "id": 2388,
+    "cardId": 1467,
+    "masterRank": 3,
+    "seq": 1,
+    "resourceBoxId": 2388,
+    "cardRarity": 1
+  },
+  {
+    "id": 2389,
+    "cardId": 1467,
+    "masterRank": 5,
+    "seq": 1,
+    "resourceBoxId": 2389,
+    "cardRarity": 1
   }
 ]

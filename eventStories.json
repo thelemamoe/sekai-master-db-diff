@@ -12507,7 +12507,7 @@
     "id": 97,
     "eventId": 97,
     "outline": "サードイベントの凄まじさを受け、本当にRAD WEEKENDを超えられるかもしれないと期待され始めたVivid BAD SQUAD。そんな折、大河から「大事な話がある」と呼び出され——。",
-    "bannerGameCharacterUnitId": 9,
+    "bannerGameCharacterUnitId": 10,
     "assetbundleName": "event_fire_2023",
     "eventStoryEpisodes": [
       {
@@ -26140,6 +26140,2160 @@
           {
             "storyType": "event_story",
             "resourceBoxId": 151
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "eventId": 200,
+    "outline": "修行と休養を終え、次に進むべき道を考え始めるワンダーランズ×ショウタイム。そんな時、かつて映画撮影で関わった大原監督から連絡が。監督はなんと、類に役者としてドラマCMへの出演を希望しており……！？",
+    "bannerGameCharacterUnitId": 16,
+    "assetbundleName": "event_direction_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001619,
+        "eventStoryId": 200,
+        "episodeNo": 1,
+        "title": "道を決めるその前に",
+        "assetbundleName": "event_direction_2026_01",
+        "scenarioId": "event_200_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001620,
+        "eventStoryId": 200,
+        "episodeNo": 2,
+        "title": "ドラマに出るなら",
+        "assetbundleName": "event_direction_2026_02",
+        "scenarioId": "event_200_02",
+        "releaseConditionId": 119901,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001621,
+        "eventStoryId": 200,
+        "episodeNo": 3,
+        "title": "大人の事情",
+        "assetbundleName": "event_direction_2026_03",
+        "scenarioId": "event_200_03",
+        "releaseConditionId": 119902,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001622,
+        "eventStoryId": 200,
+        "episodeNo": 4,
+        "title": "波乱の幕開け？",
+        "assetbundleName": "event_direction_2026_04",
+        "scenarioId": "event_200_04",
+        "releaseConditionId": 119903,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001623,
+        "eventStoryId": 200,
+        "episodeNo": 5,
+        "title": "迫るものを撮るには",
+        "assetbundleName": "event_direction_2026_05",
+        "scenarioId": "event_200_05",
+        "releaseConditionId": 119904,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001624,
+        "eventStoryId": 200,
+        "episodeNo": 6,
+        "title": "生の感情",
+        "assetbundleName": "event_direction_2026_06",
+        "scenarioId": "event_200_06",
+        "releaseConditionId": 119905,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001625,
+        "eventStoryId": 200,
+        "episodeNo": 7,
+        "title": "ファンのために",
+        "assetbundleName": "event_direction_2026_07",
+        "scenarioId": "event_200_07",
+        "releaseConditionId": 119906,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001626,
+        "eventStoryId": 200,
+        "episodeNo": 8,
+        "title": "残照の中で",
+        "assetbundleName": "event_direction_2026_08",
+        "scenarioId": "event_200_08",
+        "releaseConditionId": 119907,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 152
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "eventId": 201,
+    "outline": "RUSH BEATSに向けて、実践を積みながら腕を磨くVivid BAD SQUAD。しかし、杏を中心に言葉の壁に躓いてしまう。焦る中、予選の日は刻一刻と近づき——！？",
+    "bannerGameCharacterUnitId": 10,
+    "assetbundleName": "event_show_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001627,
+        "eventStoryId": 201,
+        "episodeNo": 1,
+        "title": "予選は目前",
+        "assetbundleName": "event_show_2026_01",
+        "scenarioId": "event_201_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001628,
+        "eventStoryId": 201,
+        "episodeNo": 2,
+        "title": "つのる焦燥",
+        "assetbundleName": "event_show_2026_02",
+        "scenarioId": "event_201_02",
+        "releaseConditionId": 120001,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001629,
+        "eventStoryId": 201,
+        "episodeNo": 3,
+        "title": "悔しさをバネに",
+        "assetbundleName": "event_show_2026_03",
+        "scenarioId": "event_201_03",
+        "releaseConditionId": 120002,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001630,
+        "eventStoryId": 201,
+        "episodeNo": 4,
+        "title": "はやる気持ち",
+        "assetbundleName": "event_show_2026_04",
+        "scenarioId": "event_201_04",
+        "releaseConditionId": 120003,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001631,
+        "eventStoryId": 201,
+        "episodeNo": 5,
+        "title": "見えた光明",
+        "assetbundleName": "event_show_2026_05",
+        "scenarioId": "event_201_05",
+        "releaseConditionId": 120004,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001632,
+        "eventStoryId": 201,
+        "episodeNo": 6,
+        "title": "掴んだ音は",
+        "assetbundleName": "event_show_2026_06",
+        "scenarioId": "event_201_06",
+        "releaseConditionId": 120005,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001633,
+        "eventStoryId": 201,
+        "episodeNo": 7,
+        "title": "準備は万端",
+        "assetbundleName": "event_show_2026_07",
+        "scenarioId": "event_201_07",
+        "releaseConditionId": 120006,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001634,
+        "eventStoryId": 201,
+        "episodeNo": 8,
+        "title": "歌を、言葉を",
+        "assetbundleName": "event_show_2026_08",
+        "scenarioId": "event_201_08",
+        "releaseConditionId": 120007,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 153
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "eventId": 202,
+    "outline": "とあるセカイで突如邂逅した一歌、遥、えむ、奏、ミク。お互いのセカイについて話すために集まると、曲作りをしている少女と出会う。だが、その少女はある事情で音楽から離れようとしており……？",
+    "assetbundleName": "event_wl_3rd_part1_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001635,
+        "eventStoryId": 202,
+        "episodeNo": 1,
+        "title": "木の下での出会い",
+        "assetbundleName": "event_wl_3rd_part1_2026_01",
+        "scenarioId": "wl_3rd_group1_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001636,
+        "eventStoryId": 202,
+        "gameCharacterId": 6,
+        "episodeNo": 2,
+        "title": "この手を伸ばして",
+        "assetbundleName": "event_wl_3rd_part1_2026_02",
+        "scenarioId": "wl_3rd_group1_02",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001637,
+        "eventStoryId": 202,
+        "gameCharacterId": 1,
+        "episodeNo": 3,
+        "title": "寄り添うためには",
+        "assetbundleName": "event_wl_3rd_part1_2026_03",
+        "scenarioId": "wl_3rd_group1_03",
+        "releaseConditionId": 120102,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001638,
+        "eventStoryId": 202,
+        "gameCharacterId": 14,
+        "episodeNo": 4,
+        "title": "どこにいても、何をしていても",
+        "assetbundleName": "event_wl_3rd_part1_2026_04",
+        "scenarioId": "wl_3rd_group1_04",
+        "releaseConditionId": 120103,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001639,
+        "eventStoryId": 202,
+        "gameCharacterId": 17,
+        "episodeNo": 5,
+        "title": "乗り越えた先にあるもの",
+        "assetbundleName": "event_wl_3rd_part1_2026_05",
+        "scenarioId": "wl_3rd_group1_05",
+        "releaseConditionId": 120104,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001640,
+        "eventStoryId": 202,
+        "gameCharacterId": 21,
+        "episodeNo": 6,
+        "title": "約束のPasserelle",
+        "assetbundleName": "event_wl_3rd_part1_2026_06",
+        "scenarioId": "wl_3rd_group1_06",
+        "releaseConditionId": 120105,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001641,
+        "eventStoryId": 202,
+        "episodeNo": 7,
+        "title": "終わらない物語",
+        "assetbundleName": "event_wl_3rd_part1_2026_07",
+        "scenarioId": "wl_3rd_group1_07",
+        "releaseConditionId": 120106,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 154
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "eventId": 203,
+    "outline": "忙しさが続く中、事務所からリフレッシュのための休みをもらったLeo\/need。みんなでやりたいことや行きたい場所について相談するうちに、穂波は子供の頃のある記憶を思い出して——。",
+    "bannerGameCharacterUnitId": 3,
+    "assetbundleName": "event_tracingmemories_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001642,
+        "eventStoryId": 203,
+        "episodeNo": 1,
+        "title": "忙しさの裏側で",
+        "assetbundleName": "event_tracingmemories_2026_01",
+        "scenarioId": "event_203_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001643,
+        "eventStoryId": 203,
+        "episodeNo": 2,
+        "title": "最高のオフを！",
+        "assetbundleName": "event_tracingmemories_2026_02",
+        "scenarioId": "event_203_02",
+        "releaseConditionId": 120201,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001644,
+        "eventStoryId": 203,
+        "episodeNo": 3,
+        "title": "出会った頃は",
+        "assetbundleName": "event_tracingmemories_2026_03",
+        "scenarioId": "event_203_03",
+        "releaseConditionId": 120202,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001645,
+        "eventStoryId": 203,
+        "episodeNo": 4,
+        "title": "きっかけ",
+        "assetbundleName": "event_tracingmemories_2026_04",
+        "scenarioId": "event_203_04",
+        "releaseConditionId": 120203,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001646,
+        "eventStoryId": 203,
+        "episodeNo": 5,
+        "title": "小さな大冒険",
+        "assetbundleName": "event_tracingmemories_2026_05",
+        "scenarioId": "event_203_05",
+        "releaseConditionId": 120204,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001647,
+        "eventStoryId": 203,
+        "episodeNo": 6,
+        "title": "いつの間にか",
+        "assetbundleName": "event_tracingmemories_2026_06",
+        "scenarioId": "event_203_06",
+        "releaseConditionId": 120205,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001648,
+        "eventStoryId": 203,
+        "episodeNo": 7,
+        "title": "一番嬉しいこと",
+        "assetbundleName": "event_tracingmemories_2026_07",
+        "scenarioId": "event_203_07",
+        "releaseConditionId": 120206,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001649,
+        "eventStoryId": 203,
+        "episodeNo": 8,
+        "title": "心のままに",
+        "assetbundleName": "event_tracingmemories_2026_08",
+        "scenarioId": "event_203_08",
+        "releaseConditionId": 120207,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 156
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "eventId": 204,
+    "outline": "RUSH BEATSの予選に挑むVivid BAD SQUAD。セカンドステージでも会場を大いに盛り上げ、観客達からはダークホースとして実力が認められる。そんな中、こはね達はとある人物に声をかけられて……？",
+    "bannerGameCharacterUnitId": 9,
+    "assetbundleName": "event_staysolid_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001650,
+        "eventStoryId": 204,
+        "episodeNo": 1,
+        "title": "予選の結果は",
+        "assetbundleName": "event_staysolid_2026_01",
+        "scenarioId": "event_204_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001651,
+        "eventStoryId": 204,
+        "episodeNo": 2,
+        "title": "予想外の申し出",
+        "assetbundleName": "event_staysolid_2026_02",
+        "scenarioId": "event_204_02",
+        "releaseConditionId": 120301,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001652,
+        "eventStoryId": 204,
+        "episodeNo": 3,
+        "title": "それぞれの意見",
+        "assetbundleName": "event_staysolid_2026_03",
+        "scenarioId": "event_204_03",
+        "releaseConditionId": 120302,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001653,
+        "eventStoryId": 204,
+        "episodeNo": 4,
+        "title": "音楽への想い",
+        "assetbundleName": "event_staysolid_2026_04",
+        "scenarioId": "event_204_04",
+        "releaseConditionId": 120303,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001654,
+        "eventStoryId": 204,
+        "episodeNo": 5,
+        "title": "Eagle music",
+        "assetbundleName": "event_staysolid_2026_05",
+        "scenarioId": "event_204_05",
+        "releaseConditionId": 120304,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001655,
+        "eventStoryId": 204,
+        "episodeNo": 6,
+        "title": "視線",
+        "assetbundleName": "event_staysolid_2026_06",
+        "scenarioId": "event_204_06",
+        "releaseConditionId": 120305,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001656,
+        "eventStoryId": 204,
+        "episodeNo": 7,
+        "title": "私達の進み方",
+        "assetbundleName": "event_staysolid_2026_07",
+        "scenarioId": "event_204_07",
+        "releaseConditionId": 120306,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001657,
+        "eventStoryId": 204,
+        "episodeNo": 8,
+        "title": "再会、そして",
+        "assetbundleName": "event_staysolid_2026_08",
+        "scenarioId": "event_204_08",
+        "releaseConditionId": 120307,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 157
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "eventId": 205,
+    "outline": "セカイで出会った志歩、みのり、杏、司、リン、レン。ある想いの欠片をきっかけに、夢を諦めるかどうかの瀬戸際にいる青年と出会う。夢を追う者同士、ひと肌脱ぐことになるが——！？",
+    "assetbundleName": "event_wl_3rd_part2_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001658,
+        "eventStoryId": 205,
+        "episodeNo": 1,
+        "title": "導かれた出会い",
+        "assetbundleName": "event_wl_3rd_part2_2026_01",
+        "scenarioId": "wl_3rd_group2_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001659,
+        "eventStoryId": 205,
+        "gameCharacterId": 5,
+        "episodeNo": 2,
+        "title": "ビシバシポジティブ！",
+        "assetbundleName": "event_wl_3rd_part2_2026_02",
+        "scenarioId": "wl_3rd_group2_02",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001660,
+        "eventStoryId": 205,
+        "gameCharacterId": 22,
+        "episodeNo": 3,
+        "title": "記憶に触れて",
+        "assetbundleName": "event_wl_3rd_part2_2026_03",
+        "scenarioId": "wl_3rd_group2_03",
+        "releaseConditionId": 120402,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001661,
+        "eventStoryId": 205,
+        "gameCharacterId": 4,
+        "episodeNo": 4,
+        "title": "想いと熱",
+        "assetbundleName": "event_wl_3rd_part2_2026_04",
+        "scenarioId": "wl_3rd_group2_04",
+        "releaseConditionId": 120403,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001662,
+        "eventStoryId": 205,
+        "gameCharacterId": 10,
+        "episodeNo": 5,
+        "title": "受け止めて、一緒に",
+        "assetbundleName": "event_wl_3rd_part2_2026_05",
+        "scenarioId": "wl_3rd_group2_05",
+        "releaseConditionId": 120404,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001663,
+        "eventStoryId": 205,
+        "gameCharacterId": 23,
+        "episodeNo": 6,
+        "title": "重なる想い、そして……",
+        "assetbundleName": "event_wl_3rd_part2_2026_06",
+        "scenarioId": "wl_3rd_group2_06",
+        "releaseConditionId": 120405,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001664,
+        "eventStoryId": 205,
+        "gameCharacterId": 13,
+        "episodeNo": 7,
+        "title": "ピンチをチャンスに！",
+        "assetbundleName": "event_wl_3rd_part2_2026_07",
+        "scenarioId": "wl_3rd_group2_07",
+        "releaseConditionId": 120406,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001665,
+        "eventStoryId": 205,
+        "episodeNo": 8,
+        "title": "夢は続く",
+        "assetbundleName": "event_wl_3rd_part2_2026_08",
+        "scenarioId": "wl_3rd_group2_08",
+        "releaseConditionId": 120407,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 158
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "eventId": 206,
+    "outline": "ある日、MORE MORE JUMP！のブライダル配信用衣装を作る手伝いをすることになった瑞希。しかしそんな中、瑞希達は迷子の小鳥と出会う。みんなで探した甲斐あって、どうにか飼い主を見つけることができるが——。",
+    "bannerGameCharacterUnitId": 20,
+    "assetbundleName": "event_edge_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001666,
+        "eventStoryId": 206,
+        "episodeNo": 1,
+        "title": "花嫁さん風衣装を作ろう！",
+        "assetbundleName": "event_edge_2026_01",
+        "scenarioId": "event_206_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001667,
+        "eventStoryId": 206,
+        "episodeNo": 2,
+        "title": "ようこそ小鳥さん",
+        "assetbundleName": "event_edge_2026_02",
+        "scenarioId": "event_206_02",
+        "releaseConditionId": 120501,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001668,
+        "eventStoryId": 206,
+        "episodeNo": 3,
+        "title": "織り成す日々",
+        "assetbundleName": "event_edge_2026_03",
+        "scenarioId": "event_206_03",
+        "releaseConditionId": 120502,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001669,
+        "eventStoryId": 206,
+        "episodeNo": 4,
+        "title": "見つけた手がかり",
+        "assetbundleName": "event_edge_2026_04",
+        "scenarioId": "event_206_04",
+        "releaseConditionId": 120503,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001670,
+        "eventStoryId": 206,
+        "episodeNo": 5,
+        "title": "最後のひと時",
+        "assetbundleName": "event_edge_2026_05",
+        "scenarioId": "event_206_05",
+        "releaseConditionId": 120504,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001671,
+        "eventStoryId": 206,
+        "episodeNo": 6,
+        "title": "キミは静かに",
+        "assetbundleName": "event_edge_2026_06",
+        "scenarioId": "event_206_06",
+        "releaseConditionId": 120505,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001672,
+        "eventStoryId": 206,
+        "episodeNo": 7,
+        "title": "形に",
+        "assetbundleName": "event_edge_2026_07",
+        "scenarioId": "event_206_07",
+        "releaseConditionId": 120506,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001673,
+        "eventStoryId": 206,
+        "episodeNo": 8,
+        "title": "空の向こうでも",
+        "assetbundleName": "event_edge_2026_08",
+        "scenarioId": "event_206_08",
+        "releaseConditionId": 120507,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 160
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "eventId": 207,
+    "outline": "セカイで出会った穂波、雫、こはね、まふゆ、ルカは、色が濁ってしまった想いの欠片を見つける。その欠片が垣間見せた記憶には、『こんな自分、大嫌い』とうつむく少女の姿があって——。",
+    "assetbundleName": "event_wl_3rd_part3_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001674,
+        "eventStoryId": 207,
+        "episodeNo": 1,
+        "title": "思いがけない出会い",
+        "assetbundleName": "event_wl_3rd_part3_2026_01",
+        "scenarioId": "wl_3rd_group3_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001675,
+        "eventStoryId": 207,
+        "gameCharacterId": 24,
+        "episodeNo": 2,
+        "title": "傷だらけの想いを",
+        "assetbundleName": "event_wl_3rd_part3_2026_02",
+        "scenarioId": "wl_3rd_group3_02",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001676,
+        "eventStoryId": 207,
+        "gameCharacterId": 8,
+        "episodeNo": 3,
+        "title": "カメラの向こうで",
+        "assetbundleName": "event_wl_3rd_part3_2026_03",
+        "scenarioId": "wl_3rd_group3_03",
+        "releaseConditionId": 120602,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001677,
+        "eventStoryId": 207,
+        "gameCharacterId": 3,
+        "episodeNo": 4,
+        "title": "重なる痛み",
+        "assetbundleName": "event_wl_3rd_part3_2026_04",
+        "scenarioId": "wl_3rd_group3_04",
+        "releaseConditionId": 120603,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001678,
+        "eventStoryId": 207,
+        "gameCharacterId": 9,
+        "episodeNo": 5,
+        "title": "大事なもの",
+        "assetbundleName": "event_wl_3rd_part3_2026_05",
+        "scenarioId": "wl_3rd_group3_05",
+        "releaseConditionId": 120604,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001679,
+        "eventStoryId": 207,
+        "gameCharacterId": 18,
+        "episodeNo": 6,
+        "title": "小さな変化",
+        "assetbundleName": "event_wl_3rd_part3_2026_06",
+        "scenarioId": "wl_3rd_group3_06",
+        "releaseConditionId": 120605,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001680,
+        "eventStoryId": 207,
+        "episodeNo": 7,
+        "title": "光の中で",
+        "assetbundleName": "event_wl_3rd_part3_2026_07",
+        "scenarioId": "wl_3rd_group3_07",
+        "releaseConditionId": 120606,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 161
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "eventId": 208,
+    "outline": "会議により自分達の公演をやろうと決めたワンダーランズ×ショウタイム。榊の協力で劇場の確保も叶い順調に初日を迎える。しかし公演後榊から「この公演はまだ良くなる。よければ手伝わせてくれない？」と言われ——。",
+    "bannerGameCharacterUnitId": 13,
+    "assetbundleName": "event_monster_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001681,
+        "eventStoryId": 208,
+        "episodeNo": 1,
+        "title": "オレ達の公演を",
+        "assetbundleName": "event_monster_2026_01",
+        "scenarioId": "event_208_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001682,
+        "eventStoryId": 208,
+        "episodeNo": 2,
+        "title": "天国へのパレード",
+        "assetbundleName": "event_monster_2026_02",
+        "scenarioId": "event_208_02",
+        "releaseConditionId": 120701,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001683,
+        "eventStoryId": 208,
+        "episodeNo": 3,
+        "title": "課せられたもの",
+        "assetbundleName": "event_monster_2026_03",
+        "scenarioId": "event_208_03",
+        "releaseConditionId": 120702,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001684,
+        "eventStoryId": 208,
+        "episodeNo": 4,
+        "title": "擦り減る心",
+        "assetbundleName": "event_monster_2026_04",
+        "scenarioId": "event_208_04",
+        "releaseConditionId": 120703,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001685,
+        "eventStoryId": 208,
+        "episodeNo": 5,
+        "title": "記憶の再演",
+        "assetbundleName": "event_monster_2026_05",
+        "scenarioId": "event_208_05",
+        "releaseConditionId": 120704,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001686,
+        "eventStoryId": 208,
+        "episodeNo": 6,
+        "title": "選んだ孤独",
+        "assetbundleName": "event_monster_2026_06",
+        "scenarioId": "event_208_06",
+        "releaseConditionId": 120705,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001687,
+        "eventStoryId": 208,
+        "episodeNo": 7,
+        "title": "胸の奥では",
+        "assetbundleName": "event_monster_2026_07",
+        "scenarioId": "event_208_07",
+        "releaseConditionId": 120706,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001688,
+        "eventStoryId": 208,
+        "episodeNo": 8,
+        "title": "浮上",
+        "assetbundleName": "event_monster_2026_08",
+        "scenarioId": "event_208_08",
+        "releaseConditionId": 120707,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 163
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "eventId": 209,
+    "outline": "続々と新しい仕事が増え続けるMORE MORE JUMP！。そんな中、なんとみのりにとある番組から密着取材の依頼が来る。驚きつつも引き受けるみのりだったが、続いてある大きな仕事のオファーが届いて——！？",
+    "bannerGameCharacterUnitId": 5,
+    "assetbundleName": "event_frontlines_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001689,
+        "eventStoryId": 209,
+        "episodeNo": 1,
+        "title": "お仕事いっぱい！",
+        "assetbundleName": "event_frontlines_2026_01",
+        "scenarioId": "event_209_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001690,
+        "eventStoryId": 209,
+        "episodeNo": 2,
+        "title": "注目のアイドル！？",
+        "assetbundleName": "event_frontlines_2026_02",
+        "scenarioId": "event_209_02",
+        "releaseConditionId": 120801,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001691,
+        "eventStoryId": 209,
+        "episodeNo": 3,
+        "title": "密着取材、開始！",
+        "assetbundleName": "event_frontlines_2026_03",
+        "scenarioId": "event_209_03",
+        "releaseConditionId": 120802,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001692,
+        "eventStoryId": 209,
+        "episodeNo": 4,
+        "title": "食レポにリベンジ！",
+        "assetbundleName": "event_frontlines_2026_04",
+        "scenarioId": "event_209_04",
+        "releaseConditionId": 120803,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001693,
+        "eventStoryId": 209,
+        "episodeNo": 5,
+        "title": "密着は続く",
+        "assetbundleName": "event_frontlines_2026_05",
+        "scenarioId": "event_209_05",
+        "releaseConditionId": 120804,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001694,
+        "eventStoryId": 209,
+        "episodeNo": 6,
+        "title": "一日署長",
+        "assetbundleName": "event_frontlines_2026_06",
+        "scenarioId": "event_209_06",
+        "releaseConditionId": 120805,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001695,
+        "eventStoryId": 209,
+        "episodeNo": 7,
+        "title": "希望を与えるもの",
+        "assetbundleName": "event_frontlines_2026_07",
+        "scenarioId": "event_209_07",
+        "releaseConditionId": 120806,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001696,
+        "eventStoryId": 209,
+        "episodeNo": 8,
+        "title": "未来への軌跡",
+        "assetbundleName": "event_frontlines_2026_08",
+        "scenarioId": "event_209_08",
+        "releaseConditionId": 120807,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 164
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "eventId": 210,
+    "outline": "まふゆが奏の家に戻って以降、ふたりの様子が心配な絵名。今の自分達ができることは何か、と瑞希と話し合い1日でみんなの行きたい場所を巡るプチ旅行をすることになり……？",
+    "bannerGameCharacterUnitId": 19,
+    "assetbundleName": "event_addcolor_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001697,
+        "eventStoryId": 210,
+        "episodeNo": 1,
+        "title": "募るもどかしさ",
+        "assetbundleName": "event_addcolor_2026_01",
+        "scenarioId": "event_210_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001698,
+        "eventStoryId": 210,
+        "episodeNo": 2,
+        "title": "気まぐれ旅行へ！",
+        "assetbundleName": "event_addcolor_2026_02",
+        "scenarioId": "event_210_02",
+        "releaseConditionId": 120901,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001699,
+        "eventStoryId": 210,
+        "episodeNo": 3,
+        "title": "最初の場所は",
+        "assetbundleName": "event_addcolor_2026_03",
+        "scenarioId": "event_210_03",
+        "releaseConditionId": 120902,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001700,
+        "eventStoryId": 210,
+        "episodeNo": 4,
+        "title": "思い出の味",
+        "assetbundleName": "event_addcolor_2026_04",
+        "scenarioId": "event_210_04",
+        "releaseConditionId": 120903,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001701,
+        "eventStoryId": 210,
+        "episodeNo": 5,
+        "title": "まさかの到着地",
+        "assetbundleName": "event_addcolor_2026_05",
+        "scenarioId": "event_210_05",
+        "releaseConditionId": 120904,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001702,
+        "eventStoryId": 210,
+        "episodeNo": 6,
+        "title": "ドタバタアスレチック！",
+        "assetbundleName": "event_addcolor_2026_06",
+        "scenarioId": "event_210_06",
+        "releaseConditionId": 120905,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001703,
+        "eventStoryId": 210,
+        "episodeNo": 7,
+        "title": "茜色のひととき",
+        "assetbundleName": "event_addcolor_2026_07",
+        "scenarioId": "event_210_07",
+        "releaseConditionId": 120906,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001704,
+        "eventStoryId": 210,
+        "episodeNo": 8,
+        "title": "いつか、この気持ちを",
+        "assetbundleName": "event_addcolor_2026_08",
+        "scenarioId": "event_210_08",
+        "releaseConditionId": 120907,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 165
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "eventId": 211,
+    "outline": "セカイで出会った咲希、冬弥、類、瑞希、KAITOは互いに傷つけ合っている２つの想いの欠片に遭遇する。見つけ出した想いの持ち主達も周囲が心配する程のケンカをしており、仲を取り持とうと試みるが——。",
+    "assetbundleName": "event_wl_3rd_part4_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001705,
+        "eventStoryId": 211,
+        "episodeNo": 1,
+        "title": "ぶつかり合う想いの欠片",
+        "assetbundleName": "event_wl_3rd_part4_2026_01",
+        "scenarioId": "wl_3rd_group4_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001706,
+        "eventStoryId": 211,
+        "gameCharacterId": 2,
+        "episodeNo": 2,
+        "title": "もう悔やまないために",
+        "assetbundleName": "event_wl_3rd_part4_2026_02",
+        "scenarioId": "wl_3rd_group4_02",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001707,
+        "eventStoryId": 211,
+        "gameCharacterId": 12,
+        "episodeNo": 3,
+        "title": "イチかバチかの勝負",
+        "assetbundleName": "event_wl_3rd_part4_2026_03",
+        "scenarioId": "wl_3rd_group4_03",
+        "releaseConditionId": 121002,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001708,
+        "eventStoryId": 211,
+        "gameCharacterId": 16,
+        "episodeNo": 4,
+        "title": "虚飾から本心を",
+        "assetbundleName": "event_wl_3rd_part4_2026_04",
+        "scenarioId": "wl_3rd_group4_04",
+        "releaseConditionId": 121003,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001709,
+        "eventStoryId": 211,
+        "gameCharacterId": 20,
+        "episodeNo": 5,
+        "title": "雨のち……",
+        "assetbundleName": "event_wl_3rd_part4_2026_05",
+        "scenarioId": "wl_3rd_group4_05",
+        "releaseConditionId": 121004,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001710,
+        "eventStoryId": 211,
+        "gameCharacterId": 26,
+        "episodeNo": 6,
+        "title": "あとほんの少しの勇気を",
+        "assetbundleName": "event_wl_3rd_part4_2026_06",
+        "scenarioId": "wl_3rd_group4_06",
+        "releaseConditionId": 121005,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001711,
+        "eventStoryId": 211,
+        "episodeNo": 7,
+        "title": "待ち遠しい未来",
+        "assetbundleName": "event_wl_3rd_part4_2026_07",
+        "scenarioId": "wl_3rd_group4_07",
+        "releaseConditionId": 121006,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 166
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "eventId": 212,
+    "outline": "Leo\/needと個人の活動、どちらも順調な一歌。そんな中、バーチャル・シンガーの曲を投稿するイベントに挑戦することに。バンドの新しい仕事も舞い込む中、学校やバンド練習ともなんとか両立しながら、曲作りに励むが——。",
+    "bannerGameCharacterUnitId": 1,
+    "assetbundleName": "event_ofprayer_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001712,
+        "eventStoryId": 212,
+        "episodeNo": 1,
+        "title": "充実した日々",
+        "assetbundleName": "event_ofprayer_2026_01",
+        "scenarioId": "event_212_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001713,
+        "eventStoryId": 212,
+        "episodeNo": 2,
+        "title": "新しい挑戦",
+        "assetbundleName": "event_ofprayer_2026_02",
+        "scenarioId": "event_212_02",
+        "releaseConditionId": 121101,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001714,
+        "eventStoryId": 212,
+        "episodeNo": 3,
+        "title": "両立のために",
+        "assetbundleName": "event_ofprayer_2026_03",
+        "scenarioId": "event_212_03",
+        "releaseConditionId": 121102,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001715,
+        "eventStoryId": 212,
+        "episodeNo": 4,
+        "title": "転機",
+        "assetbundleName": "event_ofprayer_2026_04",
+        "scenarioId": "event_212_04",
+        "releaseConditionId": 121103,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001716,
+        "eventStoryId": 212,
+        "episodeNo": 5,
+        "title": "意外な答え",
+        "assetbundleName": "event_ofprayer_2026_05",
+        "scenarioId": "event_212_05",
+        "releaseConditionId": 121104,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001717,
+        "eventStoryId": 212,
+        "episodeNo": 6,
+        "title": "選択肢を前に",
+        "assetbundleName": "event_ofprayer_2026_06",
+        "scenarioId": "event_212_06",
+        "releaseConditionId": 121105,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001718,
+        "eventStoryId": 212,
+        "episodeNo": 7,
+        "title": "大事にしたいのは",
+        "assetbundleName": "event_ofprayer_2026_07",
+        "scenarioId": "event_212_07",
+        "releaseConditionId": 121106,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001719,
+        "eventStoryId": 212,
+        "episodeNo": 8,
+        "title": "波紋は広がって",
+        "assetbundleName": "event_ofprayer_2026_08",
+        "scenarioId": "event_212_08",
+        "releaseConditionId": 121107,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 168
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "eventId": 213,
+    "outline": "LUMINAグランプリの決勝ステージが開幕し、ついにCheerful＊Daysと対戦することになったMORE MORE JUMP！。グループとしての実力差に悩みながらも、遥は勝機を掴むための方法を探し続けるが——。",
+    "bannerGameCharacterUnitId": 6,
+    "assetbundleName": "event_limits_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001720,
+        "eventStoryId": 213,
+        "episodeNo": 1,
+        "title": "始まりの時",
+        "assetbundleName": "event_limits_2026_01",
+        "scenarioId": "event_213_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001721,
+        "eventStoryId": 213,
+        "episodeNo": 2,
+        "title": "対戦相手",
+        "assetbundleName": "event_limits_2026_02",
+        "scenarioId": "event_213_02",
+        "releaseConditionId": 121201,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001722,
+        "eventStoryId": 213,
+        "episodeNo": 3,
+        "title": "準決勝に向けて",
+        "assetbundleName": "event_limits_2026_03",
+        "scenarioId": "event_213_03",
+        "releaseConditionId": 121202,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001723,
+        "eventStoryId": 213,
+        "episodeNo": 4,
+        "title": "決意を胸に",
+        "assetbundleName": "event_limits_2026_04",
+        "scenarioId": "event_213_04",
+        "releaseConditionId": 121203,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001724,
+        "eventStoryId": 213,
+        "episodeNo": 5,
+        "title": "霧のその先",
+        "assetbundleName": "event_limits_2026_05",
+        "scenarioId": "event_213_05",
+        "releaseConditionId": 121204,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001725,
+        "eventStoryId": 213,
+        "episodeNo": 6,
+        "title": "負けられない理由",
+        "assetbundleName": "event_limits_2026_06",
+        "scenarioId": "event_213_06",
+        "releaseConditionId": 121205,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001726,
+        "eventStoryId": 213,
+        "episodeNo": 7,
+        "title": "迷いの果てに",
+        "assetbundleName": "event_limits_2026_07",
+        "scenarioId": "event_213_07",
+        "releaseConditionId": 121206,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001727,
+        "eventStoryId": 213,
+        "episodeNo": 8,
+        "title": "“信じる”",
+        "assetbundleName": "event_limits_2026_08",
+        "scenarioId": "event_213_08",
+        "releaseConditionId": 121207,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 169
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "eventId": 214,
+    "outline": "セカイで出会った愛莉、彰人、寧々、絵名、MEIKO。出会えたことに驚くもつかの間、なんと想いの欠片に吸い込まれ、モンスターのうろつく不思議な場所に飛ばされてしまい……！？",
+    "assetbundleName": "event_wl_3rd_part5_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001728,
+        "eventStoryId": 214,
+        "episodeNo": 1,
+        "title": "思いがけない光",
+        "assetbundleName": "event_wl_3rd_part5_2026_01",
+        "scenarioId": "wl_3rd_group5_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001729,
+        "eventStoryId": 214,
+        "gameCharacterId": 11,
+        "episodeNo": 2,
+        "title": "決死の冒険",
+        "assetbundleName": "event_wl_3rd_part5_2026_02",
+        "scenarioId": "wl_3rd_group5_02",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001730,
+        "eventStoryId": 214,
+        "gameCharacterId": 15,
+        "episodeNo": 3,
+        "title": "探索ミッション！",
+        "assetbundleName": "event_wl_3rd_part5_2026_03",
+        "scenarioId": "wl_3rd_group5_03",
+        "releaseConditionId": 121302,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001731,
+        "eventStoryId": 214,
+        "gameCharacterId": 25,
+        "episodeNo": 4,
+        "title": "抱きしめた声",
+        "assetbundleName": "event_wl_3rd_part5_2026_04",
+        "scenarioId": "wl_3rd_group5_04",
+        "releaseConditionId": 121303,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001732,
+        "eventStoryId": 214,
+        "gameCharacterId": 19,
+        "episodeNo": 5,
+        "title": "満たされない想いは",
+        "assetbundleName": "event_wl_3rd_part5_2026_05",
+        "scenarioId": "wl_3rd_group5_05",
+        "releaseConditionId": 121304,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001733,
+        "eventStoryId": 214,
+        "gameCharacterId": 7,
+        "episodeNo": 6,
+        "title": "あなたの戦い方",
+        "assetbundleName": "event_wl_3rd_part5_2026_06",
+        "scenarioId": "wl_3rd_group5_06",
+        "releaseConditionId": 121305,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001734,
+        "eventStoryId": 214,
+        "episodeNo": 7,
+        "title": "ここで笑い合える日",
+        "assetbundleName": "event_wl_3rd_part5_2026_07",
+        "scenarioId": "wl_3rd_group5_07",
+        "releaseConditionId": 121306,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 170
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "eventId": 215,
+    "outline": "他のセカイの自分達と出会ったことをきっかけに、もっと色々なバーチャル・シンガー達と仲良くなりたいと考えるストリートのセカイのルカ。どうすれば、みんなが交流できる場を作れるだろうと考えていると——。",
+    "bannerGameCharacterUnitId": 24,
+    "assetbundleName": "event_partytime_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001735,
+        "eventStoryId": 215,
+        "episodeNo": 1,
+        "title": "友達になりたい！",
+        "assetbundleName": "event_partytime_2026_01",
+        "scenarioId": "event_215_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001736,
+        "eventStoryId": 215,
+        "episodeNo": 2,
+        "title": "作戦会議！",
+        "assetbundleName": "event_partytime_2026_02",
+        "scenarioId": "event_215_02",
+        "releaseConditionId": 121401,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001737,
+        "eventStoryId": 215,
+        "episodeNo": 3,
+        "title": "みんなが仲良くなるために",
+        "assetbundleName": "event_partytime_2026_03",
+        "scenarioId": "event_215_03",
+        "releaseConditionId": 121402,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001738,
+        "eventStoryId": 215,
+        "episodeNo": 4,
+        "title": "楽しい気持ちは飾り付けから",
+        "assetbundleName": "event_partytime_2026_04",
+        "scenarioId": "event_215_04",
+        "releaseConditionId": 121403,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001739,
+        "eventStoryId": 215,
+        "episodeNo": 5,
+        "title": "みんなが喜ぶメニューを",
+        "assetbundleName": "event_partytime_2026_05",
+        "scenarioId": "event_215_05",
+        "releaseConditionId": 121404,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001740,
+        "eventStoryId": 215,
+        "episodeNo": 6,
+        "title": "何が何でどれがどれ？",
+        "assetbundleName": "event_partytime_2026_06",
+        "scenarioId": "event_215_06",
+        "releaseConditionId": 121405,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001741,
+        "eventStoryId": 215,
+        "episodeNo": 7,
+        "title": "パーティースタート！",
+        "assetbundleName": "event_partytime_2026_07",
+        "scenarioId": "event_215_07",
+        "releaseConditionId": 121406,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001742,
+        "eventStoryId": 215,
+        "episodeNo": 8,
+        "title": "最後に、届けたい想い",
+        "assetbundleName": "event_partytime_2026_08",
+        "scenarioId": "event_215_08",
+        "releaseConditionId": 121407,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 172
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "eventId": 216,
+    "outline": "RUSH BEATSの予選を突破し、しばらく日本に帰ることになったVivid BAD SQUAD。スレイド達が開いてくれた見送りパーティーで、互いに相棒の話や大会への意気込みを語り、楽しい時間を過ごす彰人達だったが……。",
+    "bannerGameCharacterUnitId": 11,
+    "assetbundleName": "event_afterfire_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001743,
+        "eventStoryId": 216,
+        "episodeNo": 1,
+        "title": "気合いは十分",
+        "assetbundleName": "event_afterfire_2026_01",
+        "scenarioId": "event_216_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001744,
+        "eventStoryId": 216,
+        "episodeNo": 2,
+        "title": "予想外の来訪者達",
+        "assetbundleName": "event_afterfire_2026_02",
+        "scenarioId": "event_216_02",
+        "releaseConditionId": 121501,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001745,
+        "eventStoryId": 216,
+        "episodeNo": 3,
+        "title": "それぞれの相棒",
+        "assetbundleName": "event_afterfire_2026_03",
+        "scenarioId": "event_216_03",
+        "releaseConditionId": 121502,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001746,
+        "eventStoryId": 216,
+        "episodeNo": 4,
+        "title": "あの頃の距離",
+        "assetbundleName": "event_afterfire_2026_04",
+        "scenarioId": "event_216_04",
+        "releaseConditionId": 121503,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001747,
+        "eventStoryId": 216,
+        "episodeNo": 5,
+        "title": "たしかな熱を",
+        "assetbundleName": "event_afterfire_2026_05",
+        "scenarioId": "event_216_05",
+        "releaseConditionId": 121504,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001748,
+        "eventStoryId": 216,
+        "episodeNo": 6,
+        "title": "共鳴する想い",
+        "assetbundleName": "event_afterfire_2026_06",
+        "scenarioId": "event_216_06",
+        "releaseConditionId": 121505,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001749,
+        "eventStoryId": 216,
+        "episodeNo": 7,
+        "title": "混乱",
+        "assetbundleName": "event_afterfire_2026_07",
+        "scenarioId": "event_216_07",
+        "releaseConditionId": 121506,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001750,
+        "eventStoryId": 216,
+        "episodeNo": 8,
+        "title": "疑念",
+        "assetbundleName": "event_afterfire_2026_08",
+        "scenarioId": "event_216_08",
+        "releaseConditionId": 121507,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 173
           }
         ]
       }

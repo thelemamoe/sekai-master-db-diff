@@ -466,5 +466,161 @@
     "eventId": 180,
     "gameCharacterId": 26,
     "costume2dId": 457
+  },
+  {
+    "id": 20201,
+    "eventId": 202,
+    "gameCharacterId": 6,
+    "costume2dId": 392
+  },
+  {
+    "id": 20202,
+    "eventId": 202,
+    "gameCharacterId": 1,
+    "costume2dId": 387
+  },
+  {
+    "id": 20203,
+    "eventId": 202,
+    "gameCharacterId": 14,
+    "costume2dId": 400
+  },
+  {
+    "id": 20204,
+    "eventId": 202,
+    "gameCharacterId": 17,
+    "costume2dId": 403
+  },
+  {
+    "id": 20205,
+    "eventId": 202,
+    "gameCharacterId": 21,
+    "costume2dId": 427
+  },
+  {
+    "id": 20501,
+    "eventId": 205,
+    "gameCharacterId": 5,
+    "costume2dId": 391
+  },
+  {
+    "id": 20502,
+    "eventId": 205,
+    "gameCharacterId": 22,
+    "costume2dId": 433
+  },
+  {
+    "id": 20503,
+    "eventId": 205,
+    "gameCharacterId": 4,
+    "costume2dId": 390
+  },
+  {
+    "id": 20504,
+    "eventId": 205,
+    "gameCharacterId": 10,
+    "costume2dId": 396
+  },
+  {
+    "id": 20505,
+    "eventId": 205,
+    "gameCharacterId": 23,
+    "costume2dId": 439
+  },
+  {
+    "id": 20506,
+    "eventId": 205,
+    "gameCharacterId": 13,
+    "costume2dId": 399
+  },
+  {
+    "id": 20701,
+    "eventId": 207,
+    "gameCharacterId": 3,
+    "costume2dId": 389
+  },
+  {
+    "id": 20702,
+    "eventId": 207,
+    "gameCharacterId": 8,
+    "costume2dId": 394
+  },
+  {
+    "id": 20703,
+    "eventId": 207,
+    "gameCharacterId": 9,
+    "costume2dId": 395
+  },
+  {
+    "id": 20704,
+    "eventId": 207,
+    "gameCharacterId": 18,
+    "costume2dId": 404
+  },
+  {
+    "id": 20705,
+    "eventId": 207,
+    "gameCharacterId": 24,
+    "costume2dId": 445
+  },
+  {
+    "id": 21101,
+    "eventId": 211,
+    "gameCharacterId": 2,
+    "costume2dId": 388
+  },
+  {
+    "id": 21102,
+    "eventId": 211,
+    "gameCharacterId": 12,
+    "costume2dId": 398
+  },
+  {
+    "id": 21103,
+    "eventId": 211,
+    "gameCharacterId": 16,
+    "costume2dId": 402
+  },
+  {
+    "id": 21104,
+    "eventId": 211,
+    "gameCharacterId": 20,
+    "costume2dId": 406
+  },
+  {
+    "id": 21105,
+    "eventId": 211,
+    "gameCharacterId": 26,
+    "costume2dId": 457
+  },
+  {
+    "id": 21401,
+    "eventId": 214,
+    "gameCharacterId": 7,
+    "costume2dId": 393
+  },
+  {
+    "id": 21402,
+    "eventId": 214,
+    "gameCharacterId": 11,
+    "costume2dId": 397
+  },
+  {
+    "id": 21403,
+    "eventId": 214,
+    "gameCharacterId": 15,
+    "costume2dId": 401
+  },
+  {
+    "id": 21404,
+    "eventId": 214,
+    "gameCharacterId": 19,
+    "costume2dId": 405
+  },
+  {
+    "id": 21405,
+    "eventId": 214,
+    "gameCharacterId": 25,
+    "costume2dId": 451
   }
 ]
